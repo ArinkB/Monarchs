@@ -29,7 +29,7 @@ AFF971,Robbie Marshall,"Old Saybrook, CT 09-01-01","03-06-02 Sierra Chincua, MIC
 AAI814,Richard Chyinski,"Madison, CT 09-15-01","03-09-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,2209
 AAI898,Richard Chyinski,"Madison, CT 09-15-01","02-26-02 El Rosario, MICH, MX",Javier Garcia Dominguez,2209
 AAK352,Ruth Gaffey,"Wallingford, CT 08-21-01","03-12-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,2206
-AAI918,CT Butterfly Association,"Madison, CT ?","01-08-02 Sierra Chincua, MICH, MX",Nancy Newman,2205
+AAI918,CT Butterfly Association,"Madison, CT ","01-08-02 Sierra Chincua, MICH, MX",Nancy Newman,2205
 AAD362,Evelyn Detlefsen,"Bethlehem, CT 09-02-01","02-26-02 El Rosario, MICH, MX",Enrique Martinez,2197
 AJD392,Daniel Carmody,"West Haven, CT 09-20-01","02-28-02 El Rosario, MICH, MX",Alejandro Garcia Garcia,2193
 WK449,Daniel Carmody,"West Haven, CT 09-17-98","01-06-02 El Rosario, MICH, MX",Alejandro Gronados,2193
@@ -37,12 +37,12 @@ AAJ592,Richard Julian,"Milford, CT 09-12-01","02-18-02 El Rosario, MICH, MX",Her
 AAJ470,Richard Julian,"Milford, CT 09-02-01","01-20-02 El Rosario, MICH, MX",Carlos D Garcia,2187
 AAS029,Donald Davis,"Belleville, ONT 09-02-01","03-13-02 El Rosario, MICH, MX",Simon Garcia Garcia,2151
 AAS041,Donald Davis,"Belleville, ONT 09-02-01","02-27-02 El Rosario, MICH, MX",Mariana Garcia Garcia,2151
-582MU,Annie Mc Intyre,"Long Island, NY 09-22-99","? El Rosario, MICH, MX",Cathy Wertz,2130
+582MU,Annie Mc Intyre,"Long Island, NY 09-22-99"," El Rosario, MICH, MX",Cathy Wertz,2130
 AIA547,James Kupcho,"West Carteret, NJ 09-19-01","03-03-02 Cerro Pelon, MICH, MX",Marco  Antonio Estrada,2122
 AAN142,Charles Blewett,"Montville, NJ 09-15-01","03-12-02 El Rosario, MICH, MX",Leonardo Garcia Martinez,2118
 AIA612,James Kupcho,"Sewaren, NJ 09-19-01","03-12-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,2109
 AIA387,James Kupcho,"Woodbridge, NJ 09-15-01","03-12-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,2108
-AEL031,Michele Franks,"Hopatcong, NJ ?","03-04-02 El Rosario, MICH, MX",Jose Luis Garcia,2108
+AEL031,Michele Franks,"Hopatcong, NJ ","03-04-02 El Rosario, MICH, MX",Jose Luis Garcia,2108
 AIA257,James Kupcho,"Sewaren, NJ 09-12-01","03-06-02 Sierra Chincua, MICH, MX",Sergio Valdez Martinez,2105
 ADX830,Matthew Douglas,"Agawa Bay, ONT 08-10-01","03-19-02 Sierra Chincua, MICH, MX",Salvador Camacho Rivera,2099
 AAH634,James Ellis,"Scarborough, ONT 09-04-01","01-21-02 El Rosario, MICH, MX",Bernardo Garcia,2063
@@ -141,7 +141,7 @@ ABY115,Julie Clemens,"Willoughby, OH 08-27-01","02-21-02 El Rosario, MICH, MX",H
 AGM749,Geauga Lake District,"Middlefield, OH 09-16-01","02-27-02 Sierra Chincua, MICH, MX",Jose Valdez,1878
 AGN008,Geauga Lake District,"Middlefield, OH 09-10-01","03-01-02 Sierra Chincua, MICH, MX",Victor Valdez,1878
 AGN517,Geauga Lake District,"Middlefield, OH 09-09-01","02-27-02 Sierra Chincua, MICH, MX",Jose Valdez,1878
-ADZ086,Margarette Schmidt,"Alice, ND ?","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1877
+ADZ086,Margarette Schmidt,"Alice, ND ","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1877
 AFT574,Kyle Bradford,"Cleveland, OH 09-07-01","03-03-02 Cerro Pelon, MICH, MX",Melciades Morena,1875
 AFI316,Linda Ferguson,"Pittsburg, PA 09-07-01","02-26-02 El Rosario, MICH, MX",Javier Garcia Dominguez,1872
 ADR865,Nancy Hanson,"Battle Lake, MN 08-15-01","03-08-02 Cerro Pelon, MICH, MX",Kay Kust,1872
@@ -206,7 +206,7 @@ ADT058,Paul Viger,"Campbell, MN 09-05-01","02-21-02 El Rosario, MICH, MX",Antoni
 ADT007,Paul Viger,"Campbell, MN 09-05-01","01-21-02 El Rosario, MICH, MX",Armado Garcia,1838
 ADS959,Paul Viger,"Campbell, MN 09-01-01","03-04-02 El Rosario, MICH, MX",Javier Garcia Dominguez,1838
 ADS923,Paul Viger,"Campbell, MN 08-29-01","03-09-02 El Rosario, MICH, MX",Simon Garcia Garcia,1838
-ADS817,Paul Viger,"Campbell, MN 08-28-01","? El Rosario, MICH, MX",Remedios Tellez,1838
+ADS817,Paul Viger,"Campbell, MN 08-28-01"," El Rosario, MICH, MX",Remedios Tellez,1838
 ADS828,Paul Viger,"Campbell, MN 08-28-01","03-01-02 El Rosario, MICH, MX",Everado Garcia Gonzalez,1838
 ADS756,Paul Viger,"Campbell, MN 08-28-01","02-26-02 El Rosario, MICH, MX",Diego Castro Raiz,1838
 ADS773,Paul Viger,"Campbell, MN 08-28-01","02-11-02 El Rosario, MICH, MX",Diego Castro Raiz,1838
@@ -226,7 +226,7 @@ ADS917,Paul Viger,"Campbell, MN 08-29-01","02-27-02 Sierra Chincua, MICH, MX",Jo
 ADS848,Paul Viger,"Campbell, MN 08-28-01","02-20-02 Sierra Chincua, MICH, MX",Diego Castro Raiz,1834
 ADS695,Paul Viger,"Campbell, MN 08-23-01","03-04-02 Sierra Chincua, MICH, MX",Juventino Martinez,1834
 ADS449,Paul Viger,"Campbell, MN 08-20-01","03-06-02 Sierra Chincua, MICH, MX",Saul Moreno Geronimo,1834
-ACE709,Bev Broersma,"Rockford, MI ?","01-11-02 El Rosario, MICH, MX",Andres Moreno,1833
+ACE709,Bev Broersma,"Rockford, MI ","01-11-02 El Rosario, MICH, MX",Andres Moreno,1833
 YH930,Dana Wloch,"Monroe, MI 09-22-01","01-21-02 El Rosario, MICH, MX",Armado Garcia,1829
 ACF304,Carol & Fred Doornbos,"Montague, MI 08-28-01","03-04-02 El Rosario, MICH, MX",Ismael Garcia Romero,1828
 ACF283,Carol & Fred Doornbos,"Montague, MI 08-27-01","03-01-02 El Rosario, MICH, MX",Daniel Garcia Garcia,1828
@@ -250,7 +250,7 @@ ADJ582,Charles Lawrence Gagnon,"Minneapolis, MN 08-28-01","03-13-02 El Rosario, 
 ADJ485,Charles Lawrence Gagnon,"Minneapolis, MN 08-27-01","03-09-02 El Rosario, MICH, MX",Mariana Garcia Martinez,1793
 ADJ462,Charles Lawrence Gagnon,"Minneapolis, MN 08-26-01","01-24-02 El Rosario, MICH, MX",Mariana Garcia Martinez,1793
 ADJ430,James Gagnon,"Minneapolis, MN 08-18-01","02-28-02 El Rosario, MICH, MX",Simon Garcia Garcia,1793
-ADJ348,Pieter James Gagnon,"Minneapolis, MN ?","02-11-02 El Rosario, MICH, MX",Diego Castro Raiz,1793
+ADJ348,Pieter James Gagnon,"Minneapolis, MN ","02-11-02 El Rosario, MICH, MX",Diego Castro Raiz,1793
 ADJ774,Pieter James Gagnon,"Minneapolis, MN 09-11-01","02-28-02 El Rosario, MICH, MX",Simon Garcia Garcia,1793
 ADJ545,Pieter James Gagnon,"Minneapolis, MN 08-27-01","02-18-02 El Rosario, MICH, MX",Mariana Garcia Martinez,1793
 ADJ335,Pieter James Gagnon,"Minneapolis, MN 08-11-01","02-11-02 El Rosario, MICH, MX",Diego Castro Raiz,1793
@@ -258,7 +258,7 @@ ADK528,Sandburg Middle School,"Golden Valley, MN 10-11-01","02-27-02 El Rosario,
 ADE158,Pam Welisevich,"W St Paul, MN 08-25-01","03-13-02 El Rosario, MICH, MX",Carmen Garcia Martinez,1791
 ADE146,Pam Welisevich,"West St. Paul, MN 08-20-01","01-06-02 El Rosario, MICH, MX",Ruben Gonzalez,1791
 ADC778,Teresa Root,"St. Paul, MN 08-24-01","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1791
-AEA927,Regina Miller,"Port Washington, WI ?","02-26-02 El Rosario, MICH, MX",Javier Garcia Dominguez,1790
+AEA927,Regina Miller,"Port Washington, WI ","02-26-02 El Rosario, MICH, MX",Javier Garcia Dominguez,1790
 ADI274,Joe Druskin’s Class,"Hopkins, MN 08-30-01","02-27-02 El Rosario, MICH, MX",Eduardo Garcia Garcia,1788
 ADH850,Pat Arnold’s Students,"Wayzata, MN 09-18-01","03-04-02 Sierra Chincua, MICH, MX",Benito Vidal Cruz,1786
 ADF083,Babcock & Pasch,"Hastings, MN 08-24-01","03-08-02 El Rosario, MICH, MX",Mariana Garcia Martinez,1783
@@ -289,7 +289,7 @@ ADY685,Myron Zimmer,"Bowdle, SD 09-11-01","02-27-02 Sierra Chincua, MICH, MX",Ja
 ACX109,Adeline Carlsen,"Waukesha, WI 08-30-01","03-03-02 Cerro Pelon, MICH, MX",Melciades Morena,1773
 AGC746,Tom Murphy,"Farmington, MN 09-05-01","02-21-02 El Rosario, MICH, MX",Hugo Garcia,1773
 AGC758,Tom Murphy,"Farmington, MN 09-05-01","02-27-02 Sierra Chincua, MICH, MX",Adulfo Ambrosio Gonzalez,1769
-ADD605,Farmington Elem. School,"Cannon Falls, MN ?","01-20-02 El Rosario, MICH, MX",Carlos D Garcia,1768
+ADD605,Farmington Elem. School,"Cannon Falls, MN ","01-20-02 El Rosario, MICH, MX",Carlos D Garcia,1768
 ADD441,Farmington Elem. School,"Cannon Falls, MN 08-13-01","02-26-02 El Rosario, MICH, MX",Daniel Garcia Garcia,1768
 ADD501,Farmington Elem. School,"Cannon Falls, MN 08-13-01","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1768
 ADD703,Farmington Elem. School,"Cannon Falls, MN 08-13-01","02-16-02 El Rosario, MICH, MX",Diego Castro Raiz,1768
@@ -667,7 +667,7 @@ AHW345,Outdoor Campus,"Sioux Falls, SD 09-06-01","02-26-02 El Rosario, MICH, MX"
 AHW245,Outdoor Campus,"Sioux Falls, SD 09-06-01","02-26-02 El Rosario, MICH, MX",Rojelio Garcia Valencio,1662
 AHW386,Outdoor Campus,"Sioux Falls, SD 09-06-01","02-13-02 El Rosario, MICH, MX",Romero Garcia-Martinez,1662
 AHW219,Outdoor Campus,"Sioux Falls, SD 09-06-01","01-11-02 El Rosario, MICH, MX",Ramiro Garcia Martinez,1662
-AHW750,Outdoor Campus,"Sioux Falls, SD 09-01-01","? El Rosario, MICH, MX",Domingo Gonzalez,1662
+AHW750,Outdoor Campus,"Sioux Falls, SD 09-01-01"," El Rosario, MICH, MX",Domingo Gonzalez,1662
 AHW626,Outdoor Campus,"Sioux Falls, SD 09-01-01","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1662
 AHW635,Outdoor Campus,"Sioux Falls, SD 09-01-01","02-21-02 El Rosario, MICH, MX",Hugo Garcia,1662
 AHZ979,Outdoor Campus,"Sioux Falls, SD 08-29-01","02-26-02 El Rosario, MICH, MX",Rojelio Garcia Valencio,1662
@@ -730,7 +730,7 @@ ADY081,Lana Kullander,"Sioux Falls, SD 09-04-01","02-27-02 Sierra Chincua, MICH,
 AHW223,Outdoor Campus,"Sioux Falls, SD 09-06-01","02-27-02 Sierra Chincua, MICH, MX",Miguel Angel Gonzalez,1657
 AHW964,Outdoor Campus,"Sioux Falls, SD 09-05-01","02-20-02 Sierra Chincua, MICH, MX",Diego Castro Raiz,1657
 AHW392,Outdoor Campus,"Sioux Falls, SD 09-06-01","03-01-02 Sierra Chincua, MICH, MX",Dave Kust,1657
-AHW598,Outdoor Campus,"Sioux Falls, SD 09-01-01","? Sierra Chincua, MICH, MX",Liana Dunbar,1657
+AHW598,Outdoor Campus,"Sioux Falls, SD 09-01-01"," Sierra Chincua, MICH, MX",Liana Dunbar,1657
 AHW722,Outdoor Campus,"Sioux Falls, SD 09-01-01","03-19-02 Sierra Chincua, MICH, MX",Salvador Camacho Rivera,1657
 AHW745,Outdoor Campus,"Sioux Falls, SD 09-01-01","03-08-02 Sierra Chincua, MICH, MX",Diego Castro Raiz,1657
 AHU911,Thea Miller Ryan,"Sioux Falls, SD 08-29-01","02-20-02 Sierra Chincua, MICH, MX",Adolfo Ambrosia Garcia,1657
@@ -761,8 +761,8 @@ ACL036,Sondra Cabell,"Independence, IA 09-14-01","03-11-02 El Rosario, MICH, MX"
 ACK813,Sondra Cabell,"Independence, IA 09-01-01","02-21-02 El Rosario, MICH, MX",Nancy Greig,1649
 ACQ331,Preston Elem.,"Miles, IA 09-11-01","02-27-02 Sierra Chincua, MICH, MX",Miguel Angel Gonzalez,1648
 ACL020,Sondra Cabell,"Jesup, IA 09-12-01","02-27-02 El Rosario, MICH, MX",Eduardo Garcia Garcia,1647
-ACS194,Troy & Michele Olson,"Monticello, IA ?","02-18-02 El Rosario, MICH, MX",Herman Medina,1647
-ACS197,Troy & Michele Olson,"Monticello, IA ?","02-16-02 El Rosario, MICH, MX",Herman Medina,1647
+ACS194,Troy & Michele Olson,"Monticello, IA ","02-18-02 El Rosario, MICH, MX",Herman Medina,1647
+ACS197,Troy & Michele Olson,"Monticello, IA ","02-16-02 El Rosario, MICH, MX",Herman Medina,1647
 ACS297,Troy & Michele Olson,"Monticello, IA 09-10-01","01-18-02 El Rosario, MICH, MX",Armado Garcia,1647
 ACP814,Ann Burns,"Maquoketa, IA 09-11-01","02-13-02 El Rosario, MICH, MX",Romero Garcia-Martinez,1646
 ACP841,Ann Burns,"Maquoketa, IA 09-10-01","03-04-02 El Rosario, MICH, MX",Simon Garcia Garcia,1646
@@ -776,7 +776,7 @@ AIS704,Katie Lane,"Waterloo, IA 09-06-01","03-09-02 El Rosario, MICH, MX",Armand
 ACP770,Ann Burns,"Maquoketa, IA 09-03-01","02-26-02 Sierra Chincua, MICH, MX",Diego Castro Raiz,1642
 AIO521,Donald Vogeler,"Cincinnati, OH 09-08-01","02-27-02 El Rosario, MICH, MX",Alejandro Garcia,1642
 AIO657,Kali Parker,"Clinton, IA 09-12-01","03-12-02 El Rosario, MICH, MX",Jorge Medina,1641
-ACN400,Nick Zirkelbach,"Center Junction, IA ?","02-26-02 El Rosario, MICH, MX",Christobal Garcia Dominguez,1641
+ACN400,Nick Zirkelbach,"Center Junction, IA ","02-26-02 El Rosario, MICH, MX",Christobal Garcia Dominguez,1641
 ACS121,Troy & Michele Olson,"Center Junction, IA 09-11-01","01-18-02 El Rosario, MICH, MX",Carlos Garcia,1641
 ACM464,Sioux Co. Conservation,"Boyden, IA 09-11-01","03-06-02 Sierra Chincua, MICH, MX",Saul Moreno Geronimo,1639
 ACM191,Thomas Schilke,"Waterloo, IA 09-16-01","02-26-02 Sierra Chincua, MICH, MX",Herman Medina,1639
@@ -838,7 +838,7 @@ AHF987,Monica Beitzel,"Davenport, IA 09-03-01","03-13-02 El Rosario, MICH, MX",S
 AIL931,Buena Vista Co. Conservation,"Storm Lake, IA 09-04-01","03-03-02 El Rosario, MICH, MX",Simon Garcia Garcia,1614
 AIE201,Rod Huisman,"Fort Dodge, IA 09-07-01","03-06-02 Sierra Chincua, MICH, MX",Rigerberto Martinez Garcia,1613
 ACK821,Sondra Cabell,"Newhall, IA 09-02-01","02-27-02 Sierra Chincua, MICH, MX",Jose Valdez,1613
-QW464,Amy Sandgren,"Rock Island, IL ?","01-11-02 El Rosario, MICH, MX",Mariana Garcia Garcia,1611
+QW464,Amy Sandgren,"Rock Island, IL ","01-11-02 El Rosario, MICH, MX",Mariana Garcia Garcia,1611
 AHG031,Karen Beitzel,"Davenport, IA 09-04-01","02-27-02 Sierra Chincua, MICH, MX",Miguel Angel Gonzalez,1611
 AHF965,Karen Beitzel,"Davenport, IA 09-03-01","03-01-02 Sierra Chincua, MICH, MX",Eligio Valdez Cruz,1611
 ACB180,Vickie Dykhuizen,"Franklin, WV 09-10-01","01-20-02 El Rosario, MICH, MX",Everando Garcia,1611
@@ -969,7 +969,7 @@ ACJ243,Todd Von Ehwegen,"Des Moines, IA 09-01-01","01-06-02 El Rosario, MICH, MX
 ACI968,Adam Buck,"Des Moines, IA 09-15-01","03-06-02 Sierra Chincua, MICH, MX",Saul Moreno Geronimo,1559
 ACI962,Adam Buck,"Des Moines, IA 09-08-01","03-01-02 Sierra Chincua, MICH, MX",Eligio Valdez Cruz,1559
 ACJ240,Lisa Pleggen Kuhle,"Des Moines, IA 09-01-01","01-06-02 Sierra Chincua, MICH, MX",Victoria Guzmán,1559
-ACT649,Maurice Le Master,"Mt Pleasant, IA ?","02-26-02 El Rosario, MICH, MX",Javier Garcia Dominguez,1559
+ACT649,Maurice Le Master,"Mt Pleasant, IA ","02-26-02 El Rosario, MICH, MX",Javier Garcia Dominguez,1559
 ACT561,Maurice Le Master,"Mt. Pleasant, IA 09-20-01","02-16-02 El Rosario, MICH, MX",Armado Garcia,1559
 ACJ065,Melanie Perry,"Des Moines, IA 09-14-01","02-26-02 Sierra Chincua, MICH, MX",Herman Medina,1559
 AHQ880,Chris Adkins,"Redfield, IA 09-13-01","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1556
@@ -1108,7 +1108,7 @@ AEM412,Candy Surdez,"Sabetha, KS 09-14-01","01-06-02 El Rosario, MICH, MX",Ruben
 AEM360,Sabetha High School,"Sabetha, KS 09-14-01","03-04-02 El Rosario, MICH, MX",Ismael Garcia Romero,1423
 AEM448,Sabetha High School,"Sabetha, KS 09-14-01","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1423
 AEM367,Sabetha High School,"Sabetha, KS 09-14-01","01-20-02 El Rosario, MICH, MX",Everando Garcia,1423
-AFN878,Tonya Stinson,"Marion, IL ?","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1423
+AFN878,Tonya Stinson,"Marion, IL ","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1423
 AEE178,Tonya Stinson,"Marion, IL 09-22-01","02-13-02 El Rosario, MICH, MX",Romero Garcia-Martinez,1423
 AEE252,Tonya Stinson,"Marion, IL 09-17-01","03-13-02 El Rosario, MICH, MX",Simon Garcia Garcia,1423
 AFO189,Tonya Stinson,"Marion, IL 09-17-01","03-12-02 El Rosario, MICH, MX",Veronico Garcia Garcia,1423
@@ -1185,7 +1185,7 @@ AJR446,Terry Callender,"Wamego, KS 09-19-01","03-13-02 El Rosario, MICH, MX",Sim
 AJR124,Terry Callender,"Wamego, KS 09-18-01","03-09-02 El Rosario, MICH, MX",Viviana Cruz Rivas,1370
 AJR179,Terry Callender,"Wamego, KS 09-18-01","01-11-02 El Rosario, MICH, MX",Amado Garcia Garcia,1370
 AJR155,Terry Callender,"Wamego, KS 09-18-01","01-11-02 El Rosario, MICH, MX",Ramiro Garcia Martinez,1370
-621YG,Terry Callender,"Wamego, KS 09-12-01","? El Rosario, MICH, MX",Cathy Wertz,1370
+621YG,Terry Callender,"Wamego, KS 09-12-01"," El Rosario, MICH, MX",Cathy Wertz,1370
 TR403,Terry Callender,"Wamego, KS 08-24-97","01-06-02 El Rosario, MICH, MX",Alberto Gonzalez Garcia,1370
 AJR163,Wamego High School,"Wamego, KS 09-18-01","02-21-02 El Rosario, MICH, MX",Herman Medina,1370
 AEJ132,Allison Palermo,"Olathe, KS 09-17-01","02-11-02 El Rosario, MICH, MX",Diego Castro Raiz,1367
@@ -1256,8 +1256,8 @@ AJY806,Dana Wilson,"Lawrence, KS 09-15-01","02-26-02 El Rosario, MICH, MX",Enriq
 AJX790,Dayle Roussel,"Lawrence, KS 09-15-01","02-21-02 El Rosario, MICH, MX",Nancy Greig,1366
 AIM489,Grossman & Barth,"Lawrence, KS 09-15-01","02-28-02 El Rosario, MICH, MX",Juan Carlos Garcia,1366
 AJY677,Heather York,"Lawrence, KS 09-15-01","02-27-02 El Rosario, MICH, MX",Emerido Garcia,1366
-AGO653,Jennifer Kissinger,? ?,"02-26-02 El Rosario, MICH, MX",Daniel Garcia Garcia,1366
-AGO652,Jennifer Kissinger,? ?,"02-15-02 El Rosario, MICH, MX",Helen Guilbert and Sr. Diego Castro Ruiz,1366
+AGO653,Jennifer Kissinger, ,"02-26-02 El Rosario, MICH, MX",Daniel Garcia Garcia,1366
+AGO652,Jennifer Kissinger, ,"02-15-02 El Rosario, MICH, MX",Helen Guilbert and Sr. Diego Castro Ruiz,1366
 AJZ499,"Jessie Knight, Regina Werthman","Lawrence, KS 09-15-01","03-09-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,1366
 AJZ493,"Jessie Knight, Regina Werthman","Lawrence, KS 09-15-01","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1366
 AJY497,John Thornburg,"Lawrence, KS 09-15-01","01-21-02 El Rosario, MICH, MX",Bernardo Garcia,1366
@@ -1427,7 +1427,7 @@ AGS630,El Dorado Boosters 4-H,"El Dorado, KS 09-22-01","03-09-02 El Rosario, MIC
 AGS581,El Dorado Boosters 4-H,"El Dorado, KS 09-22-01","02-21-02 El Rosario, MICH, MX",Antonio Garcia Garcia,1271
 AGS611,El Dorado Boosters 4-H,"El Dorado, KS 09-22-01","02-11-02 El Rosario, MICH, MX",Diego Castro Raiz,1271
 SE255,Ron Turner,"Andover, KS 08-21-97","01-11-02 El Rosario, MICH, MX",Mariana Garcia Garcia,1259
-AHD840,Great Plains Nature Center,"Wichita, KS ?","02-28-02 El Rosario, MICH, MX",Alejandro Garcia Garcia,1257
+AHD840,Great Plains Nature Center,"Wichita, KS ","02-28-02 El Rosario, MICH, MX",Alejandro Garcia Garcia,1257
 AHD868,Great Plains Nature Center,"Wichita, KS 09-22-01","02-27-02 El Rosario, MICH, MX",Alejandro Garcia,1257
 AHK206,Great Plains Nature Center,"Wichita, KS 09-22-01","01-22-02 El Rosario, MICH, MX",Herman Medina,1257
 PR537,Nancy Mangeri,"Wichita, KS 09-13-97","01-11-02 El Rosario, MICH, MX",Maria del Carmen Perfecto Garcia,1257
@@ -1450,7 +1450,7 @@ AIU337,Robin and Thomas Flowers,"Meade, KS 09-21-01","02-27-02 Sierra Chincua, M
 BR165,Rafe Begley,"Hugoton, KS 09-25-98","01-06-02 El Rosario, MICH, MX",Alejandro Gronados,1211
 AHI785,Simons & Spencer,"Paris, AR 09-29-01","01-20-02 El Rosario, MICH, MX",Simon Garcia,1151
 AHI784,Simons &B1406 Spencer,"Paris, AR 09-29-01","03-13-02 El Rosario, MICH, MX",Simon Garcia Garcia,1151
-318KC,Carol Bricker,"Ft. Smith, AR 09-22-99","? El Rosario, MICH, MX",Cathy Wertz,1143
+318KC,Carol Bricker,"Ft. Smith, AR 09-22-99"," El Rosario, MICH, MX",Cathy Wertz,1143
 AJN090,Ft. Smith Elem. Gifted Program,"Ft. Smith, AR 09-27-01","02-28-02 El Rosario, MICH, MX",Simon Garcia Garcia,1143
 AEY982,David Walker,"Oklahoma City, OK 10-02-01","03-03-02 Cerro Pelon, MICH, MX",Melciades Morena,1120
 AEZ034,David Walker,"Oklahoma City, OK 10-02-01","03-03-02 Cerro Pelon, MICH, MX",Melciades Morena,1120
@@ -1470,50 +1470,50 @@ AEY648,David Walker,"Oklahoma City, OK 09-27-01","02-28-02 El Rosario, MICH, MX"
 AEY644,David Walker,"Oklahoma City, OK 09-27-01","02-26-02 El Rosario, MICH, MX",Javier Garcia Dominguez,1105
 AEY709,David Walker,"Oklahoma City, OK 09-27-01","02-26-02 El Rosario, MICH, MX",Javier Garcia Dominguez,1105
 AEY701,David Walker,"Oklahoma City, OK 09-27-01","02-20-02 El Rosario, MICH, MX",Gloria Garcia Martinez,1105
-AEY711,David Walker,"Oklahoma City, OK 09-27-01","'02-13-02 El Rosario, MICH, MX",Hugo Garcia,1105
-AEY614,David Walker,"Oklahoma City, OK 09-26-01","'02-18-02 El Rosario, MICH, MX",Herman Medina,1105
-AEY580,David Walker,"Oklahoma City, OK 09-25-01","'02-26-02 El Rosario, MICH, MX",Daniel Garcia Garcia,1105
-AEY491,David Walker,"Oklahoma City, OK 09-25-01","'02-13-02 El Rosario, MICH, MX",Mariana Garcia,1105
-AEZ876,Joshua Southerland,"Oklahoma City, OK 10-03-01","'02-20-02 El Rosario, MICH, MX",Diego Castro Raiz,1105
-AEZ864,Joshua Southerland,"Oklahoma City, OK 10-03-01","'01-21-02 El Rosario, MICH, MX",Armado Garcia,1105
-AEZ830,Joshua Southerland,"Oklahoma City, OK 10-03-01","'01-21-02 El Rosario, MICH, MX",Bernardo Garcia,1105
-AEZ561,Joshua Southerland,"Oklahoma City, OK 10-02-01","'03-12-02 El Rosario, MICH, MX",Maria Guadalupe Cruz,1105
-AEZ743,Joshua Southerland,"Oklahoma City, OK 10-02-01","'03-04-02 El Rosario, MICH, MX",Rogelio Garcia,1105
-AEZ752,Joshua Southerland,"Oklahoma City, OK 10-02-01","'02-26-02 El Rosario, MICH, MX",Gary Stell,1105
-AEZ659,Joshua Southerland,"Oklahoma City, OK 10-02-01","'02-11-02 El Rosario, MICH, MX",Diego Castro Raiz,1105
-AEZ713,Joshua Southerland,"Oklahoma City, OK 10-02-01","'01-24-02 El Rosario, MICH, MX",Ramiro Garcia Martinez,1105
-AEZ421,Joshua Southerland,"Oklahoma City, OK 10-01-01","'02-13-02 El Rosario, MICH, MX",Mariana Garcia,1105
-AEZ498,Joshua Southerland,"Oklahoma City, OK 10-01-01","'01-24-02 El Rosario, MICH, MX",Mariana Garcia Martinez,1105
-AJB700,Karen Hill,"Oklahoma City, OK 09-30-01","'03-08-02 El Rosario, MICH, MX",Roberto Garcia,1105
-AJB703,Karen Hill,"Oklahoma City, OK 09-30-01","'02-21-02 El Rosario, MICH, MX",Hugo Garcia,1105
-AHM561,Katherine Starrett,"Oklahoma City, OK 10-04-01","'03-13-02 El Rosario, MICH, MX",Guillermina Martinez Cruz,1105
-AHM331,Katherine Starrett,"Oklahoma City, OK 09-30-01","'03-08-02 El Rosario, MICH, MX",Gerardo Garcia Martinez,1105
-AHM331,Katherine Starrett,"Oklahoma City, OK 09-30-01","'03-08-02 El Rosario, MICH, MX",Gerardo Garcia Martinez,1105
-AHM438,Katherine Starrett,"Oklahoma City, OK 09-30-01","'02-13-02 El Rosario, MICH, MX",Mariana Garcia,1105
-AHM215,Katherine Starrett,"Oklahoma City, OK 09-30-01","'01-21-02 El Rosario, MICH, MX",Bernardo Garcia,1105
-AHN069,N Scott,"Oklahoma City, OK 10-02-01","'03-04-02 El Rosario, MICH, MX",Simon Garcia Garcia,1105
-AHN098,N Scott,"Oklahoma City, OK 10-01-01","'03-13-02 El Rosario, MICH, MX",Armando Garcia Garcia,1105
-AHN073,N Scott,"Oklahoma City, OK 10-01-01","'03-07-02 El Rosario, MICH, MX",Carlos Zaucedo Medina,1105
-AHM685,N Scott,"Oklahoma City, OK 10-01-01","'01-28-02 El Rosario, MICH, MX",Phyliss Mattson,1105
-AHN050,N Scott,"Oklahoma City, OK 09-27-01","'02-26-02 El Rosario, MICH, MX",Gary Stell,1105
-AHN026,N Scott,"Oklahoma City, OK 09-27-01","'02-26-02 El Rosario, MICH, MX",Javier Garcia Dominguez,1105
-AHN000,N Scott,"Oklahoma City, OK 09-27-01","'02-20-02 El Rosario, MICH, MX",Diego Castro Raiz,1105
-AHO550,N Scott,"Oklahoma City, OK 09-26-01","'02-28-02 El Rosario, MICH, MX",Simon Garcia Garcia,1105
-AHO511,N Scott,"Oklahoma City, OK 09-26-01","'02-26-02 El Rosario, MICH, MX",Salvidor Soto Posadas,1105
-AHM775,N Scott,"Oklahoma City, OK 09-26-01","'01-24-02 El Rosario, MICH, MX",Mariana Garcia Martinez,1105
-AHO519,N Scott,"Oklahoma City, OK 09-26-01","'01-21-02 El Rosario, MICH, MX",Armado Garcia,1105
-AHO567,N Scott,"Oklahoma City, OK 09-26-01","'01-11-02 El Rosario, MICH, MX",Amado Garcia Garcia,1105
+AEY711,David Walker,"Oklahoma City, OK 09-27-01","02-13-02 El Rosario, MICH, MX",Hugo Garcia,1105
+AEY614,David Walker,"Oklahoma City, OK 09-26-01","02-18-02 El Rosario, MICH, MX",Herman Medina,1105
+AEY580,David Walker,"Oklahoma City, OK 09-25-01","02-26-02 El Rosario, MICH, MX",Daniel Garcia Garcia,1105
+AEY491,David Walker,"Oklahoma City, OK 09-25-01","02-13-02 El Rosario, MICH, MX",Mariana Garcia,1105
+AEZ876,Joshua Southerland,"Oklahoma City, OK 10-03-01","02-20-02 El Rosario, MICH, MX",Diego Castro Raiz,1105
+AEZ864,Joshua Southerland,"Oklahoma City, OK 10-03-01","01-21-02 El Rosario, MICH, MX",Armado Garcia,1105
+AEZ830,Joshua Southerland,"Oklahoma City, OK 10-03-01","01-21-02 El Rosario, MICH, MX",Bernardo Garcia,1105
+AEZ561,Joshua Southerland,"Oklahoma City, OK 10-02-01","03-12-02 El Rosario, MICH, MX",Maria Guadalupe Cruz,1105
+AEZ743,Joshua Southerland,"Oklahoma City, OK 10-02-01","03-04-02 El Rosario, MICH, MX",Rogelio Garcia,1105
+AEZ752,Joshua Southerland,"Oklahoma City, OK 10-02-01","02-26-02 El Rosario, MICH, MX",Gary Stell,1105
+AEZ659,Joshua Southerland,"Oklahoma City, OK 10-02-01","02-11-02 El Rosario, MICH, MX",Diego Castro Raiz,1105
+AEZ713,Joshua Southerland,"Oklahoma City, OK 10-02-01","01-24-02 El Rosario, MICH, MX",Ramiro Garcia Martinez,1105
+AEZ421,Joshua Southerland,"Oklahoma City, OK 10-01-01","02-13-02 El Rosario, MICH, MX",Mariana Garcia,1105
+AEZ498,Joshua Southerland,"Oklahoma City, OK 10-01-01","01-24-02 El Rosario, MICH, MX",Mariana Garcia Martinez,1105
+AJB700,Karen Hill,"Oklahoma City, OK 09-30-01","03-08-02 El Rosario, MICH, MX",Roberto Garcia,1105
+AJB703,Karen Hill,"Oklahoma City, OK 09-30-01","02-21-02 El Rosario, MICH, MX",Hugo Garcia,1105
+AHM561,Katherine Starrett,"Oklahoma City, OK 10-04-01","03-13-02 El Rosario, MICH, MX",Guillermina Martinez Cruz,1105
+AHM331,Katherine Starrett,"Oklahoma City, OK 09-30-01","03-08-02 El Rosario, MICH, MX",Gerardo Garcia Martinez,1105
+AHM331,Katherine Starrett,"Oklahoma City, OK 09-30-01","03-08-02 El Rosario, MICH, MX",Gerardo Garcia Martinez,1105
+AHM438,Katherine Starrett,"Oklahoma City, OK 09-30-01","02-13-02 El Rosario, MICH, MX",Mariana Garcia,1105
+AHM215,Katherine Starrett,"Oklahoma City, OK 09-30-01","01-21-02 El Rosario, MICH, MX",Bernardo Garcia,1105
+AHN069,N Scott,"Oklahoma City, OK 10-02-01","03-04-02 El Rosario, MICH, MX",Simon Garcia Garcia,1105
+AHN098,N Scott,"Oklahoma City, OK 10-01-01","03-13-02 El Rosario, MICH, MX",Armando Garcia Garcia,1105
+AHN073,N Scott,"Oklahoma City, OK 10-01-01","03-07-02 El Rosario, MICH, MX",Carlos Zaucedo Medina,1105
+AHM685,N Scott,"Oklahoma City, OK 10-01-01","01-28-02 El Rosario, MICH, MX",Phyliss Mattson,1105
+AHN050,N Scott,"Oklahoma City, OK 09-27-01","02-26-02 El Rosario, MICH, MX",Gary Stell,1105
+AHN026,N Scott,"Oklahoma City, OK 09-27-01","02-26-02 El Rosario, MICH, MX",Javier Garcia Dominguez,1105
+AHN000,N Scott,"Oklahoma City, OK 09-27-01","02-20-02 El Rosario, MICH, MX",Diego Castro Raiz,1105
+AHO550,N Scott,"Oklahoma City, OK 09-26-01","02-28-02 El Rosario, MICH, MX",Simon Garcia Garcia,1105
+AHO511,N Scott,"Oklahoma City, OK 09-26-01","02-26-02 El Rosario, MICH, MX",Salvidor Soto Posadas,1105
+AHM775,N Scott,"Oklahoma City, OK 09-26-01","01-24-02 El Rosario, MICH, MX",Mariana Garcia Martinez,1105
+AHO519,N Scott,"Oklahoma City, OK 09-26-01","01-21-02 El Rosario, MICH, MX",Armado Garcia,1105
+AHO567,N Scott,"Oklahoma City, OK 09-26-01","01-11-02 El Rosario, MICH, MX",Amado Garcia Garcia,1105
 AEW731,Pat & Walter Reif,"Norman, OK 10-03-01","03-03-02 Cerro Pelon, MICH, MX",Melciades Morena,1105
 AEW644,Pat & Walter Reif,"Norman, OK 10-02-01","03-03-02 Cerro Pelon, MICH, MX",Melciados Moreno,1105
-AHL481,Robyn Grasmick,"Oklahoma City, OK 09-30-01","'03-13-02 El Rosario, MICH, MX",Guillermina Martinez Cruz,1105
-AHL531,Robyn Grasmick,"Oklahoma City, OK 09-30-01","'03-01-02 El Rosario, MICH, MX",Freddie Valencia,1105
-AHL464,Robyn Grasmick,"Oklahoma City, OK 09-30-01","'02-21-02 El Rosario, MICH, MX",Antonio Garcia Garcia,1105
-AHL526,Robyn Grasmick,"Oklahoma City, OK 09-30-01","'02-21-02 El Rosario, MICH, MX",Antonio Garcia Garcia,1105
-AHL532,Robyn Grasmick,"Oklahoma City, OK 09-30-01","'02-21-02 El Rosario, MICH, MX",Nancy Greig,1105
-AHL528,Robyn Grasmick,"Oklahoma City, OK 09-30-01","'02-20-02 El Rosario, MICH, MX",Diego Castro Raiz,1105
-AHL477,Robyn Grasmick,"Oklahoma City, OK 09-30-01","'02-18-02 El Rosario, MICH, MX",Carlos D Garcia,1105
-AHL117,Robyn Grasmick,"Oklahoma City, OK 09-29-01","'03-13-02 El Rosario, MICH, MX",Guillermina Martinez Cruz,1105
-AHL197,Robyn Grasmick,"Oklahoma City, OK 09-29-01","'03-06-02 El Rosario, MICH, MX",Jose Joaquin Posados,1105
+AHL481,Robyn Grasmick,"Oklahoma City, OK 09-30-01","03-13-02 El Rosario, MICH, MX",Guillermina Martinez Cruz,1105
+AHL531,Robyn Grasmick,"Oklahoma City, OK 09-30-01","03-01-02 El Rosario, MICH, MX",Freddie Valencia,1105
+AHL464,Robyn Grasmick,"Oklahoma City, OK 09-30-01","02-21-02 El Rosario, MICH, MX",Antonio Garcia Garcia,1105
+AHL526,Robyn Grasmick,"Oklahoma City, OK 09-30-01","02-21-02 El Rosario, MICH, MX",Antonio Garcia Garcia,1105
+AHL532,Robyn Grasmick,"Oklahoma City, OK 09-30-01","02-21-02 El Rosario, MICH, MX",Nancy Greig,1105
+AHL528,Robyn Grasmick,"Oklahoma City, OK 09-30-01","02-20-02 El Rosario, MICH, MX",Diego Castro Raiz,1105
+AHL477,Robyn Grasmick,"Oklahoma City, OK 09-30-01","02-18-02 El Rosario, MICH, MX",Carlos D Garcia,1105
+AHL117,Robyn Grasmick,"Oklahoma City, OK 09-29-01","03-13-02 El Rosario, MICH, MX",Guillermina Martinez Cruz,1105
+AHL197,Robyn Grasmick,"Oklahoma City, OK 09-29-01","03-06-02 El Rosario, MICH, MX",Jose Joaquin Posados,1105
 AHL184,Robyn Grasmick,"Oklahoma City, OK 09-29-01","03-06-02 El Rosario, MICH, MX",Eloy Garcia Garcia,1105
 AHL390,Robyn Grasmick,"Oklahoma City, OK 09-29-01","03-01-02 El Rosario, MICH, MX",Everado Garcia Gonzalez,1105
 AHL295,Robyn Grasmick,"Oklahoma City, OK 09-29-01","02-28-02 El Rosario, MICH, MX",Alejandro Garcia Garcia,1105
@@ -1542,9 +1542,9 @@ AHM577,Katherine Starrett,"Oklahoma City, OK 10-04-01","03-04-02 Sierra Chincua,
 AHM867,N Scott,"Oklahoma City, OK 10-02-01","03-19-02 Sierra Chincua, MICH, MX",Salvador Camacho Rivera,1100
 AHM746,N Scott,"Oklahoma City, OK 10-02-01","03-01-02 Sierra Chincua, MICH, MX",Eligio Valdez Cruz,1100
 AHL215,Robyn Grasmick,"Oklahoma City, OK 09-29-01","01-30-02 Sierra Chincua, MICH, MX",Valentine Rendon,1100
-ADX077,Dennis Thurman,"Monticello, AR ?","03-13-02 El Rosario, MICH, MX",Armando Garcia Garcia,1098
-139PR,Dennis Thurman,"Monticello, AR ?","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1098
-ADX093,Dennis Thurman,"Monticello, AR ?","02-18-02 El Rosario, MICH, MX",Mariana Garcia Martinez,1098
+ADX077,Dennis Thurman,"Monticello, AR ","03-13-02 El Rosario, MICH, MX",Armando Garcia Garcia,1098
+139PR,Dennis Thurman,"Monticello, AR ","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1098
+ADX093,Dennis Thurman,"Monticello, AR ","02-18-02 El Rosario, MICH, MX",Mariana Garcia Martinez,1098
 646PP,Jim Edson,"Monticello, AR 10-02-00","01-11-02 El Rosario, MICH, MX",Ruben Gonzalez,1098
 AEW470,Alcott Middle School 6th Graders,"Norman, OK 10-01-01","01-21-02 El Rosario, MICH, MX",Armado Garcia,1090
 AEW495,Alcott Middle School 6th Graders,"Norman, OK 09-29-01","02-26-02 El Rosario, MICH, MX",Enrique Martinez,1090
@@ -1560,7 +1560,7 @@ AEW699,Pat & Walter Reif,"Norman, OK 10-02-01","02-21-02 El Rosario, MICH, MX",A
 AEW526,Pat & Walter Reif,"Norman, OK 10-01-01","02-26-02 El Rosario, MICH, MX",Antonio Garcia Garcia,1090
 AEW532,Pat & Walter Reif,"Norman, OK 10-01-01","02-21-02 El Rosario, MICH, MX",Antonio Garcia Garcia,1090
 AEW542,Pat & Walter Reif,"Norman, OK 10-01-01","02-21-02 El Rosario, MICH, MX",Hugo Garcia,1090
-873TF,Hannah Christian,"Elk City, OK 09-16-00","? El Rosario, MICH, MX",Cathy Wertz,1088
+873TF,Hannah Christian,"Elk City, OK 09-16-00"," El Rosario, MICH, MX",Cathy Wertz,1088
 AEX875,Pat & Walter Reif,"Norman, OK 10-04-01","03-08-02 Sierra Chincua, MICH, MX",Diego Castro Raiz,1085
 AEW617,Pat & Walter Reif,"Norman, OK 10-04-01","02-27-02 Sierra Chincua, MICH, MX",Jose Valdez,1085
 AEX921,Pat & Walter Reif,"Norman, OK 10-04-01","02-26-02 Sierra Chincua, MICH, MX",Herman Medina,1085
@@ -1653,7 +1653,7 @@ AGZ013,Flutter Farm Butterflies,"Winters, TX 09-25-01","03-03-02 Cerro Pelon, MI
 AFL910,Don & Joann Merit,"Midland, TX 10-02-01","02-13-02 El Rosario, MICH, MX",Romero Garcia-Martinez,862
 AHA103,Flutter Farm Butterflies,"Wingate, TX 10-03-01","03-12-02 El Rosario, MICH, MX",Veronico Garcia Garcia,856
 AHA081,Flutter Farm Butterflies,"Wingate, TX 10-03-01","03-01-02 El Rosario, MICH, MX",Carlos Luis Garcia Martinez,856
-AGZ501,Flutter Farm Butterflies,"Wingate, TX ?","03-06-02 Sierra Chincua, MICH, MX",Sergio Valdez Martinez,851
+AGZ501,Flutter Farm Butterflies,"Wingate, TX ","03-06-02 Sierra Chincua, MICH, MX",Sergio Valdez Martinez,851
 AGY940,Dana Guy,"Winters, TX 09-29-01","02-20-02 El Rosario, MICH, MX",Diego Castro Raiz,850
 AGY935,Dana Guy,"Winters, TX 09-29-01","02-18-02 El Rosario, MICH, MX",Herman Medina,850
 AGZ305,Dana Guy,"Winters, TX 09-29-01","02-13-02 El Rosario, MICH, MX",Romero Garcia-Martinez,850
@@ -1701,7 +1701,7 @@ AJO649,William Hill,"San Angelo, TX 09-29-01","01-18-02 El Rosario, MICH, MX",Ar
 AJO339,William Hill,"San Angelo, TX 09-29-01","03-04-02 Sierra Chincua, MICH, MX",Benito Vidal Cruz,810
 AJO663,William Hill,"San Angelo, TX 09-29-01","02-20-02 Sierra Chincua, MICH, MX",Diego Castro Raiz,810
 AFC551,Kay Keen,"Mertzon, TX 10-01-01","02-26-02 El Rosario, MICH, MX",Antonio Garcia Garcia,802
-AFC547,Kay Keen,"Mertzon, TX ?","02-26-02 Sierra Chincua, MICH, MX",Herman Medina,798
+AFC547,Kay Keen,"Mertzon, TX ","02-26-02 Sierra Chincua, MICH, MX",Herman Medina,798
 AFC550,Kay Keen,"Mertzon, TX 09-27-01","03-04-02 Sierra Chincua, MICH, MX",Manuel Valdez Ambrosio,798
 AGW110,Jan Dauphin,"Anahuac, TX 10-28-01","03-12-02 El Rosario, MICH, MX",Jorge Medina,782
 AGW111,Jan Dauphin,"Anahuac, TX 10-28-01","02-26-02 El Rosario, MICH, MX",Enrique Martinez,782
@@ -1714,7 +1714,7 @@ AIR502,Balcones Canyonlands NWR,"Austin, TX 10-14-01","03-09-02 El Rosario, MICH
 AIR431,Balcones Canyonlands NWR,"Austin, TX 10-14-01","02-26-02 El Rosario, MICH, MX",Rojelio Garcia Valencio,753
 AIR576,Balcones Canyonlands NWR,"Austin, TX 10-14-01","02-13-02 El Rosario, MICH, MX",Romero Garcia-Martinez,753
 AIR334,Balcones Canyonlands NWR,"Austin, TX 10-07-01","03-08-02 El Rosario, MICH, MX",Martinez Garcia Martinez,753
-AGX633,Gerry Adair,"Austin, TX 10-14-01","? El Rosario, MICH, MX",Merry Jo Bauer,753
+AGX633,Gerry Adair,"Austin, TX 10-14-01"," El Rosario, MICH, MX",Merry Jo Bauer,753
 AIR590,Balcones Canyonlands NWR,"Austin, TX 10-16-01","03-04-02 Sierra Chincua, MICH, MX",Miguel Angel Martinez Garcia,748
 AIR352,Balcones Canyonlands NWR,"Austin, TX 10-07-01","03-04-02 Sierra Chincua, MICH, MX",Saul Moreno Geronimo,748
 AIR300,Balcones Canyonlands NWR,"Austin, TX 10-06-01","03-01-02 Sierra Chincua, MICH, MX",Eligio Valdez Cruz,748
@@ -1748,7 +1748,7 @@ AFK301,Bea Harrison,"Del Rio, TX 10-03-01","02-21-02 El Rosario, MICH, MX",Anton
 AFK287,Bea Harrison,"Del Rio, TX 10-03-01","01-11-02 El Rosario, MICH, MX",Javier Garcia Dominguez,673
 AGX977,David Larson,"Del Rio, TX 10-03-01","03-08-02 El Rosario, MICH, MX",Mariana Garcia Martinez,673
 985JL,David Larson,"Del Rio, TX 10-14-99","01-11-02 El Rosario, MICH, MX",Alejandro Castro,673
-AGY070,Larson & McEwen,"Del Rio, TX ?","01-21-02 El Rosario, MICH, MX",Romero Garcia,673
+AGY070,Larson & McEwen,"Del Rio, TX ","01-21-02 El Rosario, MICH, MX",Romero Garcia,673
 AGY256,Larson & McEwen,"Del Rio, TX 10-24-01","03-12-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,673
 AGY251,Larson & McEwen,"Del Rio, TX 10-23-01","02-18-02 El Rosario, MICH, MX",Carlos D Garcia,673
 AGY127,Larson & McEwen,"Del Rio, TX 10-12-01","02-28-02 El Rosario, MICH, MX",Simon Garcia Garcia,673
@@ -1788,7 +1788,7 @@ AGY595,Randy Lawrence,"Quemado, TX 10-08-01","01-18-02 El Rosario, MICH, MX",Car
 AGY394,Randy Lawrence,"Quemado, TX 10-06-01","02-28-02 El Rosario, MICH, MX",Simon Garcia Garcia,643
 AGY350,Randy Lawrence,"Quemado, TX 10-06-01","01-28-02 El Rosario, MICH, MX",Sander Wise,643
 AGY690,Carol Cullar,"Eagle Pass, TX 10-09-01","03-03-02 Cerro Pelon, MICH, MX",Marco  Antonio Estrada,642
-AGY589,Randy Lawrence,"Quemado, TX ?","01-22-02 Sierra Chincua, MICH, MX",Jordi Honey-Roses,638
+AGY589,Randy Lawrence,"Quemado, TX ","01-22-02 Sierra Chincua, MICH, MX",Jordi Honey-Roses,638
 AGY650,Randy Lawrence,"Quemado, TX 10-08-01","01-25-02 Sierra Chincua, MICH, MX",Javier Garcia Dominguez,638
 AGY378,Randy Lawrence,"Quemado, TX 10-06-01","02-27-02 Sierra Chincua, MICH, MX",Miguel Morena Ambrosio,638
 AGY381,Randy Lawrence,"Quemado, TX 10-06-01","02-20-02 Sierra Chincua, MICH, MX",Diego Castro Raiz,638
@@ -1802,7 +1802,7 @@ AGY702,Carol Cullar,"Eagle Pass, TX 10-09-01","03-12-02 El Rosario, MICH, MX",Le
 AGY532,Carol Cullar,"Eagle Pass, TX 10-07-01","03-13-02 El Rosario, MICH, MX",Simon Garcia Garcia,626
 AGY542,Carol Cullar,"Eagle Pass, TX 10-07-01","02-28-02 El Rosario, MICH, MX",Daniel Garcia Garcia,626
 AGY538,Carol Cullar,"Eagle Pass, TX 10-07-01","02-26-02 El Rosario, MICH, MX",Christobal Garcia Dominguez,626
-ACO459,Carol Cullar,"Eagle Pass, TX ?","03-04-02 Sierra Chincua, MICH, MX",Eligio Valdez Cruz,621
+ACO459,Carol Cullar,"Eagle Pass, TX ","03-04-02 Sierra Chincua, MICH, MX",Eligio Valdez Cruz,621
 ACO624,Carol Cullar,"Eagle Pass, TX 10-22-01","02-27-02 Sierra Chincua, MICH, MX",Adulfo Ambrosio Gonzalez,621
 ACO523,Carol Cullar,"Eagle Pass, TX 10-19-01","03-04-02 Sierra Chincua, MICH, MX",Geraldo Vidal Martinez,621
 ACO509,Carol Cullar,"Eagle Pass, TX 10-18-01","02-27-02 Sierra Chincua, MICH, MX",Adulfo Ambrosio Gonzalez,621
@@ -1833,7 +1833,7 @@ AAU683,Matt Sprow,"Bolton Landing, NY 10-02-01","11-01-01 Sorrento, ME",Moriarty
 AAI810,CT Butterfly Association,"Madison, CT 09-15-01","11-03-01 Trappe, MD",Tanis Schwaninger,257
 AAG695,Kenneth A. Brett School,"Tamworth, NH 09-10-01","09-25-01 West Islip, NY",Maria Felicia,241
 AAG015,Trevor Jeaurond,"Cornwall, ONT 08-24-01","09-01-01 New Hartford, CT",Sarah Krzynowek,235
-ABZ280,Carol Sutek,"Wooster, OH 08-25-01","? Indianapolis, IN",Dayne Amonette,234
+ABZ280,Carol Sutek,"Wooster, OH 08-25-01"," Indianapolis, IN",Dayne Amonette,234
 AFG179,Robbie Marshall,"Old Saybrook, CT 09-16-01","09-30-01 Stone Harbor, NJ",Dale Watson,200
 AAW795,Eloise Douty,"Loganton, PA 09-28-01","10-18-01 Fredericksburg, VA",Kelly Tivnan,189
 AHA711,Susan Carpenter,"Cabot, VT 09-08-01","09-15-01 Jefferson, NY",Danielle All,176
@@ -1843,7 +1843,7 @@ ABR473,Tristan’s Butterfly Rangers,"Deland, FL 10-20-01","11-04-01 Port Charlo
 AFB785,Jenny Singleton,"Hext, TX 10-06-01","11-06-01 Sheffield, TX",Don & Barbara Wood,137
 AIU392,Rafe Begley,"Hugoton, KS 09-24-01","10-05-01 Panhandle, TX",C.J. Kelly,126
 ABH233,Deborah Chapman,"Herndon, VA 09-21-01","09-23-01 Roseland, VA",Lincoln Brower,121
-AJL944,Alyssa Baltes,"Sauk Rapids, MN 10-04-01","? Frontenac, MN",Jeff Mund,116
+AJL944,Alyssa Baltes,"Sauk Rapids, MN 10-04-01"," Frontenac, MN",Jeff Mund,116
 AAI519,Chris Higley,"Willington, CT 08-12-01","08-22-01 Englewood, NJ",James Dusenberg,112
 ACZ533,Vicki Peterson,"Madison, WI 10-04-01","10-05-01 St. Charles, IL",Greg Weber,97
 ADF522,Steve Connoley,"Williamsport, PA 08-25-01","08-30-01 Mount Wolf, PA",Gladys Blauser,83
@@ -1856,108 +1856,108 @@ AFG073,Robbie Marshall,"Old Saybrook, CT 09-11-01","10-03-01 Milford, CT",Samant
 AAO584,James Kupcho,"Woodbridge, NJ 08-14-01","08-25-01 Spring Lake, NJ",Candace Schroeder,31
 AAQ462,Vincent Corsello,"Lincroft, NJ 09-19-01","10-24-01 Yardville, NJ",Paula Miller,31
 AHY785,James Kupcho,"Sewaren, NJ 10-03-01","10-10-01 Howell, NJ",Elyssa Joy Wrubel,28
-AAL389,Ian Morris,"Wallingford, CT 08-26-01","? Old Lyme, CT",Peter Abare-Brown,27
-AJQ349,Margaret Frick,"El Lago, TX 12-07-01","? Houston, TX",?,25
+AAL389,Ian Morris,"Wallingford, CT 08-26-01"," Old Lyme, CT",Peter Abare-Brown,27
+AJQ349,Margaret Frick,"El Lago, TX 12-07-01"," Houston, TX",,25
 AIZ555,Mr. Bishop’s Class,"Eagan, MN 10-08-01","10-21-01 Cannon falls, MN",Alyssa Heather,25
 AHY611,Joan Zsilavetz,"West Carteret, NJ 10-02-01","10-04-01 Freehold, NJ",Mr & Mrs Arthur McNally,23
 AAK953,Ian Morris,"Wallingford, CT 10-03-01","10-06-01 Milford, CT",Robert Sherwood,20
-ACC528,Gabriela Fritz-Watson,"Muncie, IN 09-02-01","? New Castle, IN",Caleb Jackson,19
+ACC528,Gabriela Fritz-Watson,"Muncie, IN 09-02-01"," New Castle, IN",Caleb Jackson,19
 AIK142,Shari James,"Scottsburg, IN 08-28-01","09-12-01 Salem, IN",Lori Jackson,18
 ADA622,Judy Thoren,"Neenah, WI 09-02-01","09-05-01 Omro, WI",Ann Kuehn,16
-AJN539,Preston Nany,"Addison, TX ?","10-18-01 Garland, TX",James Glasscock,13
+AJN539,Preston Nany,"Addison, TX ","10-18-01 Garland, TX",James Glasscock,13
 ABT107,Sandra Crosser,"Brooksville, FL 10-21-01","10-30-01 Spring Hill, FL",Joseph Hill,11
 ADE045,Beth Sneden,"Mahtomedi, MN 09-28-01","10-03-01 St Paul, MN",Nathan Romero,10
 ADE255,R. Boyd,"Rosemount, MN 10-03-01","10-06-01 Lakeville, MN",Bungert Family,10
-AEB067,?,? ?,"02-13-02 El Rosario, MICH, MX",Hugo Garcia,?
-AGN823,Anne Black-Sinak,? ?,"03-09-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,?
-AGN814,Anne Black-Sinak,? ?,"03-04-02 Sierra Chincua, MICH, MX",Miguel Angel Martinez Garcia,?
-AGN818,Anne Black-Sinak,? ?,"03-01-02 El Rosario, MICH, MX",Daniel Garcia Garcia,?
-AGN817,Anne Black-Sinak,? ?,"02-26-02 Sierra Chincua, MICH, MX",Herman Medina,?
-AGN663,Anne Black-Sinak,? ?,"01-21-02 El Rosario, MICH, MX",Bernardo Garcia,?
-AGN623,Anne Black-Sinak,? ?,"09-27-01 Millington, TN",Crenshaw Plumbing Co.,?
-AGN580,Anne Black-Sinak,? ?,"08-30-01 Rochester, MN",Lily Herbert,?
-AHQ731,Anne Harless,? ?,"11-15-01 Cadillac, MI",Trevor & Ted Oliver,?
-WN400,Beth Key,? ?,"01-06-02 El Rosario, MICH, MX",Alejandro Gronados,?
-AHO283,Bob Melton,? ?,"03-13-02 El Rosario, MICH, MX",Armando Garcia Garcia,?
-AHL042,Bob Melton,? ?,"03-13-02 El Rosario, MICH, MX",Carmen Garcia Martinez,?
-AHM746,Bob Melton,? ?,"03-12-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,?
-AHK626,Bob Melton,? ?,"03-09-02 El Rosario, MICH, MX",Laureano Garcia,?
-AHK966,Bob Melton,? ?,"03-04-02 El Rosario, MICH, MX",Ismael Garcia Romero,?
-AHO270,Bob Melton,? ?,"02-28-02 El Rosario, MICH, MX",Juan Carlos Garcia,?
-AHO586,Bob Melton,? ?,"02-26-02 El Rosario, MICH, MX",Enrique Martinez,?
-AHM989,Bob Melton,? ?,"02-26-02 El Rosario, MICH, MX",Juan Garcia Martinez,?
-AHN952,Bob Melton,? ?,"02-26-02 El Rosario, MICH, MX",Roberta Garcia,?
-AHK954,Bob Melton,? ?,"02-18-02 El Rosario, MICH, MX",Carlos D Garcia,?
-AHM954,Bob Melton,? ?,"02-13-02 El Rosario, MICH, MX",Romero Garcia Martinez,?
-AHM911,Bob Melton,? ?,"02-11-02 El Rosario, MICH, MX",Herman Medina,?
-AHK612,Bob Melton,? ?,"01-21-02 El Rosario, MICH, MX",Carlos D Garcia,?
-AHL048,Bob Melton,? ?,"01-20-02 El Rosario, MICH, MX",Carlos D Garcia,?
-AHO234,Bob Melton,? ?,"01-06-02 El Rosario, MICH, MX",Ruben Gonzalez,?
-AHN162,Bob Melton,? ?,"10-04-01 Oklahoma City, OK",Putnam City High School,?
-AHI826,Carol Bricker,? ?,"01-21-02 El Rosario, MICH, MX",Armado Garcia,?
-AIM545,Dave Clermont,? ?,"09-19-01 Haverhill, MA",Mrs Quinn,?
-AJP018,David Powell,? ?,"03-12-02 El Rosario, MICH, MX",Simon Garcia Garcia,?
-AJO992,David Powell,? ?,"03-09-02 El Rosario, MICH, MX",Jorge Medina,?
-AJP050,David Powell,?,"03-04-02 Sierra Chincua, MICH, MX",Juventino Martinez,?
-AEZ410,Deb Williams,?,"02-13-02 El Rosario, MICH, MX",Mariana Garcia,?
-AFD764,Deborah Payne,?,"09-01-01 Joliet, IL",Rachel Bujalski,?
-831IW,Dennis Scholl,?,"01-21-02 El Rosario, MICH, MX",Armado Garcia,?
-ACE976,Diann Baer,?,"01-06-02 El Rosario, MICH, MX",Ruben Gonzalez,?
-AAM530,Don Cook,?,"11-05-01 Brooklyn, NY",T Unger,?
-AHR665,Erik Wild,?,"03-01-02 El Rosario, MICH, MX",Daniel Garcia Garcia,?
-182US,Foy/Carpenter,?,"10-07-01 Verona, WI",Mr. & Mrs. Steven  Carrola,?
-SM450,Gayan Stanley,?,"03-06-02 El Rosario, MICH, MX",Jose Joaquin Posados,?
-AIN925,Gayla Munoz,?,"02-13-02 El Rosario, MICH, MX",Mariana Garcia,?
-AIM194,Jeremy Huxman,?,"02-11-02 El Rosario, MICH, MX",Diego Castro Raiz,?
-ACH046,Joe Mohr,?,"03-12-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,?
-ACH036,Joe Mohr,?,"02-27-02 El Rosario, MICH, MX",Emerido Garcia,?
-ACH034,Joe Mohr,?,"01-21-02 El Rosario, MICH, MX",Bernardo Garcia,?
-ABL967,Judy Carson,?,"03-12-02 El Rosario, MICH, MX",Simon Garcia Garcia,?
-565PL,Keith Labnow,?,"08-03-01 Portal, AZ",SW  Research Station,?
-MI366,Ken Brown,?,"03-06-02 El Rosario, MICH, MX",Jose Joaquin Posados,?
-MI361,Ken Brown,?,"11-15-01 Saltillo, MX",Arturo Portillo,?
-AIP885,Kurk Wiedel,?,"03-13-02 El Rosario, MICH, MX",Carmen Garcia Martinez,?
-AIP929,Kurk Wiedel,?,"03-12-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,?
-AIP936,Kurk Wiedel,?,"03-09-02 El Rosario, MICH, MX",Jorge Medina,?
-AIP903,Kurk Wiedel,?,"03-09-02 El Rosario, MICH, MX",Simon Garcia Garcia,?
-SD297,Loretta Hogg,?,"03-06-02 Sierra Chincua, MICH, MX",Sergio Valdez Martinez,?
-AIT382,Marsha Samson,?,"09-13-01 Devils Lake, ND",Joshua Bussard,?
-AJH973,Marty Birrell,?,"03-13-02 El Rosario, MICH, MX",Carmen Garcia Martinez,?
-633MY,Marty Birrell,?,"03-04-02 El Rosario, MICH, MX",Rogelio Garcia,?
-AJH966,Marty Birrell,?,"02-21-02 El Rosario, MICH, MX",Hugo Garcia,?
-AJH937,Marty Birrell,?,"01-21-02 El Rosario, MICH, MX",Romero Garcia,?
-AJI016,Marty Birrell,?,"01-20-02 El Rosario, MICH, MX",Simon Garcia,?
-AJI003,Marty Birrell,?,"01-11-02 El Rosario, MICH, MX",Ramiro Garcia Martinez,?
-AGW929,Mary Kennedy,?,"03-09-02 El Rosario, MICH, MX",Simon Garcia Garcia,?
-AGW790,Mary Kennedy,?,"03-04-02 El Rosario, MICH, MX",Rogelio Garcia,?
-AGW930,Mary Kennedy,?,"03-03-02 Cerro Pelon, MICH, MX",Melciades Morena,?
-AGW934,Mary Kennedy,?,"02-28-02 El Rosario, MICH, MX",Juan Carlos Garcia,?
-AGW770,Mary Kennedy,?,"02-26-02 El Rosario, MICH, MX",Roberta Garcia,?
-AGW769,Mary Kennedy,?,"02-11-02 El Rosario, MICH, MX",Diego Castro Raiz,?
-151TI,Mary Kennedy,?,"01-11-02 El Rosario, MICH, MX",Mariana Garcia Garcia,?
-ADR037,Mary Kuchenreuther,?,"03-09-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,?
-ADQ847,Mary Kuchenreuther,?,"03-06-02 Sierra Chincua, MICH, MX",Cinzia Federici,?
-ADQ804,Mary Kuchenreuther,?,"03-03-02 Cerro Pelon, MICH, MX",Marco  Antonio Estrada,?
-ADQ805,Mary Kuchenreuther,?,"03-03-02 Cerro Pelon, MICH, MX",Melciades Morena,?
-ADQ872,Mary Kuchenreuther,?,"02-26-02 El Rosario, MICH, MX",Daniel Gonzalez,?
-ADQ660,Mary Kuchenreuther,?,"02-26-02 El Rosario, MICH, MX",Javier Garcia Dominguez,?
-ADQ670,Mary Kuchenreuther,?,"02-26-02 El Rosario, MICH, MX",Christobol Garcia Dominguez,?
-ADQ784,Mary Kuchenreuther,?,"02-21-02 El Rosario, MICH, MX",Herman Medina,?
-ADQ962,Mary Kuchenreuther,?,"02-21-02 El Rosario, MICH, MX",Herman Medina,?
-ADR102,Mary Kuchenreuther,?,"02-21-02 El Rosario, MICH, MX",Hugo  Garcia,?
-ADQ844,Mary Kuchenreuther,?,"01-20-02 El Rosario, MICH, MX",Simon Garcia,?
-AJZ789,Mary Mc Coy,?,"02-20-02 El Rosario, MICH, MX",Gloria Garcia Martinez,?
-AIA777,Medford Leas,?,"03-04-02 Sierra Chincua, MICH, MX",Eligio Valdez Cruz,?
-AFT563,Pat Owen,?,"04-06-02 El Rosario, MICH, MX",Richard Hodgman,?
-AEJ475,Paula Donham,?,"03-08-02 El Rosario, MICH, MX",Mariana Garcia Martinez,?
-AEJ275,Paula Donham,?,"03-03-02 Cerro Pelon, MICH, MX",Melciades Morena,?
-AEI871,Paula Donham,?,"03-03-02 Cerro Pelon, MICH, MX",Melciados Moreno,?
-AHK396,Randy Davis,?,"03-04-02 El Rosario, MICH, MX",Javier Garcia Dominguez,?
-AHK371,Randy Davis,?,"02-13-02 El Rosario, MICH, MX",Hugo Garcia,?
-AEP223,Richard Rubino,?,"02-21-02 El Rosario, MICH, MX",Nancy Greig,?
-681HK,Rita Berns,?,"01-09-02 Sierra Chincua, MICH, MX",Arnulfo Gonsalez,?
-ADE225,Roxanne Schallinger,?,"10-06-01 Lakeville, MN",Gary Bungert,?
-ABW153,Sharon Shrum,?,"03-08-02 Sierra Chincua, MICH, MX",Juventino Martinez,?
-AJA875,Shawna Robbins,?,"02-26-02 El Rosario, MICH, MX",Daniel Garcia Garcia,?
-ADR234,Susan Flynn,?,"02-26-02 El Rosario, MICH, MX",Roberta Garcia,?
-AAG669,Wendy Nolin,?,"09-16-01 Guilford, CT",Tom Spiner,?
+AEB067,, ,"02-13-02 El Rosario, MICH, MX",Hugo Garcia,
+AGN823,Anne Black-Sinak, ,"03-09-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,
+AGN814,Anne Black-Sinak, ,"03-04-02 Sierra Chincua, MICH, MX",Miguel Angel Martinez Garcia,
+AGN818,Anne Black-Sinak, ,"03-01-02 El Rosario, MICH, MX",Daniel Garcia Garcia,
+AGN817,Anne Black-Sinak, ,"02-26-02 Sierra Chincua, MICH, MX",Herman Medina,
+AGN663,Anne Black-Sinak, ,"01-21-02 El Rosario, MICH, MX",Bernardo Garcia,
+AGN623,Anne Black-Sinak, ,"09-27-01 Millington, TN",Crenshaw Plumbing Co.,
+AGN580,Anne Black-Sinak, ,"08-30-01 Rochester, MN",Lily Herbert,
+AHQ731,Anne Harless, ,"11-15-01 Cadillac, MI",Trevor & Ted Oliver,
+WN400,Beth Key, ,"01-06-02 El Rosario, MICH, MX",Alejandro Gronados,
+AHO283,Bob Melton, ,"03-13-02 El Rosario, MICH, MX",Armando Garcia Garcia,
+AHL042,Bob Melton, ,"03-13-02 El Rosario, MICH, MX",Carmen Garcia Martinez,
+AHM746,Bob Melton, ,"03-12-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,
+AHK626,Bob Melton, ,"03-09-02 El Rosario, MICH, MX",Laureano Garcia,
+AHK966,Bob Melton, ,"03-04-02 El Rosario, MICH, MX",Ismael Garcia Romero,
+AHO270,Bob Melton, ,"02-28-02 El Rosario, MICH, MX",Juan Carlos Garcia,
+AHO586,Bob Melton, ,"02-26-02 El Rosario, MICH, MX",Enrique Martinez,
+AHM989,Bob Melton, ,"02-26-02 El Rosario, MICH, MX",Juan Garcia Martinez,
+AHN952,Bob Melton, ,"02-26-02 El Rosario, MICH, MX",Roberta Garcia,
+AHK954,Bob Melton, ,"02-18-02 El Rosario, MICH, MX",Carlos D Garcia,
+AHM954,Bob Melton, ,"02-13-02 El Rosario, MICH, MX",Romero Garcia Martinez,
+AHM911,Bob Melton, ,"02-11-02 El Rosario, MICH, MX",Herman Medina,
+AHK612,Bob Melton, ,"01-21-02 El Rosario, MICH, MX",Carlos D Garcia,
+AHL048,Bob Melton, ,"01-20-02 El Rosario, MICH, MX",Carlos D Garcia,
+AHO234,Bob Melton, ,"01-06-02 El Rosario, MICH, MX",Ruben Gonzalez,
+AHN162,Bob Melton, ,"10-04-01 Oklahoma City, OK",Putnam City High School,
+AHI826,Carol Bricker, ,"01-21-02 El Rosario, MICH, MX",Armado Garcia,
+AIM545,Dave Clermont, ,"09-19-01 Haverhill, MA",Mrs Quinn,
+AJP018,David Powell, ,"03-12-02 El Rosario, MICH, MX",Simon Garcia Garcia,
+AJO992,David Powell, ,"03-09-02 El Rosario, MICH, MX",Jorge Medina,
+AJP050,David Powell,,"03-04-02 Sierra Chincua, MICH, MX",Juventino Martinez,
+AEZ410,Deb Williams,,"02-13-02 El Rosario, MICH, MX",Mariana Garcia,
+AFD764,Deborah Payne,,"09-01-01 Joliet, IL",Rachel Bujalski,
+831IW,Dennis Scholl,,"01-21-02 El Rosario, MICH, MX",Armado Garcia,
+ACE976,Diann Baer,,"01-06-02 El Rosario, MICH, MX",Ruben Gonzalez,
+AAM530,Don Cook,,"11-05-01 Brooklyn, NY",T Unger,
+AHR665,Erik Wild,,"03-01-02 El Rosario, MICH, MX",Daniel Garcia Garcia,
+182US,Foy/Carpenter,,"10-07-01 Verona, WI",Mr. & Mrs. Steven  Carrola,
+SM450,Gayan Stanley,,"03-06-02 El Rosario, MICH, MX",Jose Joaquin Posados,
+AIN925,Gayla Munoz,,"02-13-02 El Rosario, MICH, MX",Mariana Garcia,
+AIM194,Jeremy Huxman,,"02-11-02 El Rosario, MICH, MX",Diego Castro Raiz,
+ACH046,Joe Mohr,,"03-12-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,
+ACH036,Joe Mohr,,"02-27-02 El Rosario, MICH, MX",Emerido Garcia,
+ACH034,Joe Mohr,,"01-21-02 El Rosario, MICH, MX",Bernardo Garcia,
+ABL967,Judy Carson,,"03-12-02 El Rosario, MICH, MX",Simon Garcia Garcia,
+565PL,Keith Labnow,,"08-03-01 Portal, AZ",SW  Research Station,
+MI366,Ken Brown,,"03-06-02 El Rosario, MICH, MX",Jose Joaquin Posados,
+MI361,Ken Brown,,"11-15-01 Saltillo, MX",Arturo Portillo,
+AIP885,Kurk Wiedel,,"03-13-02 El Rosario, MICH, MX",Carmen Garcia Martinez,
+AIP929,Kurk Wiedel,,"03-12-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,
+AIP936,Kurk Wiedel,,"03-09-02 El Rosario, MICH, MX",Jorge Medina,
+AIP903,Kurk Wiedel,,"03-09-02 El Rosario, MICH, MX",Simon Garcia Garcia,
+SD297,Loretta Hogg,,"03-06-02 Sierra Chincua, MICH, MX",Sergio Valdez Martinez,
+AIT382,Marsha Samson,,"09-13-01 Devils Lake, ND",Joshua Bussard,
+AJH973,Marty Birrell,,"03-13-02 El Rosario, MICH, MX",Carmen Garcia Martinez,
+633MY,Marty Birrell,,"03-04-02 El Rosario, MICH, MX",Rogelio Garcia,
+AJH966,Marty Birrell,,"02-21-02 El Rosario, MICH, MX",Hugo Garcia,
+AJH937,Marty Birrell,,"01-21-02 El Rosario, MICH, MX",Romero Garcia,
+AJI016,Marty Birrell,,"01-20-02 El Rosario, MICH, MX",Simon Garcia,
+AJI003,Marty Birrell,,"01-11-02 El Rosario, MICH, MX",Ramiro Garcia Martinez,
+AGW929,Mary Kennedy,,"03-09-02 El Rosario, MICH, MX",Simon Garcia Garcia,
+AGW790,Mary Kennedy,,"03-04-02 El Rosario, MICH, MX",Rogelio Garcia,
+AGW930,Mary Kennedy,,"03-03-02 Cerro Pelon, MICH, MX",Melciades Morena,
+AGW934,Mary Kennedy,,"02-28-02 El Rosario, MICH, MX",Juan Carlos Garcia,
+AGW770,Mary Kennedy,,"02-26-02 El Rosario, MICH, MX",Roberta Garcia,
+AGW769,Mary Kennedy,,"02-11-02 El Rosario, MICH, MX",Diego Castro Raiz,
+151TI,Mary Kennedy,,"01-11-02 El Rosario, MICH, MX",Mariana Garcia Garcia,
+ADR037,Mary Kuchenreuther,,"03-09-02 El Rosario, MICH, MX",Juan Carlos Garcia Garcia,
+ADQ847,Mary Kuchenreuther,,"03-06-02 Sierra Chincua, MICH, MX",Cinzia Federici,
+ADQ804,Mary Kuchenreuther,,"03-03-02 Cerro Pelon, MICH, MX",Marco  Antonio Estrada,
+ADQ805,Mary Kuchenreuther,,"03-03-02 Cerro Pelon, MICH, MX",Melciades Morena,
+ADQ872,Mary Kuchenreuther,,"02-26-02 El Rosario, MICH, MX",Daniel Gonzalez,
+ADQ660,Mary Kuchenreuther,,"02-26-02 El Rosario, MICH, MX",Javier Garcia Dominguez,
+ADQ670,Mary Kuchenreuther,,"02-26-02 El Rosario, MICH, MX",Christobol Garcia Dominguez,
+ADQ784,Mary Kuchenreuther,,"02-21-02 El Rosario, MICH, MX",Herman Medina,
+ADQ962,Mary Kuchenreuther,,"02-21-02 El Rosario, MICH, MX",Herman Medina,
+ADR102,Mary Kuchenreuther,,"02-21-02 El Rosario, MICH, MX",Hugo  Garcia,
+ADQ844,Mary Kuchenreuther,,"01-20-02 El Rosario, MICH, MX",Simon Garcia,
+AJZ789,Mary Mc Coy,,"02-20-02 El Rosario, MICH, MX",Gloria Garcia Martinez,
+AIA777,Medford Leas,,"03-04-02 Sierra Chincua, MICH, MX",Eligio Valdez Cruz,
+AFT563,Pat Owen,,"04-06-02 El Rosario, MICH, MX",Richard Hodgman,
+AEJ475,Paula Donham,,"03-08-02 El Rosario, MICH, MX",Mariana Garcia Martinez,
+AEJ275,Paula Donham,,"03-03-02 Cerro Pelon, MICH, MX",Melciades Morena,
+AEI871,Paula Donham,,"03-03-02 Cerro Pelon, MICH, MX",Melciados Moreno,
+AHK396,Randy Davis,,"03-04-02 El Rosario, MICH, MX",Javier Garcia Dominguez,
+AHK371,Randy Davis,,"02-13-02 El Rosario, MICH, MX",Hugo Garcia,
+AEP223,Richard Rubino,,"02-21-02 El Rosario, MICH, MX",Nancy Greig,
+681HK,Rita Berns,,"01-09-02 Sierra Chincua, MICH, MX",Arnulfo Gonsalez,
+ADE225,Roxanne Schallinger,,"10-06-01 Lakeville, MN",Gary Bungert,
+ABW153,Sharon Shrum,,"03-08-02 Sierra Chincua, MICH, MX",Juventino Martinez,
+AJA875,Shawna Robbins,,"02-26-02 El Rosario, MICH, MX",Daniel Garcia Garcia,
+ADR234,Susan Flynn,,"02-26-02 El Rosario, MICH, MX",Roberta Garcia,
+AAG669,Wendy Nolin,,"09-16-01 Guilford, CT",Tom Spiner,
