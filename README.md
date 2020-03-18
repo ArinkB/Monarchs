@@ -12,7 +12,8 @@ In this project I gathered Monarch Tagging and Reporting data from MonarchWatch.
 2. Use tabula.app to convert pdf data to csv
 3. Database cleanup for each year individually
 4. Create Monarch Migration database
-5. 
+5. Use SQL and pandas to aggregate data
+6. Visualize travel and numbers using plot.ly and Power BI
 
 
 ### Sources & Contacts
