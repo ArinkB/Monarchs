@@ -3,7 +3,7 @@
 
 #### Arink Bertrand
 
-In this project I gathered Monarch Tagging and Reporting data from MonarchWatch.org. for 1994-2001. My goal is to get insight on how many Monarch butterflies are tagged compared to those reported, travel patterns and compare to news articles as to why report numbers dropped. I plan to use plot.ly and Power BI for visualization.
+In this project, I gathered Monarch Tagging and Reporting data from MonarchWatch.org. for 1994-2001. My goal is to get insight on how many Monarch butterflies are tagged compared to those reported, travel patterns and compare to news articles as to why report numbers dropped. I plan to use plot.ly and Power BI for visualization.
 
 
 ### Steps to Accomplish:
@@ -11,12 +11,18 @@ In this project I gathered Monarch Tagging and Reporting data from MonarchWatch.
 - [x] Create ReadMe file to explain plan 
 - [ ] Import all necessary packages
 - [ ] Use tabula.app to convert pdf data to csv
-- [ ] Database cleanup for each year individually
+- [ ] Database cleanup & export to csv for each year individually
 - [ ] Create Monarch Migration database
 - [ ] Use SQL and pandas to aggregate data
 - [ ] Visualize travel and numbers using plot.ly and Power BI
 - [ ] Update ReadMe to futher explain varifications, language etc.
 
+### Dependencies
+
+- SQLite3
+- Pandas
+- Plot.ly
+- Microsoft Power BI
 
 ### Sources & Contacts
 https://monarchwatch.org/read/seasum.html
