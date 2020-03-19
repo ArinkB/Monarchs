@@ -15,7 +15,7 @@ In this project I gathered Monarch Tagging and Reporting data from MonarchWatch.
 - [ ] Create Monarch Migration database
 - [ ] Use SQL and pandas to aggregate data
 - [ ] Visualize travel and numbers using plot.ly and Power BI
-- [] Update ReadMe to futher explain varifications, language etc.
+- [ ] Update ReadMe to futher explain varifications, language etc.
 
 
 ### Sources & Contacts
