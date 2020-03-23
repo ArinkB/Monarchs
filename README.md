@@ -10,7 +10,7 @@ In this project, I gathered Monarch Tagging and Reporting data from MonarchWatch
 
 - [x] Create ReadMe file to explain plan 
 - [ ] Import all necessary packages
-- [ ] Use tabula.app to convert pdf data to csv
+- [x] Use tabula.app to convert pdf data to csv
 - [ ] Database cleanup & export to csv for each year individually
 - [ ] Create Monarch Migration database
 - [ ] Use SQL and pandas to aggregate data
