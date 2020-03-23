@@ -8,10 +8,10 @@ Tag No.,Tagger,"Tag City, State",Tag Date,Report Date,Report Location,Reporter,M
 341TN,Mark Garland,"Fisherman Island, VA",10/03/00,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,1901
 384LZ,Julie Clemens,"Kirtland, OH",09/14/99,03/09/01,"Cerro Pelon, MEXICO, MX",David Marriott,1892
 945QU,Virginia Living Museum,"Newport News, VA",09/25/00,02/28/01,"El Rosario, MICH, MX",Bill Calvert,1873
-709TX,Joanne Muzzin,"Redford Twp, MI",08/30/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1858
+709TX,Joanne Muzzin,"Redford Twp, MI",08/30/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1858
 861UC,Bonnie Pfeffer,"Clitherall, MN",08/24/00,03/07/01,"El Rosario, MICH, MX",Marsha Bonicatto,1856
 650UT,Prairie Wetlands Learning Center,"Fergus Falls, MN",08/24/00,03/27/01,"El Rosario, MICH, MX",Nancy Greig,1853
-639UT,Prairie Wetlands Learning Center,"Fergus Falls, MN",08/19/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1853
+639UT,Prairie Wetlands Learning Center,"Fergus Falls, MN",08/19/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1853
 725UC,Linda Boe,"Ashby, MN",08/26/00,02/01/01,"El Rosario, MICH, MX",James & Teresa Gallion,1842
 172SP,Paul Viger,"Campbell, MN",08/19/00,02/01/01,"El Rosario, MICH, MX",James & Teresa Gallion,1838
 924WO,Sandy O Brien,"Glenwood, MN",09/10/00,01/07/01,"El Rosario, MICH, MX",Martin Mondragón,1816
@@ -44,12 +44,12 @@ Tag No.,Tagger,"Tag City, State",Tag Date,Report Date,Report Location,Reporter,M
 060RX,"Jim, Linette, Grant & Lucas Langhus","Monona, IA",09/08/00,03/01/01,"El Rosario, MICH, MX",Bill Calvert,1696
 771RW,"Jim, Linette, Grant & Lucas Langhus","Monona, IA",09/09/00,03/01/01,"El Rosario, MICH, MX",Bill Calvert,1696
 489RW,"Jim, Linette, Grant & Lucas Langhus","Monona, IA",08/27/00,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,1696
-096RX,"Jim, Linette, Grant & Lucas Langhus","Monona, IA",09/08/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1696
+096RX,"Jim, Linette, Grant & Lucas Langhus","Monona, IA",09/08/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1696
 288RQ,Lisa Ralls,"Lake Mills, IA",08/30/00,03/27/01,"El Rosario, MICH, MX",Nancy Greig,1686
-941WM,Amy Cooper,"Batavia, IL",08/31/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1686
+941WM,Amy Cooper,"Batavia, IL",08/31/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1686
 181HK,Todd Von Ehwegen,"Mason City, IA",08/31/00,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,1673
 896JT,Stacey Newbrough,"Tripoli, IA",09/09/99,12/05/00,"El Rosario, MICH, MX",Jean Apgar,1665
-401RR,Garnetta Snyder,"Tripoli, IA",09/04/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1665
+401RR,Garnetta Snyder,"Tripoli, IA",09/04/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1665
 380NG,Monica Beitzel,"Mt. Carroll, IL",09/10/99,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,1663
 254WS,Juliene Bramer,"Greene, IA",09/10/00,02/28/01,"El Rosario, MICH, MX",David Marriott,1662
 237HU,Lana Kullander,"Sioux Falls, SD",08/30/99,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,1662
@@ -57,17 +57,17 @@ Tag No.,Tagger,"Tag City, State",Tag Date,Report Date,Report Location,Reporter,M
 979YL,Outdoor Campus,"Sioux Falls, SD",09/15/00,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,1662
 299YM,Outdoor Campus,"Sioux Falls, SD",09/15/00,01/12/01,"El Rosario, MICH, MX",Javier García Dominguez,1662
 606YM,Outdoor Campus,"Sioux Falls, SD",09/06/00,01/12/01,"El Rosario, MICH, MX",Javier García Dominguez,1662
-486YM,Outdoor Campus,"Sioux Falls, SD",?,01/12/01,"El Rosario, MICH, MX",Martin Mondragón,1662
-426HS,Outdoor Campus,"Sioux Falls, SD",?,02/01/01,"El Rosario, MICH, MX",James & Teresa Gallion,1662
+486YM,Outdoor Campus,"Sioux Falls, SD",,01/12/01,"El Rosario, MICH, MX",Martin Mondragón,1662
+426HS,Outdoor Campus,"Sioux Falls, SD",,02/01/01,"El Rosario, MICH, MX",James & Teresa Gallion,1662
 515HT,Outdoor Campus,"Sioux Falls, SD",09/01/99,03/01/01,"Sierra Chincua, MICH, MX",Bill Calvert,1662
 619YM,Outdoor Campus,"Sioux Falls, SD",09/06/00,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,1662
 413WH,Outdoor Campus,"Sioux Falls, SD",08/31/00,02/28/01,"El Rosario, MICH, MX",David Marriott,1662
 469YM,Outdoor Campus,"Sioux Falls, SD",09/06/00,02/28/01,"El Rosario, MICH, MX",David Marriott,1662
-945UT,Rebecca & John Olsen,"Sioux Falls, SD",09/02/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1662
+945UT,Rebecca & John Olsen,"Sioux Falls, SD",09/02/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1662
 899WG,Outdoor Campus,"Rowena, SD",08/28/00,03/27/01,"El Rosario, MICH, MX",Nancy Greig,1661
 771WH,Outdoor Campus,"Tea, SD",08/30/00,01/07/01,"El Rosario, MICH, MX",Remedios de Jesús,1654
-399WH,Outdoor Campus,"Tea, SD",08/30/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1654
-756WH,Outdoor Campus,"Tea, SD",08/30/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1654
+399WH,Outdoor Campus,"Tea, SD",08/30/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1654
+756WH,Outdoor Campus,"Tea, SD",08/30/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1654
 221SP,Mary Petrik,"Ethan, SD",09/05/00,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,1654
 585LU,Margaret Bausman,"Thomson, IL",09/14/99,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,1651
 508NA,Mark Roberts,"Goose Lake, IA",09/22/99,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,1646
@@ -85,14 +85,14 @@ Tag No.,Tagger,"Tag City, State",Tag Date,Report Date,Report Location,Reporter,M
 555NA,Mark Roberts,"Calamus, IA",09/10/99,01/31/01,"Sierra Chincua, MICH, MX",Harold Gillespie,1625
 957RQ,Cathy Irvine,"Dysart, IA",09/12/00,02/11/01,"El Rosario, MICH, MX",Gaye Shrack,1623
 935RO,Cheryl Brooks,"East Moline, IL",09/01/00,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,1616
-745WI,JoAnn Whitmore,"Milan, IL",09/13/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1609
+745WI,JoAnn Whitmore,"Milan, IL",09/13/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1609
 798WE,Marshall County Conservation Board,"Marshalltown, IA",08/31/00,01/07/01,"El Rosario, MICH, MX",Remedios de Jesús,1604
 707ZR,Marshall County Conservation Board,"Marshalltown, IA",09/21/00,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,1604
 994WE,Marshall County Conservation Board,"Marshalltown, IA",09/12/00,03/05/01,"El Rosario, MICH, MX",Bill Calvert,1604
 534MY,Marge Middaugh,"Glidden, IA",09/06/00,03/09/01,"Cerro Pelon, MEXICO, MX",David Marriott,1596
 012RT,Dawn Chapman,"Sioux City, IA",09/01/00,03/27/01,"El Rosario, MICH, MX",Nancy Greig,1593
 480XP,Royce Bitzer,"Ames, IA",09/10/00,01/12/01,"El Rosario, MICH, MX",Javier García Dominguez,1592
-468XP,Royce Bitzer,"Ames, IA",09/05/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1592
+468XP,Royce Bitzer,"Ames, IA",09/05/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1592
 730WO,Dawn Chapman,"Sergeant Bluff, IA",09/01/00,02/28/01,"El Rosario, MICH, MX",David Marriott,1587
 406KZ,Deb Williams,"Huxley, IA",09/10/99,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,1584
 447RT,Aaron Hershberger,"Carroll, IA",09/06/00,03/01/01,"El Rosario, MICH, MX",Bill Calvert,1579
@@ -110,7 +110,7 @@ BW720,Mike Williams,"North Bend, NE",08/06/00,02/01/01,"El Rosario, MICH, MX",Ja
 116HM,Nancy Hubbard,"Council Bluffs, IA",09/09/99,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,1512
 DO620,Beverly Sedlacek,"Omaha, NE",09/11/00,01/07/01,"El Rosario, MICH, MX",Remedios de Jesús,1512
 747RT,Nancy Hubbard,"Council Bluffs, IA",09/12/00,02/28/01,"El Rosario, MICH, MX",David Marriott,1512
-282SZ,Juliette Wheeler,"Omaha, NE",09/09/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1512
+282SZ,Juliette Wheeler,"Omaha, NE",09/09/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1512
 963UI,Ken Staroska,"Omaha, NE",09/10/00,03/01/01,"Sierra Chincua, MICH, MX",Bill Calvert,1508
 010JU,Kathleen Tack,"Malvern, IA",09/17/99,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,1500
 350JS,Rosemary Thornton,"Lincoln, NE",09/23/99,12/01/00,"El Rosario, MICH, MX",Cathy Wertz,1476
@@ -133,16 +133,16 @@ SZ941,Heather Niedfeldt,"Wamego, KS",09/16/97,01/12/01,"El Rosario, MICH, MX",Ja
 668YG,Melissa Sackrider,"Wamego, KS",09/12/00,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,1370
 409YG,Ambrozia Williams,"Wamego, KS",09/12/00,03/14/01,"El Rosario, MICH, MX",Bill Calvert,1370
 003YI,Ambrozia Williams,"Wamego, KS",09/14/00,02/28/01,"El Rosario, MICH, MX",David Marriott,1370
-599YG,Melissa Sackrider,"Wamego, KS",09/12/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1370
-230YH,Weston Kline,"Wamego, KS",09/13/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1370
-366YI,Curtis Odgen,"Wamego, KS",09/14/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1370
+599YG,Melissa Sackrider,"Wamego, KS",09/12/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1370
+230YH,Weston Kline,"Wamego, KS",09/13/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1370
+366YI,Curtis Odgen,"Wamego, KS",09/14/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1370
 229SU,Randy Warner,"Olathe, KS",09/19/00,02/28/01,"El Rosario, MICH, MX",David Marriott,1367
 670XD,Stephanie Simonson,"Olathe, KS",09/25/00,02/02/01,"El Rosario, MICH, MX",Peter Korb,1367
 109NC,Kelly Barth & Lisa Grossman,"Lawrence, KS",09/11/00,12/05/00,"El Rosario, MICH, MX",Lee Maher,1366
 UQ640,Kathy Davis,"Lawrence, KS",09/29/97,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,1366
 746PC,Danny Umscheid,"Lawrence, KS",09/29/00,03/05/01,"El Rosario, MICH, MX",Bill Calvert,1366
 525PS,Jennifer Kissinger,"Lawrence, KS",09/29/00,02/28/01,"El Rosario, MICH, MX",David Marriott,1366
-131WJ,Calvin Cink,"Lawrence, KS",09/25/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1366
+131WJ,Calvin Cink,"Lawrence, KS",09/25/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1366
 281ST,Roseanne Smith,"Lawrence, KS",09/22/00,03/07/01,"El Rosario, MICH, MX",Dave Williams,1366
 835IA,Stephanie Darnell,"Gardner, KS",09/26/99,12/05/00,"El Rosario, MICH, MX",Patricia Klein,1361
 031LW,Emily Piper,"Carbondale, KS",09/22/99,01/14/01,"El Rosario, MICH, MX",Paul & Jacki Richey,1351
@@ -151,7 +151,7 @@ RF793,Tanner Dabignon,"Hays, KS",10/08/97,01/12/01,"El Rosario, MICH, MX",Javier
 972UG,Shannon Sander,"Hays, KS",09/17/00,01/12/01,"El Rosario, MICH, MX",Javier García Dominguez,1328
 382XE,Lauren Harrell,"Reading, KS",09/24/00,02/01/01,"El Rosario, MICH, MX",James & Teresa Gallion,1328
 877UG,Kristin Psannenstiel,"Hays, KS",09/18/00,03/05/01,"El Rosario, MICH, MX",Bill Calvert,1328
-XP946,Andrew Heerman,"Emporia area, KS",?,03/01/01,"Sierra Chincua, MICH, MX",Bill Calvert,1313
+XP946,Andrew Heerman,"Emporia area, KS",,03/01/01,"Sierra Chincua, MICH, MX",Bill Calvert,1313
 319XF,Loretta Snelling,"Marion, KS",09/13/00,02/28/01,"El Rosario, MICH, MX",David Marriott,1305
 311XF,Loretta Snelling,"Marion, KS",09/13/00,03/01/01,"Sierra Chincua, MICH, MX",Bill Calvert,1301
 932XR,Michael Craig,"Mc Pherson, KS",09/14/00,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,1301
@@ -170,8 +170,8 @@ DZ574,Michael Carpenter,"Moundridge, KS",09/11/00,01/14/01,"El Rosario, MICH, MX
 547XF,Karen Fulk,"Hesston, KS",09/12/00,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,1287
 AU663,Karen Fulk,"Hesston, KS",09/17/98,02/28/01,"El Rosario, MICH, MX",David Marriott,1287
 568JE,Heath Doane,"Moundridge, KS",09/11/00,01/31/01,"Sierra Chincua, MICH, MX",Barbara Brummer,1286
-488XS,Pam Martin,"St. John, KS",09/12/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1269
-520XS,Pam Martin,"St. John, KS",09/17/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1269
+488XS,Pam Martin,"St. John, KS",09/12/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1269
+520XS,Pam Martin,"St. John, KS",09/17/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,1269
 514WN,Darrell Terbush,"Valley Center, KS",09/19/00,03/27/01,"El Rosario, MICH, MX",Nancy Greig,1267
 620XX,Karen Koch,"Wichita, KS",09/22/00,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,1257
 XT827,Carol Parker,"Pratt, KS",09/30/98,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,1245
@@ -184,11 +184,11 @@ XT827,Carol Parker,"Pratt, KS",09/30/98,01/07/01,"El Rosario, MICH, MX",Javier G
 941PO,Pat & Ed Mc Donald,"North Little Rock, AR",10/08/00,03/01/01,"El Rosario, MICH, MX",Bill Calvert,1151
 301TC,Pat Mc Donald,"North Little Rock, AR",09/26/00,01/27/01,"Sierra Chincua, MICH, MX",Paul Cherubini,1151
 744TC,Carol Bricker,"Fort Smith, AR",10/03/00,01/07/01,"El Rosario, MICH, MX",Ruben García García,1143
-739TC,Carol Bricker,"Fort Smith, AR",10/03/00,?,"Sierra Chincua, MICH, MX",Bill Calvert,1139
+739TC,Carol Bricker,"Fort Smith, AR",10/03/00,,"Sierra Chincua, MICH, MX",Bill Calvert,1139
 162PU,Tricia Sheppard,"Dartmouth, MA",10/02/00,11/03/00,"Port St Lucie, FL",Robert Stevens,1122
 226TE,Marilyn Stellman,"Oklahoma City, OK",09/20/00,03/01/01,"El Rosario, MICH, MX",Bill Calvert,1105
-045XJ,Scott Martin,"Oklahoma City, OK",?,02/11/01,"El Rosario, Mexico",June Parker,1105
-039XJ,Scott Martin,"Oklahoma City, OK",?,01/07/01,"El Rosario, Mexico",Ortino Guzman,1105
+045XJ,Scott Martin,"Oklahoma City, OK",,02/11/01,"El Rosario, Mexico",June Parker,1105
+039XJ,Scott Martin,"Oklahoma City, OK",,01/07/01,"El Rosario, Mexico",Ortino Guzman,1105
 457ID,Pat & Walter Reif,"Norman, OK",09/16/00,03/09/01,"Cerro Pelon, MEXICO, MX",David Marriott,1105
 491PO,Jim Edson,"Monticello, AR",09/30/00,03/27/01,"El Rosario, MICH, MX",Nancy Greig,1098
 809TF,Hannah Christian,"Elk City, OK",09/16/00,03/05/01,"El Rosario, MICH, MX",Bill Calvert,1088
@@ -216,7 +216,7 @@ ER333,Glenda Overfelt,"Del Rio, TX",10/29/98,02/28/01,"El Rosario, MICH, MX",Dav
 257ZL,David Larson,"Del Rio, TX",10/01/00,03/27/01,"El Rosario, MICH, MX",Nancy Greig,673
 216ZL,David Larson,"Del Rio, TX",10/01/00,02/28/01,"El Rosario, MICH, MX",David Marriott,673
 340ZL,David Larson,"Del Rio, TX",10/04/00,02/28/01,"El Rosario, MICH, MX",David Marriott,673
-427XL,Randy Laurence,"Quemado, TX",11/02/00,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,643
+427XL,Randy Laurence,"Quemado, TX",11/02/00,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,643
 611WL,Carol Cullar,"Carrizo Springs, TX",11/01/00,02/28/01,"El Rosario, MICH, MX",David Marriott,614
 374SU,Colen Smalley,"Lawrence, KS",09/19/00,11/11/00,"San Angelo, TX",Steven Hoelscher,596
 206YT,Kris Gesner,"Lewisburg, WV",09/19/00,10/13/00,"Gainesville, FL",Wes Marbut,571
@@ -245,7 +245,7 @@ ER333,Glenda Overfelt,"Del Rio, TX",10/29/98,02/28/01,"El Rosario, MICH, MX",Dav
 386RW,"Jim, Linette, Grant & Lucas Langhus","Monona, IA",08/27/00,09/09/00,"Mankato, MN",Judy Cousins,151
 333RU,Janice Gray,"Savannah, IA",09/06/00,10/03/00,"Preston, IA",Robert Meyer,145
 347UW,Robbie Marshall,"Old Saybrook, CT",09/25/00,09/30/00,"Sewaren, NJ",Jean Gall,111
-644QD,James Kupcho,"Lavallette, NJ",09/16/00,?,"Center Moriches, NY",Rich & Kathryn Hoffman,88
+644QD,James Kupcho,"Lavallette, NJ",09/16/00,,"Center Moriches, NY",Rich & Kathryn Hoffman,88
 871WL,Mary Claffey,"West Hartford, CT",09/21/00,11/13/00,"Massapequa, NY",Edward Stuchbury,85
 082PX,Lakotah Farrell,"Pemaquid, ME",08/22/00,09/01/00,"Newport, ME",Michael Turner,65
 253PY,Chris Higley,"Willington, CT",09/12/00,09/21/00,"Milford, CT",Richard Julian,61
@@ -264,33 +264,33 @@ ER333,Glenda Overfelt,"Del Rio, TX",10/29/98,02/28/01,"El Rosario, MICH, MX",Dav
 589SS,Dan Dickinson,"Kansas City, MO",09/29/00,10/01/00,"Leawood, KS",Laura Elcock,15
 682SD,Teresa Root,"Deephaven, MN",10/09/00,10/13/00,"Minneapolis, MN",Anonymous,13
 475UW,Robbie Marshall,"Old Saybrook, CT",10/03/00,10/14/00,"Killingworth, CT",Taylor French,11
-841ZY,Mary Ann Manaresi,"Beach Haven, NJ",?,?,"Long Beach, NJ",Sandy & Morgan Ginyras,10
-098ZP,Mary Ann Manaresi,"Beach Haven, NJ",?,10/13/00,"Long Beach, NJ",Michael Holtz,10
+841ZY,Mary Ann Manaresi,"Beach Haven, NJ",,,"Long Beach, NJ",Sandy & Morgan Ginyras,10
+098ZP,Mary Ann Manaresi,"Beach Haven, NJ",,10/13/00,"Long Beach, NJ",Michael Holtz,10
 180XC,Ann Mock,"Maple Grove, MN",09/28/00,10/01/00,"Wayzata, MN",Megan Krentsa,10
-926JA,Matthew Douglas,"Grand Rapids, MI?",?,08/06/00,"Midland, MI",Doug Cross,?
-002OB,?,?,?,10/11/00,"St Marks, FL",Richard Rubino,?
-NF105,Lolita Cox,"St. Paul, MN?",?,10/13/00,"Cannon Falls, MN",Rick & Dawn Anderson,?
-116QP,Janet Coffey,"Stillwell, KS?",?,10/15/00,"Leawood, KS",Reinigs,?
-888ZE,Roni Caffrey,"Hesston, KS?",?,10/02/00,"Hesston, KS",Curt Buller,?
-014QP,Alicia Walsh,"Stillwell, KS?",?,09/16/00,"Lawrence, KS",Caitlyn Tilden,?
-732LU,Randy Fyler,"Lawrence, KS?",?,09/23/00,"Lawrence, KS",Alexis Powell,?
-ZQ898,Doug Cross,"Putnam County, WV?",?,09/25/00,"Winfield, WV",David Smith,?
-646YN,Rene Boutin,"Chambly, QUE?",?,10/25/00,"Granville, MA",Annmarie Clendenin,?
-027JN,Dianna Haywood,"Dunnville, ONT?",?,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,?
-989US,Audre Ross,"Morris,MN?",?,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,?
-326UT,Audre Ross,"Morris,MN?",?,01/12/01,"El Rosario, MICH, MX",Javier García Dominguez,?
-421FF,Judith Borer,"Hopkins, MN?",?,12/01/00,"El Rosario, MICH, MX",Cathy Wertz,?
-927YO,Susan Jahn,"Des Moines, IA?",?,02/01/01,"El Rosario, MICH, MX",James & Teresa Gallion,?
-184XJ,John Stacey,"Oklahoma City, OK?",?,02/01/01,"El Rosario, MICH, MX",James & Teresa Gallion,?
-003YK,Pam  Backlund,"San Angelo, TX?",?,03/14/01,"El Rosario, MICH, MX",Bill Calvert,?
-159YM,Outdoor Campus,"Sioux Falls, SD?",?,?,"El Rosario, MICH, MX",Bill Calvert,?
-151YM,Outdoor Campus,"Sioux Falls, SD?",?,02/28/01,"El Rosario, MICH, MX",David Marriott,?
-025TD,Jill Sullins,"Edmond, OK?",?,?,"El Rosario, MICH, MX",José Luis Alvarez Alcala,?
-235IS,Randy Laurence,"Quemado, TX?",?,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,?
-495JK,Harlen Aschen,"Port Lavaca, TX?",?,02/11/01,"El Rosario, MICH, MX",Gloria Tryon,?
-474SL,Maureen Beaudet,"Prairie Village, KS?",?,?,"Prairie Village, KS",Annie Ortin,?
-611PF,Greg Munson,"Rochester, MN?",?,?,"Dyersburg, TN",Madison Reed,?
-260PG,Greg Munson,"Rochester, MN?",?,02/01/01,"El Rosario, MICH, MX",James & Teresa Gallion,?
-175PG,Greg Munson,"Rochester, MN?",?,02/28/01,"El Rosario, MICH, MX",David Marriott,?
-295PG,Greg Munson,"Rochester, MN?",?,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,?
-438JW,Greg Munson,"Rochester, MN?",?,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,?
+926JA,Matthew Douglas,"Grand Rapids, MI",,08/06/00,"Midland, MI",Doug Cross,
+002OB,,,,10/11/00,"St Marks, FL",Richard Rubino,
+NF105,Lolita Cox,"St. Paul, MN",,10/13/00,"Cannon Falls, MN",Rick & Dawn Anderson,
+116QP,Janet Coffey,"Stillwell, KS",,10/15/00,"Leawood, KS",Reinigs,
+888ZE,Roni Caffrey,"Hesston, KS",,10/02/00,"Hesston, KS",Curt Buller,
+014QP,Alicia Walsh,"Stillwell, KS",,09/16/00,"Lawrence, KS",Caitlyn Tilden,
+732LU,Randy Fyler,"Lawrence, KS",,09/23/00,"Lawrence, KS",Alexis Powell,
+ZQ898,Doug Cross,"Putnam County, WV",,09/25/00,"Winfield, WV",David Smith,
+646YN,Rene Boutin,"Chambly, QUE",,10/25/00,"Granville, MA",Annmarie Clendenin,
+027JN,Dianna Haywood,"Dunnville, ONT",,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,
+989US,Audre Ross,"Morris,MN",,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,
+326UT,Audre Ross,"Morris,MN",,01/12/01,"El Rosario, MICH, MX",Javier García Dominguez,
+421FF,Judith Borer,"Hopkins, MN",,12/01/00,"El Rosario, MICH, MX",Cathy Wertz,
+927YO,Susan Jahn,"Des Moines, IA",,02/01/01,"El Rosario, MICH, MX",James & Teresa Gallion,
+184XJ,John Stacey,"Oklahoma City, OK",,02/01/01,"El Rosario, MICH, MX",James & Teresa Gallion,
+003YK,Pam  Backlund,"San Angelo, TX",,03/14/01,"El Rosario, MICH, MX",Bill Calvert,
+159YM,Outdoor Campus,"Sioux Falls, SD",,,"El Rosario, MICH, MX",Bill Calvert,
+151YM,Outdoor Campus,"Sioux Falls, SD",,02/28/01,"El Rosario, MICH, MX",David Marriott,
+025TD,Jill Sullins,"Edmond, OK",,,"El Rosario, MICH, MX",José Luis Alvarez Alcala,
+235IS,Randy Laurence,"Quemado, TX",,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,
+495JK,Harlen Aschen,"Port Lavaca, TX",,02/11/01,"El Rosario, MICH, MX",Gloria Tryon,
+474SL,Maureen Beaudet,"Prairie Village, KS",,,"Prairie Village, KS",Annie Ortin,
+611PF,Greg Munson,"Rochester, MN",,,"Dyersburg, TN",Madison Reed,
+260PG,Greg Munson,"Rochester, MN",,02/01/01,"El Rosario, MICH, MX",James & Teresa Gallion,
+175PG,Greg Munson,"Rochester, MN",,02/28/01,"El Rosario, MICH, MX",David Marriott,
+295PG,Greg Munson,"Rochester, MN",,01/26/01,"El Rosario, MICH, MX",Paul Cherubini,
+438JW,Greg Munson,"Rochester, MN",,01/07/01,"El Rosario, MICH, MX",Javier García Dominguez,
