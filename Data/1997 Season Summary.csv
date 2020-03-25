@@ -1,104 +1,201 @@
-Tag No.,Sex,Tagger,Where Tagged,"DateTagged","DateRecovered",Where Recovered,"Observed orReported by","Inter-val","Est.Distance"
-RN109,F,Barbara Mc Gee,"Lane Township,PA",9/16/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1995 m
-NT910,F,"Gary Brekke, WWCHS","Fargo, ND",8/30/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1909 m
-PB278,F,Steve Gilzow,"Milan, MI",9/5/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1826 m
-NH341,F,"Kari Geurts, U. of Minn.","Egan, MN",9/1/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1788 m
-SA533,F,"Ralph BowersCambridge H.S.","Cambrige, OH",9/12/97,2/1/98,"El Rosario, Mexico",Petr Korb,6 mo,1787 m
-NH514,M,Bush Gerwill,"Rochester, MN",9/5/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1744 m
-MS424,M,"Greg & Linda MunsonMidwest Monarch Project","Rochester, MN",9/6/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1744 m
-OE242,F,Lee Zieke Lee,"Burr Oak, IA",8/31/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1717 m
-NB564,F,"Michele OlsonOÕBrien Co. Cons. Board","Spencer, IA",10/13/97,3/10/98,"El Rosario, Mexico",Simon Cruz,5 mo,1653 m
-NB348,M,Liz Miller,"Ames, IA",9/17/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1596 m
-MZ872,M,"Ben H., C.M.S.","Carroll, IA",9/2/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1584 m
-OL737,F,Jane Koch,"Hastings, NE",9/11/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1456 m
-RF698,F,Anita Walker,"Rural Cloud Co,KS",10/4/97,1/1/98,"El Rosario, Mexico","Victor HugoCastro",3 mo,1390 m
-SC453,F,"Pat WakemanTonganoxie H.S.","Tonganoxie, KS",9/24/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1382 m
-RB099,F,"Chris CoonWamego H.S.","Wamego, KS",9/12/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1375 m
-SZ544,M,"Nicole HenneWamego H.S.","Wamego, KS",9/16/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1375 m
-RD332,M,"Suzette WilsonWamego H.S.","Wamego, KS",9/12/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1375 m
-RQ219,F,"Kevin KrollFrontier Trail J.H.S.","Olathe, KS",9/16/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1371 m
-RQ208,M,"Will AtkinsFrontier Trail J.H.S.","Olathe, KS",9/11/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1371 m
-RP683,M,"Shannon TamisieaFrontier Trail J.H.S.","Olathe, KS",9/12/97,1/1/98,"Cerro Pelon, Mexico",Monarch Prg.,6 mo,1371 m
-SD021,M,Sandra Perez,"Lawrence, KS",9/12/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1370 m
-TN186,M,"Calvin Cink, Baker Univ.","Lawrence, KS",9/20/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1370 m
-PN968,M,"Calvin Cink, Baker Univ.","Lawrence, KS",9/9/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1370 m
-NB756,F,"Ken HighfillLawrence H.S.","Lawrence, KS",9/15/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1370 m
-PN496,F,"Janeen BrownUSD 208 District Office","Wakeeney, KS",9/16/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1345 m
-PO226,M,Patty Delmott,"Melvern, KS",9/13/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1335 m
+Tag No.,Sex,Tagger,Where Tagged,"Date
+Tagged","Date
+Recovered",Where Recovered,"Observed or
+Reported by","Inter-
+val","Est.
+Distance"
+RN109,F,Barbara Mc Gee,"Lane Township,
+PA",9/16/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1995 m
+NT910,F,"Gary Brekke, WWCHS","Fargo, ND",8/30/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1909 m
+PB278,F,Steve Gilzow,"Milan, MI",9/5/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1826 m
+NH341,F,"Kari Geurts, U. of Minn.","Egan, MN",9/1/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1788 m
+SA533,F,"Ralph Bowers
+Cambridge H.S.","Cambrige, OH",9/12/97,2/1/98,"El Rosario, Mexico",Petr Korb,6 mo,1787 m
+NH514,M,Bush Gerwill,"Rochester, MN",9/5/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1744 m
+MS424,M,"Greg & Linda Munson
+Midwest Monarch Project","Rochester, MN",9/6/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1744 m
+OE242,F,Lee Zieke Lee,"Burr Oak, IA",8/31/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1717 m
+NB564,F,"Michele Olson
+OÕBrien Co. Cons. Board","Spencer, IA",10/13/97,3/10/98,"El Rosario, Mexico",Simon Cruz,5 mo,1653 m
+NB348,M,Liz Miller,"Ames, IA",9/17/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1596 m
+MZ872,M,"Ben H., C.M.S.","Carroll, IA",9/2/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1584 m
+OL737,F,Jane Koch,"Hastings, NE",9/11/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1456 m
+RF698,F,Anita Walker,"Rural Cloud Co,
+KS",10/4/97,1/1/98,"El Rosario, Mexico","Victor Hugo
+Castro",3 mo,1390 m
+SC453,F,"Pat Wakeman
+Tonganoxie H.S.","Tonganoxie, KS",9/24/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1382 m
+RB099,F,"Chris Coon
+Wamego H.S.","Wamego, KS",9/12/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1375 m
+SZ544,M,"Nicole Henne
+Wamego H.S.","Wamego, KS",9/16/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1375 m
+RD332,M,"Suzette Wilson
+Wamego H.S.","Wamego, KS",9/12/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1375 m
+RQ219,F,"Kevin Kroll
+Frontier Trail J.H.S.","Olathe, KS",9/16/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1371 m
+RQ208,M,"Will Atkins
+Frontier Trail J.H.S.","Olathe, KS",9/11/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1371 m
+RP683,M,"Shannon Tamisiea
+Frontier Trail J.H.S.","Olathe, KS",9/12/97,1/1/98,"Cerro Pelon, Mexico",Monarch Prg.,6 mo,1371 m
+SD021,M,Sandra Perez,"Lawrence, KS",9/12/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1370 m
+TN186,M,"Calvin Cink, Baker Univ.","Lawrence, KS",9/20/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1370 m
+PN968,M,"Calvin Cink, Baker Univ.","Lawrence, KS",9/9/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1370 m
+NB756,F,"Ken Highfill
+Lawrence H.S.","Lawrence, KS",9/15/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1370 m
+PN496,F,"Janeen Brown
+USD 208 District Office","Wakeeney, KS",9/16/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1345 m
+PO226,M,Patty Delmott,"Melvern, KS",9/13/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1335 m
 PO275,M,Patty Delmott,"Melvern, KS",9/13/97,3/10/98,"El Rosario, Mexico",Simon Cruz,6 mo,1335 m
-PS574,F,Tim Shaw,"McPherson, KS",9/26/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1307 m
-QY430,F,"Jeremy VothGoessel Grade. School","Goessel, KS",9/15/97,2/1/98,"El Rosario, Mexico",Petr Korb,5 mo,1301 m
-QX733,M,"Andy UnruhGoessel Grade School","Goessel, KS",9/22/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1301 m
-QY293,F,"Kent PetersGoessel Grade School","Goessel, KS",9/17/97,2/24/98,"El Rosario, Mexico",Simon Cruz,6 mo,1301 m
-QX976,M,"Bruce StuckyGoessel Grade School","Goessel, KS",9/22/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1301 m
-RO431,F,"Dixie QuincyIola Middle School","Iola, KS",9/29/98,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1299 m
-RI581,M,"Dan & Nathan GraberMoundridge Middle School","Moundridge,KS",9/17/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1297 m
-PW505,F,Lane Schartz,"Pratt, KS",10/3/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,5 mo,1252 m
-PU335,M,Rickey Thompson,"Berryville, AR",8/31/97,1/?/98,"El Rosario, Mexico",Amado Garcia,4 mo,1225 m
-DE200,F,"Carolyn CegielskiVerdigris J.H.S.","Claremore, OK",9/4/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1188 m
-QL510,F,"Scott MartinPutnam City H.S.","Oklahoma City,OK",10/6/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,5 mo,1110 m
-QI614,M,"Neil GarrisonMartin Park Nature Ctr.","Oklahoma City,OK",10/6/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,5 mo,1110 m
-QS019,F,"Butterfly Garden ClubJ.L. Dennis Elementary","Oklahoma City,OK",10/10/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,5 mo,1110 m
-PP804,F,Kathleen Hargis,"Cache, OK",9/27/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,6 mo,1045 m
-PX518,F,"Curtis BlagburnTrinity Christian Academy","Addison, TX",10/2/97,1/?/98,"El Rosario, Mexico","Aremedios deJesus",3 mo,947 m
+PS574,F,Tim Shaw,"McPherson, KS",9/26/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1307 m
+QY430,F,"Jeremy Voth
+Goessel Grade. School","Goessel, KS",9/15/97,2/1/98,"El Rosario, Mexico",Petr Korb,5 mo,1301 m
+QX733,M,"Andy Unruh
+Goessel Grade School","Goessel, KS",9/22/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1301 m
+QY293,F,"Kent Peters
+Goessel Grade School","Goessel, KS",9/17/97,2/24/98,"El Rosario, Mexico",Simon Cruz,6 mo,1301 m
+QX976,M,"Bruce Stucky
+Goessel Grade School","Goessel, KS",9/22/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1301 m
+RO431,F,"Dixie Quincy
+Iola Middle School","Iola, KS",9/29/98,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1299 m
+RI581,M,"Dan & Nathan Graber
+Moundridge Middle School","Moundridge,
+KS",9/17/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1297 m
+PW505,F,Lane Schartz,"Pratt, KS",10/3/97,3//98,"El Rosario, Mexico",Monarch Prg.,5 mo,1252 m
+PU335,M,Rickey Thompson,"Berryville, AR",8/31/97,1//98,"El Rosario, Mexico",Amado Garcia,4 mo,1225 m
+DE200,F,"Carolyn Cegielski
+Verdigris J.H.S.","Claremore, OK",9/4/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1188 m
+QL510,F,"Scott Martin
+Putnam City H.S.","Oklahoma City,
+OK",10/6/97,3//98,"El Rosario, Mexico",Monarch Prg.,5 mo,1110 m
+QI614,M,"Neil Garrison
+Martin Park Nature Ctr.","Oklahoma City,
+OK",10/6/97,3//98,"El Rosario, Mexico",Monarch Prg.,5 mo,1110 m
+QS019,F,"Butterfly Garden Club
+J.L. Dennis Elementary","Oklahoma City,
+OK",10/10/97,3//98,"El Rosario, Mexico",Monarch Prg.,5 mo,1110 m
+PP804,F,Kathleen Hargis,"Cache, OK",9/27/97,3//98,"El Rosario, Mexico",Monarch Prg.,6 mo,1045 m
+PX518,F,"Curtis Blagburn
+Trinity Christian Academy","Addison, TX",10/2/97,1//98,"El Rosario, Mexico","Aremedios de
+Jesus",3 mo,947 m
 PA001,M,Lynn Frazier,"Columbia, CT",8/29/97,10/4/97,"Neptune Beach, FL",Kim Corey,1 mo,934 m
 NM097,F,Larry Miller,"Abilene, TX",10/15/97,3/10/98,"El Rosario, Mexico",Simon Cruz,5 mo,892 m
-UK569,M,Emmy Ulmschneider,"Midland, TX",10/11/97,3/?/98,"El Rosario, Mexico",Monarch Prg.,5 mo,872 m
-NP793,M,"Susan GilbertBridge School","East Gloucester,MA",10/2/97,10/10/97,"Surf City, NC","Charlotte &Liz Haines",8 d,677 m
-OL877,M,Jane Koch,"Hastings, NE",9/11/97,?,"Big Lake, TX",Jason Wilde,?,670 m
+UK569,M,Emmy Ulmschneider,"Midland, TX",10/11/97,3//98,"El Rosario, Mexico",Monarch Prg.,5 mo,872 m
+NP793,M,"Susan Gilbert
+Bridge School","East Gloucester,
+MA",10/2/97,10/10/97,"Surf City, NC","Charlotte &
+Liz Haines",8 d,677 m
+OL877,M,Jane Koch,"Hastings, NE",9/11/97,,"Big Lake, TX",Jason Wilde,,670 m
 OH399,M,Bruce Weber,"Blair, NE",9/19/97,10/6/97,"Merkel, TX",Anonymous,17 d,661 m
-PX011,F,Pamela Pollard,"Independence,MO",9/7/97,10/19/97,"Austin, TX",Don Carlson,1 mo,635 m
-NZ819,M,Julia Cutshall,"Huntingdon,PA",10/11/97,11/4/97,"Claxton, GA",Nancy Lewis,23 d,614 m
-SD441,M,"Tami LocherGeauga Lake District","Chardon, OH",9/14/97,?,"Anniston, AL",John Waddell,?,601 m
-RD167,F,"Thurman CoteWamego H.S.","Wamego, KS",9/15/97,10/5/97,"Buffalo Gap, TX","Claude/SandyCavanaugh",20 d,517 m
+PX011,F,Pamela Pollard,"Independence,
+MO",9/7/97,10/19/97,"Austin, TX",Don Carlson,1 mo,635 m
+NZ819,M,Julia Cutshall,"Huntingdon,
+PA",10/11/97,11/4/97,"Claxton, GA",Nancy Lewis,23 d,614 m
+SD441,M,"Tami Locher
+Geauga Lake District","Chardon, OH",9/14/97,,"Anniston, AL",John Waddell,,601 m
+RD167,F,"Thurman Cote
+Wamego H.S.","Wamego, KS",9/15/97,10/5/97,"Buffalo Gap, TX","Claude/Sandy
+Cavanaugh",20 d,517 m
 RN271,F,Dennis Scholl,"Hellertown, PA",9/24/97,9/30/97,"Morganton, NC",Crystal Greene,6 d,481 m
 QJ923,M,John Mc Cord,"Folly Beach, SC",10/28/97,12/20/97,"Bradenton, FL",Anonymous,2 mo,391 m
-QJ259,F,"Marvin BouknightCharleston Co. Park & Rec.","Folly Beach, SC",10/31/97,12/6/97,"Tampa, FL",Lana OÕNeal,1 mo,359 m
-NG033,M,"Paulette HaugeKimball Elementary","Kimball, MN",9/25/97,10/2/97,"Lannon, WI","WayneRummel",7 d,339 m
-QS777,F,"Scott MartinPutnam City H.S.","Oklahoma City,OK",9/26/97,10/5/97,"San Angelo, TX","RosemaryBaker",9 d,325 m
-NW641,M,Craig Underwood,"Borodino, NY",9/12/97,9/20/97,"Sterling, VA","BarbaraOÕConner",8 d,272 m
-TP760,F,"Kay de Sam LazaroCapital Hill Magnet","St. Paul, MN",10/2/97,10/11/97,"Omro, WI",Hazel Mack,9 d,225 m
-OF201,?,"Mary Ann SchanzeEdward White School","Grand Mound,IA",10/4/97,10/7/97,"Hazelwood, MO","DouglasHinkson",3 d,211 m
+QJ259,F,"Marvin Bouknight
+Charleston Co. Park & Rec.","Folly Beach, SC",10/31/97,12/6/97,"Tampa, FL",Lana OÕNeal,1 mo,359 m
+NG033,M,"Paulette Hauge
+Kimball Elementary","Kimball, MN",9/25/97,10/2/97,"Lannon, WI","Wayne
+Rummel",7 d,339 m
+QS777,F,"Scott Martin
+Putnam City H.S.","Oklahoma City,
+OK",9/26/97,10/5/97,"San Angelo, TX","Rosemary
+Baker",9 d,325 m
+NW641,M,Craig Underwood,"Borodino, NY",9/12/97,9/20/97,"Sterling, VA","Barbara
+OÕConner",8 d,272 m
+TP760,F,"Kay de Sam Lazaro
+Capital Hill Magnet","St. Paul, MN",10/2/97,10/11/97,"Omro, WI",Hazel Mack,9 d,225 m
+OF201,,"Mary Ann Schanze
+Edward White School","Grand Mound,
+IA",10/4/97,10/7/97,"Hazelwood, MO","Douglas
+Hinkson",3 d,211 m
 PJ323,F,Kathryn Wedge,"Neenah, WI",9/1/97,9/16/97,"East Moline, IL",Minnie Smith,15 d,208 m
 OE682,M,Chuck Safris,"Des Moines, IA",9/14/97,9/29/97,"Warrensburg, MO",Evan Zupnick,14 d,194 m
 NG613,F,Tammy Pratorius,"St. Paul, MN",10/8/97,10/21/97,"Oelwein, IA",Bill Poston,13 d,168 m
 TQ520,F,William Recker,"Red Mills, NY",10/13/97,10/22/97,"Oneonta, NY",Liecha Collins,9 d,160 m
-OF778,M,David Schanze,"Grand Mound,IA",9/26/97,10/20/97,"Franklin, IL","EugeneBreckon",24 d,155 m
-RR475,F,"Mark LiscinskiPleasant Valley H.S.","Brodheadsville,PA",9/29/97,10/9/97,"Ventnor, NJ","Mr&MrsTim Morin",10 d,120 m
-TE965,F,"Elaine WinslowHadley - Luzerne School","Lake Luzerne,NY",10/6/97,10/20/97,"Liberty, NY",Keith Priere,14 d,114 m
+OF778,M,David Schanze,"Grand Mound,
+IA",9/26/97,10/20/97,"Franklin, IL","Eugene
+Breckon",24 d,155 m
+RR475,F,"Mark Liscinski
+Pleasant Valley H.S.","Brodheadsville,
+PA",9/29/97,10/9/97,"Ventnor, NJ","Mr&Mrs
+Tim Morin",10 d,120 m
+TE965,F,"Elaine Winslow
+Hadley - Luzerne School","Lake Luzerne,
+NY",10/6/97,10/20/97,"Liberty, NY",Keith Priere,14 d,114 m
 MQ478,M,Curtis,"Lewisburg, WV",9/30/97,10/9/97,"Elkin, NC",Carol Haynes,9 d,109 m
-NF272,M,Sandra Anderson,"Plymouth, MN",10/10/97,10/22/97,"Dover, MN","ClarenceCarpenter",12 d,98 m
-NQ861,M,Jenny Howard,"CumberlandForeside, ME",9/6/97,9/16/97,"Amesbury, MA","DeborahWelch",10 d,73 m
-OQ270,M,"Dennis WangerinSchlitz Audubon Nat. Ctr.","Bayside, WI",9/9/97,9/17/97,"Wadsworth, IL",Cathy Osa,8 d,52 m
-MP193,F,"Richard PinneyDenmark H.S.","Denmark, WI",9/8/97,9/29/97,"Glenbeulah, WI",Adam Konz,21 d,39 m
+NF272,M,Sandra Anderson,"Plymouth, MN",10/10/97,10/22/97,"Dover, MN","Clarence
+Carpenter",12 d,98 m
+NQ861,M,Jenny Howard,"Cumberland
+Foreside, ME",9/6/97,9/16/97,"Amesbury, MA","Deborah
+Welch",10 d,73 m
+OQ270,M,"Dennis Wangerin
+Schlitz Audubon Nat. Ctr.","Bayside, WI",9/9/97,9/17/97,"Wadsworth, IL",Cathy Osa,8 d,52 m
+MP193,F,"Richard Pinney
+Denmark H.S.","Denmark, WI",9/8/97,9/29/97,"Glenbeulah, WI",Adam Konz,21 d,39 m
 QD987,M,Jim Gilbert,"Waconia, MN",10/10/97,10/16/97,"South St. Paul, MN",Teresa VanSon,6 d,37 m
-OD887,M,"Carol BoyceOrange Elem. School","Dysart, IA",9/24/97,9/28/97,"Cedar Rapids, IA","SusanArmitage",4 d,36 m
+OD887,M,"Carol Boyce
+Orange Elem. School","Dysart, IA",9/24/97,9/28/97,"Cedar Rapids, IA","Susan
+Armitage",4 d,36 m
 NL684,M,Susan Throckmorton,"Hawley, TX",10/1/97,10/3/97,"Stamford, TX",Norris Russell,2 d,31 m
-PA065,F,Lynn Frazier,"Columbia, CT",9/18/97,9/21/97,"Groton, CT","CatherineSilver",3 d,28 m
-QG823,M,Dan Dickinson,"Kansas City,MO",9/25/97,9/26/97,"Olathe, KS",Lisa Erickson,1 d,22 m
-NA246,F,Gary & Sue Cadogan,"Goose Lake, IA",9/7/97,9/27/97,"Bellevue, IA","DarleneMcGovern",20 d,20 m
-TP492,F,Susan Thomas,"Metairie, LA",10/16/97,10/17/97,"New Orleans, LA","RobinDÕ Arcangelo",1 d,15 m
+PA065,F,Lynn Frazier,"Columbia, CT",9/18/97,9/21/97,"Groton, CT","Catherine
+Silver",3 d,28 m
+QG823,M,Dan Dickinson,"Kansas City,
+MO",9/25/97,9/26/97,"Olathe, KS",Lisa Erickson,1 d,22 m
+NA246,F,Gary & Sue Cadogan,"Goose Lake, IA",9/7/97,9/27/97,"Bellevue, IA","Darlene
+McGovern",20 d,20 m
+TP492,F,Susan Thomas,"Metairie, LA",10/16/97,10/17/97,"New Orleans, LA","Robin
+DÕ Arcangelo",1 d,15 m
 SD484,F,Jerry Wiedmann,"Painesville, OH",9/28/97,10/5/97,"Chesterland, OH",Caitlin Wajahn,7 d,15 m
 SY439,M,Gillian Cusack,"Dover, NH",10/3/97,10/4/97,"Rye, NH",Denise Brown,1 d,13 m
-TN230,M,"Calvin CinkBaker Univ.","Lawrence, KS",9/21/97,9/25/97,"Baldwin City, KS","EricBlackwood",4 d,13 m
+TN230,M,"Calvin Cink
+Baker Univ.","Lawrence, KS",9/21/97,9/25/97,"Baldwin City, KS","Eric
+Blackwood",4 d,13 m
 RK470,M,Nancy Lawrence,"Warminster, PA",9/13/97,9/16/97,"Bucks County, PA",Howard Isaacs,3 d,9 m
 RK461,M,Nancy Lawrence,"Warminster, PA",9/13/97,9/15/97,"Bucks County, PA",Howard Isaacs,2 d,9 m
-NZ225,F,Kelli Shrewsberry,"Grove City, OH",9/2/97,?,"Columbus, OH",Mark Burkhart,?,9 m
-NG292,F,Susan Martin Sheridan,"Minneapolis,MN",9/17/97,9/18/97,"St. Paul, MN","Marcie OÕConner",1 d,8 m
-NI914,F,"Michelle PrysbyU. of Minn.","St. Paul, MN",8/30/97,9/1/97,"St. Anthony Village,MN","AlexSteffenson",2 d,8 m
-QG604,M,Dan Dickinson,"Kansas City,MO",9/15/97,9/16/97,"Parkville, MO",Gene Jeske,1 d,8 m
-SQ739,M,Linda Ferguson,"Pittsburgh, PA",9/17/97,9/19/97,"Ross Township, PA","JaneCrompton",2 d,7 m
-MY216,M,Robert Mitchell,"UniversityPark, MD",9/5/97,9/9/97,"Washington, DC","Leeanne &AlfonsoAlonso",4 d,6 m
+NZ225,F,Kelli Shrewsberry,"Grove City, OH",9/2/97,,"Columbus, OH",Mark Burkhart,,9 m
+NG292,F,Susan Martin Sheridan,"Minneapolis,
+MN",9/17/97,9/18/97,"St. Paul, MN","Marcie OÕ
+Conner",1 d,8 m
+NI914,F,"Michelle Prysby
+U. of Minn.","St. Paul, MN",8/30/97,9/1/97,"St. Anthony Village,
+MN","Alex
+Steffenson",2 d,8 m
+QG604,M,Dan Dickinson,"Kansas City,
+MO",9/15/97,9/16/97,"Parkville, MO",Gene Jeske,1 d,8 m
+SQ739,M,Linda Ferguson,"Pittsburgh, PA",9/17/97,9/19/97,"Ross Township, PA","Jane
+Crompton",2 d,7 m
+MY216,M,Robert Mitchell,"University
+Park, MD",9/5/97,9/9/97,"Washington, DC","Leeanne &
+Alfonso
+Alonso",4 d,6 m
 NH918,F,Laura Loppnow,"St. Paul, MN",10/8/97,10/11/97,"Roseville, MN",Jim Paulley,3 d,5 m
-PC825,F,"Michael WeissmannButterfly Pavilion","Westminister,CO",10/7/97,10/7/97,"Northglenn, CO",Josh Douglas,1 d,5 m
+PC825,F,"Michael Weissmann
+Butterfly Pavilion","Westminister,
+CO",10/7/97,10/7/97,"Northglenn, CO",Josh Douglas,1 d,5 m
 NT084,M,Kelly Vaughn,"Washington, MI",9/29/97,10/4/97,"Romeo, MI",Cheryl Smith,5 d,5 m
-OR490,M,John Pogacnik,"North Perry,OH",8/30/97,9/3/97,"Perry, OH",Mike Gerlica,4 d,3 m
-PJ381,F,Kathryn Wedge,"Neenah, WI",9/4/97,9/6/97,"Menasha, WI","KimberlyPeters",2 d,3 m
-RK462,M,Nancy Lawrence,"Warminster, PA",9/13/97,9/14/97,"Hatboro, PA","JohannaRauscher",1 d,2 m
-UB138,M,Alice Kotala,"Duncansville,PA",10/28/97,?,"Hollidburg, PA",Anonymous,?,2 m
+OR490,M,John Pogacnik,"North Perry,
+OH",8/30/97,9/3/97,"Perry, OH",Mike Gerlica,4 d,3 m
+PJ381,F,Kathryn Wedge,"Neenah, WI",9/4/97,9/6/97,"Menasha, WI","Kimberly
+Peters",2 d,3 m
+RK462,M,Nancy Lawrence,"Warminster, PA",9/13/97,9/14/97,"Hatboro, PA","Johanna
+Rauscher",1 d,2 m
+UB138,M,Alice Kotala,"Duncansville,
+PA",10/28/97,,"Hollidburg, PA",Anonymous,,2 m
 SY570,M,Stacy Adair,"Florissant, MO",10/5/97,10/6/97,"Hazelwood, MO",Kris Embry,1 d,2 m
 NB344,M,Liz Miller,"Ames, IA",9/17/97,9/20/97,"Ames, IA",Bitzer/Holcroft,3 d,1 m
-RO322,?,"Justin WoodSouthwest J.H.S.","Lawrence, KS?",?,10/17/97,"Comstock, TX","Joe & KathyLabadie",?,?
-DZ859,M,"John DrummondShaverÕs Creek Env. Ctr.","University Park,PA?",?,2/18/98,"Pensacola Beach, FL",Alice Bohanen,?,?
-071AB,?,"Spencer ClarkeMaranatha Academy","Shawnee, KS?",?,2/16/98,"Victoria, TX","DouglasCronquist",?,?
-LM896,F,BillCalvert,TX?,?,3/?/98,"El Rosario, Mexico",Monarch Prg.,?,?
+RO322,,"Justin Wood
+Southwest J.H.S.","Lawrence, KS",,10/17/97,"Comstock, TX","Joe & Kathy
+Labadie",,
+DZ859,M,"John Drummond
+ShaverÕs Creek Env. Ctr.","University Park,
+PA",,2/18/98,"Pensacola Beach, FL",Alice Bohanen,,
+071AB,,"Spencer Clarke
+Maranatha Academy","Shawnee, KS",,2/16/98,"Victoria, TX","Douglas
+Cronquist",,
+LM896,F,BillCalvert,TX,,3//98,"El Rosario, Mexico",Monarch Prg.,,

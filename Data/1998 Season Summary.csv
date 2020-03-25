@@ -1,60 +1,460 @@
-"AE504","Arnold/Druskin/Borer/Burton","Wayzata,MN",1998-09-25T00:00:00.000,1999-02-19T00:00:00.000,"El Rosario, MX","Martin",1794
-"AE545","Arnold/Druskin/Borer/Burton","Wayzata,MN",1998-09-25T00:00:00.000,1999-02-20T00:00:00.000,"El Rosario, MX","Donahue",1794
-"ZN995","Beth Key","Minnetonka, MN",1998-08-20T00:00:00.000,"02/17 /99","El Rosario, MX","Monarch Program",1792
-"ZN931","Megan, Alison, & Conner Key","Minnetonka, MN",1998-08-12T00:00:00.000,1999-04-05T00:00:00.000,"Angangueo, MX","Monarch Program",1792
-"AU148","James Little","Bucyrus, OH",1998-09-19T00:00:00.000,1999-03-01T00:00:00.000,"El Rosario, MX","Korb",1779
-"AB700","Farmington Elementary School","Farmington, MN",1998-09-04T00:00:00.000,1999-02-10T00:00:00.000,"El Rosario, MX","Korb",1777
-"AB755","Farmington Elementary School","Farmington, MN",1998-09-04T00:00:00.000,"02/17 /99","El Rosario, MX","Monarch Program",1777
-"AB802","Farmington Elementary School","Farmington, MN",1998-09-05T00:00:00.000,1999-03-10T00:00:00.000,"El Rosario, MX","Monarch Program",1777
-"AB928","Farmington Elementary School","Farmington, MN",1998-09-06T00:00:00.000,1999-02-22T00:00:00.000,"El Rosario, MX","Korb",1777
-"AB274","Farmington Elementary School","Cannon Falls, MN",1998-08-19T00:00:00.000,"02/17 /99","El Rosario, MX","Monarch Program",1772
-"AB370","Farmington Elementary School","Cannon Falls, MN",1998-08-30T00:00:00.000,1999-02-20T00:00:00.000,"El Rosario, MX","Donahue",1772
-"AB395","Farmington Elementary School","Cannon Falls, MN",1998-08-30T00:00:00.000,1999-02-19T00:00:00.000,"El Rosario, MX","Martin",1772
-"AB808","Farmington Elementary School","Cannon Falls, MN",1998-09-05T00:00:00.000,1999-04-05T00:00:00.000,"Angangueo, MX","Monarch Program",1772
-"AB929","Farmington Elementary School","Cannon Falls, MN",1998-09-06T00:00:00.000,1998-12-30T00:00:00.000,"El Rosario, MX","Rendon",1772
-"AG262t","Barbara Brown","Madison,MN",1998-09-22T00:00:00.000,1999-03-03T00:00:00.000,"El Rosario, MX","Monarch Program",1772
-"XF435","Tracey Piepenburg","Madison,MN",1998-09-03T00:00:00.000,1999-02-20T00:00:00.000,"El Rosario, MX","Donahue",1772
-"AD246","Jim Gilbert","St. Peter, MN",1998-09-03T00:00:00.000,1999-04-05T00:00:00.000,"Angangueo, MX","Monarch Program",1746
-"AD259","Jim Gilbert","St. Peter, MN",1998-09-10T00:00:00.000,1999-02-10T00:00:00.000,"El Rosario, MX","Korb",1746
-"YJ188","Greg Munson","Rochester, MN",1998-08-21T00:00:00.000,1999-02-20T00:00:00.000,"El Rosario, MX","Donahue",1744
-"YJ401","Greg Munson","Rochester, MN",1998-08-28T00:00:00.000,1999-03-03T00:00:00.000,"El Rosario, MX","Monarch Program",1744
-"YJ409","Greg Munson","Rochester, MN",1998-08-28T00:00:00.000,1999-03-01T00:00:00.000,"El Rosario, MX","Korb",1744
-"YK478","Greg Munson","Rochester, MN",1998-09-05T00:00:00.000,1999-02-19T00:00:00.000,"El Rosario, MX","Donahue",1744
-"ZG104t","Lee Zieke Lee","Burr Oak, IA",1998-09-20T00:00:00.000,1999-03-03T00:00:00.000,"El Rosario, MX","Monarch Program",1717
-"QZ5991","Karen Nance","Cresco, IA",1997-09-02T00:00:00.000,1998-04-01T00:00:00.000,"El Rosario, MX","Marriott",1707
-"XP818","Carl Ek","Oak Park, IL",1998-10-10T00:00:00.000,1999-02-19T00:00:00.000,"El Rosario, MX","Martin",1701
-"XP855","Carl Ek","Oak Park, IL",1998-10-10T00:00:00.000,"02/17 /99","El Rosario, MX","Monarch Program",1701
-"ZT039","Jim,Linette,Grant,Lucas Langhus","Monona, IA",1998-08-28T00:00:00.000,1998-12-30T00:00:00.000,"El Rosario, MX","Morena",1698
-"ZT076","Jim,Linette,Grant,Lucas Langhus","Monona, IA",1998-08-30T00:00:00.000,1999-02-10T00:00:00.000,"El Rosario, MX","Korb",1698
-"ZT195","Jim,Linette,Grant,Lucas Langhus","Monona, IA",1998-08-30T00:00:00.000,1999-03-01T00:00:00.000,"El Rosario, MX","Korb",1698
-"ZT203","Jim,Linette,Grant,Lucas Langhus","Monona, IA",1998-08-30T00:00:00.000,1999-02-22T00:00:00.000,"El Rosario, MX","Korb",1698
-"ZT280","Jim,Linette,Grant,Lucas Langhus","Monona, IA",1998-08-29T00:00:00.000,1999-02-10T00:00:00.000,"El Rosario, MX","Korb",1698
-"ZT297","Jim,Linette,Grant,Lucas Langhus","Monona, IA",1998-08-30T00:00:00.000,1999-03-10T00:00:00.000,"El Rosario, MX","Monarch Program",1698
-"ZT319","Jim,Linette,Grant,Lucas Langhus","Monona, IA",1998-08-30T00:00:00.000,1998-12-13T00:00:00.000,"El Rosario, MX","Brower",1698
-"CC496","Frank Taylor","Radford, VA",1998-09-21T00:00:00.000,1999-02-19T00:00:00.000,"El Rosario, MX","Donahue",1689
-"ZS359","Jerry Wiedmann","Magnolia, MN",1998-09-10T00:00:00.000,1999-04-05T00:00:00.000,"Angangueo, MX","Monarch Program",1679
-"YX692","Stacey Newbrough","Fredericksburg, IA",1998-09-01T00:00:00.000,1999-02-10T00:00:00.000,"El Rosario, MX","Korb",1679
-"XL437","Mary Babcock","Hartford, SD",1998-09-13T00:00:00.000,1999-04-05T00:00:00.000,"Angangueo, MX","Monarch Program",1672
-"XL875","Mary Babcock","Hartford, SD",1998-09-13T00:00:00.000,1998-12-31T00:00:00.000,"Sierra Chincua, MX","Rendon",1672
-"YX741t","Stacey Newbrough","Tripoli, IA",1998-09-15T00:00:00.000,1999-03-10T00:00:00.000,"El Rosario, MX","Monarch Program",1668
-"XH223","Mary Babcock","Sioux Falls, SD",1998-09-25T00:00:00.000,"02/17 /99","El Rosario, MX","Monarch Program",1667
-"XH339","Mary Babcock","Sioux Falls, SD",1998-09-01T00:00:00.000,1999-02-19T00:00:00.000,"El Rosario, MX","Donahue",1667
-"XL484","Mary Babcock","Sioux Falls, SD",1998-09-24T00:00:00.000,1998-12-30T00:00:00.000,"El Rosario, MX","Rendon",1667
-"XL578","Mary Babcock","Sioux Falls, SD",1998-09-07T00:00:00.000,1999-02-10T00:00:00.000,"El Rosario, MX","Korb",1667
-"XL594","Mary Babcock","Sioux Falls, SD",1998-09-06T00:00:00.000,"02/17 /99","El Rosario, MX","Monarch Program",1667
-"XL736","Mary Babcock","Sioux Falls, SD",1998-09-25T00:00:00.000,1999-02-19T00:00:00.000,"El Rosario, MX","Martin",1667
-"XL867","Mary Babcock","Sioux Falls, SD",1998-09-13T00:00:00.000,1999-04-05T00:00:00.000,"Angangueo, MX","Monarch Program",1667
-"DP697","Chris Kline","New Burlington, IN",1998-09-19T00:00:00.000,1999-02-10T00:00:00.000,"El Rosario, MX","Korb",1667
-"OF7501","David Schanze","Rowe,IL",1997-09-25T00:00:00.000,1999-02-10T00:00:00.000,"El Rosario, MX","Korb",1666
-"XY650","Edna Peters","Rockwell, IA",1998-08-31T00:00:00.000,1999-03-03T00:00:00.000,"El Rosario, MX","Monarch Program",1666
-"OB3961","Mary Babcock","Lennox,SD",1997-09-08T00:00:00.000,1998-04-01T00:00:00.000,"El Rosario, MX","Marriott",1653
-"XZ017","Shawn Gehlsen","Spencer, IA",1998-09-02T00:00:00.000,1999-02-20T00:00:00.000,"El Rosario, MX","Donahue",1653
-"XY888","Mickey Johnson","Waterloo, IA",1998-09-04T00:00:00.000,1999-03-11T00:00:00.000,"El Rosario, MX","Monarch Program",1646
-"YX616","Paula Buchholz","Greenville, IA",1998-09-09T00:00:00.000,1999-03-10T00:00:00.000,"El Rosario, MX","Monarch Program",1645
-"XZ095","Shawn Gehlsen","Paullina, IA",1998-09-09T00:00:00.000,1999-02-19T00:00:00.000,"El Rosario, MX","Martin",1637
-"CF479","Mark Roberts","Grand Mound, IA",1998-09-25T00:00:00.000,1999-02-10T00:00:00.000,"El Rosario, MX","Korb",1633
-"CF529","Mark Roberts","Grand Mound, IA",1998-09-25T00:00:00.000,1999-03-03T00:00:00.000,"El Rosario, MX","Monarch Program",1633
-"AS343t","Nancy Johnston","Manlius, IL",1998-09-08T00:00:00.000,1998-12-28T00:00:00.000,"El Rosario, MX","Korb",1630
-"BX122","Royce Bitzer","Ames, IA",1998-09-18T00:00:00.000,1999-03-01T00:00:00.000,"El Rosario, MX","Korb",1596
-"BX166","Royce Bitzer","Ames, IA",1998-09-27T00:00:00.000,1999-03-10T00:00:00.000,"El Rosario, MX","Monarch Program",1596
-"BX171","Royce Bitzer","Ames, IA",1998-09-27T00:00:00.000,1999-03-11T00:00:00.000,"El Rosario, MX","Monarch Program",1596
+Tag No.,Tagger,"Tag City, State",Tagged,Reported,"Report City, State",Reporter,Miles
+XA226,Laura Lichtfuss,"Oshkosh, WI",09/25/98,04/06/99,"Rancho Viejo, TX",Stoker,1814
+WJ990,Lynn Frazier,"Columbia, CT",08/29/98,03/01/99,"El Rosario, MX",Korb,2231
+BG365,Ian Morris,"Wallingford, CT",09/03/98,02/10/99,"El Rosario, MX",Korb,2199
+WK478,Daniel Carmody,"West Haven, CT",09/21/98,02/17/99,"El Rosario, MX",Monarch Program,2186
+WK499,Daniel Carmody,"West Haven, CT",09/26/98,04/05/99,"Angangueo, MX",Monarch Program,2186
+ZW447,John & Sandra Charlton,"Brighton, ONT",09/07/98,02/10/99,"El Rosario, MX",Korb,2135
+MS6921,Donald Davis,"Brighton, ONT",08/28/97,03/01/99,"El Rosario, MX",Korb,2124
+DC854,Donald Davis,"Toronto, ONT",09/14/98,02/19/99,"El Rosario, MX",Donahue,2050
+yz031,Eloise Douty,"Loganton, PA",09/21/98,02/19/99,"El Rosario, MX",Martin,1998
+WN900,Theodore Sirko,"Gettysburg, PA",09/07/98,04/05/99,"Angangueo, MX",Monarch Program,1947
+WN906,Theodore Sirko,"Gettysburg, PA",09/11/98,02/20/99,"El Rosario, MX",Donahue,1947
+WR120,Cathy Patrick,"Glenmont, MD",09/15/98,03/10/99,"El Rosario, MX",Monarch Program,1922
+WU868,John Pogacnik,"Perry, OH",08/30/98,02/22/99,"El Rosario, MX",Korb,1892
+SD585,Jerome Wiedmann,"Painesville, OH",09/06/98,02/17/99,"El Rosario, MX",Monarch Program,1886
+ZS531,Jerome Wiedmann,"Painesville, OH",09/13/98,02/10/99,"El Rosario, MX",Korb,1886
+WX466,Jennifer McAulis,"Kirtland, OH",09/05/98,02/20/99,"El Rosario, MX",Donahue,1876
+WX536,Julie Clemens,"Cleveland, OH",09/12/98,02/19/99,"El Rosario, MX",Donahue,1859
+AC207,Prairie Wetlands Learning Center,"Fergus Falls, MN",08/20/98,03/03/99,"El Rosario, MX",Monarch Program,1859
+AC383,Prairie Wetlands Learning Center,"Fergus Falls, MN",08/25/98,02/22/99,"El Rosario, MX",Korb,1859
+ZN486,Paul Viger,"Campbell, MN",09/03/98,02/10/99,"El Rosario, MX",Korb,1844
+ZN490,Paul Viger,"Campbell, MN",09/08/98,12/28/98,"El Rosario, MX",Korb,1844
+ZO069,Paul Viger,"Campbell, MN",09/04/98,03/01/99,"El Rosario, MX",Korb,1844
+XO720,Lee Peterson,"Rockford, MI",09/18/98,12/31/98,"Sierra Chincua, MX",Rojas,1832
+SI287,Zoe Rochester,"Amery, WI",09/19/97,02/20/99,"El Rosario, MX",Donahue,1831
+YH359,Dana Wloch,"Monroe,MI",09/20/98,03/11/99,"El Rosario, MX",Monarch Program,1826
+YH613,Dana Wloch,"Monroe,MI",09/20/98,02/17/99,"El Rosario, MX",Monarch Program,1826
+YH637,Dana Wloch,"Monroe,MI",09/20/98,12/28/98,"El Rosario, MX",Korb,1826
+BS711,Julie Clemens,"Lakeshore Park, OH",09/14/98,04/05/99,"Angangueo, MX",Monarch Program,1825
+XA195,Laura Lichtfuss,"Oshkosh, WI",09/21/98,02/19/99,"El Rosario, MX",Martin,1814
+XF723,Anthony Jay,"Morris, MN",08/28/98,02/10/99,"El Rosario, MX",Korb,1813
+AJ936,DaveNovar,"Stillwater, MN",09/22/98,02/19/99,"El Rosario, MX",Donahue,1809
+BH235,Paula Waggy,"Franklin, WV",09/21/98,03/10/99,"El Rosario, MX",Monarch Program,1808
+AE475,Betty Klitzke,"Mounds View, MN",09/25/98,02/10/99,"El Rosario, MX",Korb,1807
+XT476,Elise Martin,"Osseo,MN",09/03/98,03/10/99,"El Rosario, MX",Monarch Program,1806
+XA820,Judy Thoren,"Buffalo, MN",08/27/98,03/10/99,"El Rosario, MX",Monarch Program,1804
+MQ156,Terry Kerns,"Bridgeport, WV",09/03/97,02/17/99,"El Rosario, MX",Monarch Program,1801
+AJ434,Claudia Nelson,"St. Paul,MN",09/16/98,02/10/99,"El Rosario, MX",Korb,1798
+AG947,Sandra Anderson,"Plymouth, MN",09/28/98,12/28/98,"El Rosario, MX",Korb,1798
+AI731,Terry Vick,"Minneapolis, MN",09/28/98,02/17/99,"El Rosario, MX",Monarch Program,1797
+NT2741,Lanette Christensen,"W. St. Paul, MN",09/06/97,03/14/98,"Sierra Chincua, MX",Petzsch,1795
+AE504,Arnold/Druskin/Borer/Burton,"Wayzata,MN",09/25/98,02/19/99,"El Rosario, MX",Martin,1794
+AE545,Arnold/Druskin/Borer/Burton,"Wayzata,MN",09/25/98,02/20/99,"El Rosario, MX",Donahue,1794
+ZN995,Beth Key,"Minnetonka, MN",08/20/98,02/17/99,"El Rosario, MX",Monarch Program,1792
+ZN931,"Megan, Alison, & Conner Key","Minnetonka, MN",08/12/98,04/05/99,"Angangueo, MX",Monarch Program,1792
+AU148,James Little,"Bucyrus, OH",09/19/98,03/01/99,"El Rosario, MX",Korb,1779
+AB700,Farmington Elementary School,"Farmington, MN",09/04/98,02/10/99,"El Rosario, MX",Korb,1777
+AB755,Farmington Elementary School,"Farmington, MN",09/04/98,02/17/99,"El Rosario, MX",Monarch Program,1777
+AB802,Farmington Elementary School,"Farmington, MN",09/05/98,03/10/99,"El Rosario, MX",Monarch Program,1777
+AB928,Farmington Elementary School,"Farmington, MN",09/06/98,02/22/99,"El Rosario, MX",Korb,1777
+AB274,Farmington Elementary School,"Cannon Falls, MN",08/19/98,02/17/99,"El Rosario, MX",Monarch Program,1772
+AB370,Farmington Elementary School,"Cannon Falls, MN",08/30/98,02/20/99,"El Rosario, MX",Donahue,1772
+AB395,Farmington Elementary School,"Cannon Falls, MN",08/30/98,02/19/99,"El Rosario, MX",Martin,1772
+AB808,Farmington Elementary School,"Cannon Falls, MN",09/05/98,04/05/99,"Angangueo, MX",Monarch Program,1772
+AB929,Farmington Elementary School,"Cannon Falls, MN",09/06/98,12/30/98,"El Rosario, MX",Rendon,1772
+AG262,Barbara Brown,"Madison,MN",09/22/98,03/03/99,"El Rosario, MX",Monarch Program,1772
+XF435,Tracey Piepenburg,"Madison,MN",09/03/98,02/20/99,"El Rosario, MX",Donahue,1772
+AD246,Jim Gilbert,"St. Peter, MN",09/03/98,04/05/99,"Angangueo, MX",Monarch Program,1746
+AD259,Jim Gilbert,"St. Peter, MN",09/10/98,02/10/99,"El Rosario, MX",Korb,1746
+YJ188,Greg Munson,"Rochester, MN",08/21/98,02/20/99,"El Rosario, MX",Donahue,1744
+YJ401,Greg Munson,"Rochester, MN",08/28/98,03/03/99,"El Rosario, MX",Monarch Program,1744
+YJ409,Greg Munson,"Rochester, MN",08/28/98,03/01/99,"El Rosario, MX",Korb,1744
+YK478,Greg Munson,"Rochester, MN",09/05/98,02/19/99,"El Rosario, MX",Donahue,1744
+ZG104,Lee Zieke Lee,"Burr Oak, IA",09/20/98,03/03/99,"El Rosario, MX",Monarch Program,1717
+QZ599,Karen Nance,"Cresco, IA",09/02/97,04/01/98,"El Rosario, MX",Marriott,1707
+XP818,Carl Ek,"Oak Park, IL",10/10/98,02/19/99,"El Rosario, MX",Martin,1701
+XP855,Carl Ek,"Oak Park, IL",10/10/98,02/17/99,"El Rosario, MX",Monarch Program,1701
+ZT039,"Jim,Linette,Grant,Lucas Langhus","Monona, IA",08/28/98,12/30/98,"El Rosario, MX",Morena,1698
+ZT076,"Jim,Linette,Grant,Lucas Langhus","Monona, IA",08/30/98,02/10/99,"El Rosario, MX",Korb,1698
+ZT195,"Jim,Linette,Grant,Lucas Langhus","Monona, IA",08/30/98,03/01/99,"El Rosario, MX",Korb,1698
+ZT203,"Jim,Linette,Grant,Lucas Langhus","Monona, IA",08/30/98,02/22/99,"El Rosario, MX",Korb,1698
+ZT280,"Jim,Linette,Grant,Lucas Langhus","Monona, IA",08/29/98,02/10/99,"El Rosario, MX",Korb,1698
+ZT297,"Jim,Linette,Grant,Lucas Langhus","Monona, IA",08/30/98,03/10/99,"El Rosario, MX",Monarch Program,1698
+ZT319,"Jim,Linette,Grant,Lucas Langhus","Monona, IA",08/30/98,12/13/98,"El Rosario, MX",Brower,1698
+CC496,Frank Taylor,"Radford, VA",09/21/98,02/19/99,"El Rosario, MX",Donahue,1689
+ZS359,Jerry Wiedmann,"Magnolia, MN",09/10/98,04/05/99,"Angangueo, MX",Monarch Program,1679
+YX692,Stacey Newbrough,"Fredericksburg, IA",09/01/98,02/10/99,"El Rosario, MX",Korb,1679
+XL437,Mary Babcock,"Hartford, SD",09/13/98,04/05/99,"Angangueo, MX",Monarch Program,1672
+XL875,Mary Babcock,"Hartford, SD",09/13/98,12/31/98,"Sierra Chincua, MX",Rendon,1672
+YX741,Stacey Newbrough,"Tripoli, IA",09/15/98,03/10/99,"El Rosario, MX",Monarch Program,1668
+XH223,Mary Babcock,"Sioux Falls, SD",09/25/98,02/17/99,"El Rosario, MX",Monarch Program,1667
+XH339,Mary Babcock,"Sioux Falls, SD",09/01/98,02/19/99,"El Rosario, MX",Donahue,1667
+XL484,Mary Babcock,"Sioux Falls, SD",09/24/98,12/30/98,"El Rosario, MX",Rendon,1667
+XL578,Mary Babcock,"Sioux Falls, SD",09/07/98,02/10/99,"El Rosario, MX",Korb,1667
+XL594,Mary Babcock,"Sioux Falls, SD",09/06/98,02/17/99,"El Rosario, MX",Monarch Program,1667
+XL736,Mary Babcock,"Sioux Falls, SD",09/25/98,02/19/99,"El Rosario, MX",Martin,1667
+XL867,Mary Babcock,"Sioux Falls, SD",09/13/98,04/05/99,"Angangueo, MX",Monarch Program,1667
+DP697,Chris Kline,"New Burlington, IN",09/19/98,02/10/99,"El Rosario, MX",Korb,1667
+OF750,David Schanze,"Rowe,IL",09/25/97,02/10/99,"El Rosario, MX",Korb,1666
+XY650,Edna Peters,"Rockwell, IA",08/31/98,03/03/99,"El Rosario, MX",Monarch Program,1666
+OB396,Mary Babcock,"Lennox,SD",09/08/97,04/01/98,"El Rosario, MX",Marriott,1653
+XZ017,Shawn Gehlsen,"Spencer, IA",09/02/98,02/20/99,"El Rosario, MX",Donahue,1653
+XY888,Mickey Johnson,"Waterloo, IA",09/04/98,03/11/99,"El Rosario, MX",Monarch Program,1646
+YX616,Paula Buchholz,"Greenville, IA",09/09/98,03/10/99,"El Rosario, MX",Monarch Program,1645
+XZ095,Shawn Gehlsen,"Paullina, IA",09/09/98,02/19/99,"El Rosario, MX",Martin,1637
+CF479,Mark Roberts,"Grand Mound, IA",09/25/98,02/10/99,"El Rosario, MX",Korb,1633
+CF529,Mark Roberts,"Grand Mound, IA",09/25/98,03/03/99,"El Rosario, MX",Monarch Program,1633
+AS343,Nancy Johnston,"Manlius, IL",09/08/98,12/28/98,"El Rosario, MX",Korb,1630
+BX122,Royce Bitzer,"Ames, IA",09/18/98,03/01/99,"El Rosario, MX",Korb,1596
+BX166,Royce Bitzer,"Ames, IA",09/27/98,03/10/99,"El Rosario, MX",Monarch Program,1596
+BX171,Royce Bitzer,"Ames, IA",09/27/98,03/11/99,"El Rosario, MX",Monarch Program,1596
+SF810,Linda Zalatel,"Huxley, IA",09/16/97,04/05/99,"Angangueo, MX",Monarch Program,158b
+SG011,Patrice Peterson,"Johnston, IA",09/09/97,12/16/98,"El Rosario, MX",Martinez,1572
+ZN731,Chuck Safris,"Urbandale, IA",09/11/98,02/22/99,"El Rosario, MX",Korb,1567
+ZO337,Bruce Weber,"Missouri Valley, IA",09/10/98,03/01/99,"El Rosario, MX",Korb,153S
+ZO503,Bruce Weber,"Missouri Valley, IA",09/11/98,02/19/99,"El Rosario, MX",Donahue,153S
+ZO510,Bruce Weber,"Missouri Valley, IA",09/11/98,04/05/99,"Angangueo, MX",Monarch Program,153S
+DO762,Mark Seier,"Lindsay, NE",09/17/98,02/17/99,"El Rosario, MX",Monarch Program,153E
+DQ843,Cindi Pollmann,"Drakesville, IA",08/23/98,02/17/99,"El Rosario, MX",Monarch Program,1532
+DR200,Cindi Pollmann,"Drakesville, IA",08/23/98,04/05/99,"Angangueo, MX",Monarch Program,1532
+BW593,Mike Williams,"Fremont, NE",09/27/98,12/28/98,"El Rosario, MX",Korb,1526
+ZE752,Ken Staroska,"Ornaha,NE",09/10/98,03/24/99,"El Rosario, MX",Calvert,151E
+ZE760,Ken Staroska,"Ornaha,NE",09/10/98,02/17/99,"El Rosario, MX",Monarch Program,151E
+DY261,Nancy Hubbard,"Council Bluffs, IA",09/28/98,03/01/99,"El Rosario, MX",Korb,1517
+ZA849,Nancy Hubbard,"Council Bluffs, IA",09/07/98,02/17/99,"El Rosario, MX",Monarch Program,1517
+ZA898,Nancy Hubbard,"Council Bluffs, IA",09/14/98,03/01/99,"El Rosario, MX",Korb,1517
+DR286,Tonya Hadden,"Council Bluffs, IA",09/26/98,04/05/99,"Angangueo, MX",Monarch Program,1517
+XH849,Lisa Hendrixson,"Stendal, IN",09/05/98,02/17/99,"El Rosario, MX",Monarch Program,1506
+ZI466,Anne May DeWaard,"Pigeon Forge, TN",09/21/98,03/10/99,"El Rosario, MX",Monarch Program,1504
+ZC043,Kathy & Lina Reed,"Malvern, IA",09/17/98,02/17/99,"El Rosario, MX",Monarch Program,1504
+ZN764,Chuck Safris,"Des Moines, IA",09/11/98,03/01/99,"El Rosario, MX",Korb,1492
+ZF028,Courtney Potter,"Lincoln, NE",09/23/98,03/03/99,"El Rosario, MX",Monarch Program,1481
+ZF092,Rosemary Thornton,"Lincoln, NE",09/27/98,04/05/99,"Angangueo, MX",Monarch Program,1481
+BN869,Jane Koch,"Hastings, NE",09/11/98,02/19/99,"El Rosario, MX",Martin,1456
+BN894,Jane Koch,"Hastings, NE",09/11/98,02/19/99,"El Rosario, MX",Martin,1456
+BN923,Jane Koch,"Hastings, NE",09/11/98,02/19/99,"El Rosario, MX",Donahue,1456
+DK925,Jane Koch,"Hastings, NE",09/12/98,02/19/99,"El Rosario, MX",Martin,1456
+DL063,Jane Koch,"Hastings, NE",09/11/98,02/17/99,"El Rosario, MX",Monarch Program,1456
+DP236,Jane Koch,"Hastings, NE",09/15/98,02/10/99,"El Rosario, MX",Korb,1456
+ED587,Jane Koch,"Hastings, NE",09/22/98,03/10/99,"El Rosario, MX",Monarch Program,1456
+ED680,Jane Koch,"Hastings, NE",09/12/98,02/19/99,"El Rosario, MX",Martin,1456
+ED862,Jane Koch,"Hastings, NE",09/22/98,02/17/99,"El Rosario, MX",Monarch Program,1456
+ED906,Jane Koch,"Hastings, NE",09/22/98,02/19/99,"El Rosario, MX",Donahue,1456
+DG342,Marie Oughton,"St. Louis, MO",09/21/98,03/24/99,"El Rosario, MX",Calvert,1442
+zy354,Torn Bratkowski,"St. Louis, MO",09/26/98,12/30/98,"El Rosario, MX",Garcia,1442
+DH586,Kurk Wiedel,"Hebron, NE",09/22/98,04/05/99,"Angangueo, MX",Monarch Program,1431
+DH617,Kurk Wiedel,"Hebron, NE",09/25/98,03/10/99,"El Rosario, MX",Monarch Program,1431
+CF750,Brady Alexander,"Mankato,KS",09/23/98,12/30/98,"El Rosario, MX",Rendon,1401
+CF837,David Walton,"Mankato,KS",09/24/98,02/10/99,"El Rosario, MX",Korb,1401
+CF927,Derek Clark,"Mankato,KS",08/24/98,02/17/99,"El Rosario, MX",Monarch Program,1401
+CH013,Kristene Beck,"Mankato,KS",08/24/98,02/17/99,"El Rosario, MX",Monarch Program,1401
+CF816,Monica Minear,"Mankato,KS",09/23/98,03/10/99,"El Rosario, MX",Monarch Program,1401
+BJ476,Gene Lamb,"Ft. Leavenworth, KS",09/23/98,03/03/99,"El Rosario, MX",Monarch Program,139S
+AO454,Pamela Pollard,"Independence, MO",10/10/98,03/01/99,"El Rosario, MX",Korb,1391
+WA279,Dan Dickinson,"Kansas City, MO",09/27/98,02/20/99,"El Rosario, MX",Donahue,139C
+WA479,Dan Dickinson,"Kansas City, MO",10/10/98,03/03/99,"El Rosario, MX",Monarch Program,139C
+CX103,Trisha Campbell,"Lee's Summit, MO",10/02/98,02/10/99,"El Rosario, MX",Korb,137S
+CL293,A.J. Mueller,"Wamego, KS",09/25/98,03/03/99,"El Rosario, MX",Monarch Program,137E
+CK890,Andrew Sylvester,"Wamego, KS",09/24/98,04/05/99,"Angangueo, MX",Monarch Program,137E
+CL200,Andrew Sylvester,"Wamego, KS",09/24/98,02/10/99,"El Rosario, MX",Korb,137E
+CL627,Brandon White,"Wamego, KS",09/25/98,02/19/99,"El Rosario, MX",Donahue,137E
+CJ088,CaraMcPeak,"Wamego, KS",09/17/98,04/05/99,"Angangueo, MX",Monarch Program,137E
+CJ165,CaraMcPeak,"Wamego, KS",09/17/98,12/28/98,"El Rosario, MX",Taute,137E
+CJ689,CaraMcPeak,"Wamego, KS",09/18/98,02/10/99,"El Rosario, MX",Korb,137E
+SZ875,Chad Addington,"Wamego, KS",09/16/97,02/17/99,"El Rosario, MX",Monarch Program,137E
+CK592,Clint Bever,"Wamego, KS",09/22/98,02/19/99,"El Rosario, MX",Donahue,137E
+CL468,Clint Bever,"Wamego, KS",09/28/98,02/17/99,"El Rosario, MX",Monarch Program,137E
+CL654,Dustin Goehring,"Wamego, KS",09/25/98,03/10/99,"El Rosario, MX",Monarch Program,137E
+CM107,Dustin Goehring,"Wamego, KS",10/01/98,04/05/99,"Angangueo, MX",Monarch Program,137E
+CM155,Dustin Goehring,"Wamego, KS",10/01/98,02/19/99,"El Rosario, MX",Donahue,137E
+CM158,Dustin Goehring,"Wamego, KS",10/01/98,03/01/99,"El Rosario, MX",Korb,137E
+CK724,Dusty Francis,"Wamego, KS",09/24/98,02/19/99,"El Rosario, MX",Donahue,1375
+CI781,John Van Petten,"Wamego, KS",09/15/98,12/28/98,"El Rosario, MX",Korb,1375
+CI828,John Van Petten,"Wamego, KS",09/16/98,02/17/99,"El Rosario, MX",Monarch Program,1375
+CI877,John Van Petten,"Wamego, KS",09/16/98,02/19/99,"El Rosario, MX",Martin,1375
+CJ497,John Van Petten,"Wamego, KS",09/18/98,03/01/99,"El Rosario, MX",Korb,1375
+CK218,John Van Petten,"Wamego, KS",09/17/98,03/01/99,"El Rosario, MX",Korb,1375
+CK275,John Van Petten,"Wamego, KS",09/21/98,02/22/99,"El Rosario, MX",Korb,1375
+CK278,John Van Petten,"Wamego, KS",09/21/98,02/10/99,"El Rosario, MX",Korb,1375
+CL749,John Van Petten,"Wamego, KS",09/28/98,02/22/99,"El Rosario, MX",Korb,1375
+CL755,John Van Petten,"Wamego, KS",09/28/98,02/10/99,"El Rosario, MX",Korb,1375
+CL779,John Van Petten,"Wamego, KS",09/28/98,02/19/99,"El Rosario, MX",Donahue,1375
+CL898,John Van Petten,"Wamego, KS",09/25/98,02/19/99,"El Rosario, MX",Donahue,1375
+CK374,Kendal Herman,"Wamego, KS",09/22/98,02/19/99,"El Rosario, MX",Donahue,1375
+CJ631,Lindsay McCart,"Wamego, KS",09/18/98,12/31/98,"Sierra Chincua, MX",Rojas,1375
+YQ692,Marsha Collins,"Wamego, KS",09/21/98,03/01/99,"El Rosario, MX",Korb,1375
+YQ921,Marsha Collins,"Wamego, KS",09/17/98,02/10/99,"El Rosario, MX",Korb,1375
+YR052,Marsha Collins,"Wamego, KS",09/21/98,02/22/99,"El Rosario, MX",Korb,1375
+CK392,Melissa Brooks,"Wamego, KS",09/22/98,02/17/99,"El Rosario, MX",Monarch Program,1375
+CI735,Sarah Watt,"Wamego, KS",09/17/98,02/22/99,"El Rosario, MX",Korb,1375
+CK152,Sarah Watt,"Wamego, KS",09/18/98,03/03/99,"El Rosario, MX",Monarch Program,1375
+CK701,Sarah Watt,"Wamego, KS",09/24/98,02/19/99,"El Rosario, MX",Martin,1375
+CK804,Sarah Watt,"Wamego, KS",09/24/98,02/10/99,"El Rosario, MX",Korb,1375
+CL501,Sarah Watt,"Wamego, KS",09/25/98,03/11/99,"El Rosario, MX",Monarch Program,1375
+CI850,Shelley Roblyer,"Wamego, KS",09/16/98,12/28/98,"El Rosario, MX",Korb,1375
+CL430,Shelly Hulinsky,"Wamego, KS",09/25/98,02/10/99,"El Rosario, MX",Korb,1375
+CK000,Terry Callender,"Wamego, KS",98 Season,02/17/99,"El Rosario, MX",Monarch Program,1375
+CK610,Terry Callender,"Wamego, KS",09/22/98,04/05/99,"Angangueo, MX",Monarch Program,1375
+CL015,Terry Callender,"Wamego, KS",98 Season,02/19/99,"El Rosario, MX",Donahue,1375
+TC551,Ascension Elementary School,"Overland Park, KS",09/17/97,04/05/99,"Angangueo, MX",Monarch Program,1374
+XM260,Jacalyn Goetz,"Overland Park, KS",10/11/98,03/10/99,"El Rosario, MX",Monarch Program,1374
+RQ713,Carol Williamson,"Olathe, KS",09/22/97,02/17/99,"El Rosario, MX",Monarch Program,1371
+XG260,Erik Nelson,"Olathe, KS",09/24/98,02/10/99,"El Rosario, MX",Korb,1371
+XG316,Erik Nelson,"Olathe, KS",09/24/98,01/25/99,"Valle de Bravo, MX",Vergeer,1371
+CP440,Jenna Nelson,"Olathe, KS",10/02/98,02/19/99,"El Rosario, MX",Martin,1371
+EE056,Laura Wester,"Olathe, KS",09/26/98,04/05/99,"Angangueo, MX",Monarch Program,1371
+EE073,Laura Wester,"Olathe, KS",09/29/98,02/10/99,"El Rosario, MX",Korb,1371
+EE152,Paula Donham,"Olathe, KS",09/30/98,02/20/99,"El Rosario, MX",Donahue,1371
+EE250,Paula Donham,"Olathe, KS",10/09/98,03/01/99,"El Rosario, MX",Korb,1371
+EE258,Paula Donham,"Olathe, KS",09/09/98,02/19/99,"El Rosario, MX",Martin,1371
+EE674,Paula Donham,"Olathe, KS",09/29/98,03/10/99,"El Rosario, MX",Monarch Program,1371
+EE678,Paula Donham,"Olathe, KS",09/29/98,03/10/99,"El Rosario, MX",Monarch Program,1371
+EE699,Paula Donham,"Olathe, KS",09/29/98,03/10/99,"El Rosario, MX",Monarch Program,1371
+EE793,Paula Donham,"Olathe, KS",09/30/98,03/10/99,"El Rosario, MX",Monarch Program,1371
+EA324,Shineman,"Olathe, KS",09/28/98,02/17/99,"El Rosario, MX",Monarch Program,1371
+YQ438,Nate Brown,"Wabaunsee, KS",09/28/98,02/20/99,"El Rosario, MX",Donahue,1371
+BJ840,Diane Kent/ Gibson,"Manhattan, KS",09/08/98,02/17/99,"El Rosario, MX",Monarch Program,1371
+BJ913,Diane Kent/ Gibson,"Manhattan, KS",09/17/98,02/17/99,"El Rosario, MX",Monarch Program,1371
+XG150,Becky Jarnison,"Lawrence, KS",09/11/98,03/03/99,"El Rosario, MX",Monarch Program,1370
+AY928,Calvin Cink,"Lawrence, KS",09/05/98,02/17/99,"El Rosario, MX",Monarch Program,1370
+SW8561,Ken Highfill,"Lawrence, KS",09/15/97,02/17/99,"El Rosario, MX",Monarch Program,1370
+YQ055,Ken Highfill,"Lawrence, KS",09/26/98,03/10/99,"El Rosario, MX",Monarch Program,1370
+YQ157,Ken Highfill,"Lawrence, KS",09/26/98,03/03/99,"El Rosario, MX",Monarch Program,1370
+YQ198,Ken Highfill,"Lawrence, KS",09/26/98,02/17/99,"El Rosario, MX",Monarch Program,1370
+BH391,Sandra Perez,"Lawrence, KS",09/20/98,04/05/99,"Angangueo, MX",Monarch Program,1370
+XFll0,Sandy Collins,"Lawrence, KS",09/24/98,02/10/99,"El Rosario, MX",Korb,1370
+XM992,Walter Knapp,"Topeka,KS",09/27/98,04/05/99,"Angangueo, MX",Monarch Program,1370
+CE466,Stone Nature Center,"Topeka,KS",09/21/98,04/05/99,"Angangueo, MX",Monarch Program,1370
+CE470,Stone Nature Center,"Topeka,KS",09/21/98,02/22/99,"El Rosario, MX",Korb,1370
+CE514,Stone Nature Center,"Topeka,KS",09/23/98,02/10/99,"El Rosario, MX",Korb,1370
+CE754,Stone Nature Center,"Topeka,KS",10/01/98,03/10/99,"El Rosario, MX",Monarch Program,1370
+CE841,Stone Nature Center,"Topeka,KS",10/01/98,03/01/99,"El Rosario, MX",Korb,1370
+BJ217,Calvin Cink,"Baldwin City, KS",09/26/98,02/17/99,"El Rosario, MX",Monarch Program,1359
+EB214,Letitia Keenan,"Oakley, KS",09/30/98,03/03/99,"El Rosario, MX",Monarch Program,1353
+BN170,Janeen Brown,"WaKeeney, KS",09/24/98,02/19/99,"El Rosario, MX",Donahue,1345
+YR892,Janeen Brown,"WaKeeney, KS",09/23/98,03/03/99,"El Rosario, MX",Monarch Program,1345
+YR939,Janeen Brown,"WaKeeney, KS",09/22/98,02/22/99,"El Rosario, MX",Korb,1345
+YT667,Janeen Brown,"WaKeeney, KS",10/05/98,02/22/99,"El Rosario, MX",Korb,1345
+YT686,Janeen Brown,"WaKeeney, KS",09/06/98,03/03/99,"El Rosario, MX",Monarch Program,1345
+AJ313,Erin Townsend,"Sharon Springs, KS",09/25/95,02/17/96,"Sierra Chincua, MX",Gonzalez,1340
+CQ977,Andrew Conard,"Salina, KS",09/21/98,02/17/99,"El Rosario, MX",Monarch Program,1338
+CR013,Katrina Bethe,"Salina, KS",09/21/98,02/19/99,"El Rosario, MX",Donahue,1338
+CR242,Tasha Schultz,"Salina, KS",09/24/98,02/19/99,"El Rosario, MX",Donahue,1338
+YR231,Brian Schmidt,"Hays,KS",09/15/98,03/10/99,"El Rosario, MX",Monarch Program,1335
+YU858,Brian Schmidt,"Hays,KS",09/21/98,02/17/99,"El Rosario, MX",Monarch Program,1335
+YU162,Curt Moore,"Hays,KS",09/21/98,03/03/99,"El Rosario, MX",Monarch Program,1335
+YR835,Dustin Rogers,"Hays,KS",09/21/98,02/22/99,"El Rosario, MX",Korb,1335
+YU499,Evan Pollock,"Hays,KS",09/29/98,02/19/99,"El Rosario, MX",Donahue,1335
+YR581,Greg Clingingsmith,"Hays,KS",09/28/98,02/17/99,"El Rosario, MX",Monarch Program,1335
+RF266,Jerod Goodale,"Hays,KS",09/13/97,02/17/99,"El Rosario, MX",Monarch Program,1335
+YR238,KyleTutak,"Hays,KS",09/15/98,03/03/99,"El Rosario, MX",Monarch Program,1335
+YU158,KyleTutak,"Hays,KS",09/16/98,02/10/99,"El Rosario, MX",Korb,1335
+YU386,Megan Kroeger,"Hays,KS",09/29/98,02/20/99,"El Rosario, MX",Donahue,1335
+YR553,Patricia Blocksome,"Hays,KS",09/27/98,03/01/99,"El Rosario, MX",Korb,1335
+YW037,Patricia Blocksome,"Hays,KS",09/28/98,02/19/99,"El Rosario, MX",Donahue,1335
+YR409,Ty Coker,"Hays,KS",09/20/98,03/24/99,"El Rosario, MX",Calvert,1335
+XR081,Marvin Harrell,"Lebo, KS",09/19/98,04/05/99,"Angangueo, MX",Monarch Program,1326
+BZ209,Christian,"Emporia, KS",09/22/98,12/31/98,"Sierra Chincua, MX",Rendon,1322
+BX495,Colleen Mitchell,"Emporia, KS",09/29/98,02/10/99,"El Rosario, MX",Korb,1322
+BX533,Jared Dakin,"Emporia, KS",10/05/98,02/17/99,"El Rosario, MX",Monarch Program,1322
+XR208,Katie Scherich,"Emporia, KS",10/07/98,02/10/99,"El Rosario, MX",Korb,1322
+EP914,Grant Linder,"Lindsborg, KS",10/01/98,03/03/99,"El Rosario, MX",Monarch Program,1321
+ZB728,Pat Bauer & Kola Johnson,"Lindsborg, KS",98 Season,03/01/99,"El Rosario, MX",Korb,1321
+ZB731,Pat Bauer & Kola Johnson,"Lindsborg, KS",98 Season,03/10/99,"El Rosario, MX",Monarch Program,1321
+XW168,Michael Hegan,"Marion,KS",09/17/98,02/10/99,"El Rosario, MX",Korb,1310
+XW181,Nathan Fish,"Marion,KS",09/17/98,02/17/99,"El Rosario, MX",Monarch Program,1310
+EB829,Jonea Hartshorn,"Timken, KS",10/03/98,04/05/99,"Angangueo, MX",Monarch Program,1308
+EB836,Jonea Hartshorn,"Timken, KS",10/04/98,02/19/99,"El Rosario, MX",Donahue,1308
+EB845,Jonea Hartshorn,"Timken, KS",10/04/98,03/01/99,"El Rosario, MX",Korb,1308
+DT746,Barbara Claassen,"Mc Pherson, KS",09/28/98,03/10/99,"El Rosario, MX",Monarch Program,1307
+CQ166,Michael Craig,"Mc Pherson, KS",09/18/98,02/22/99,"El Rosario, MX",Korb,1307
+CQ167,Michael Craig,"Mc Pherson, KS",09/18/98,02/19/99,"El Rosario, MX",Martin,1307
+CR317,Michael Craig,"Mc Pherson, KS",09/19/98,02/20/99,"El Rosario, MX",Donahue,1307
+CR427,Michael Craig,"Mc Pherson, KS",09/23/98,02/17/99,"El Rosario, MX",Monarch Program,1307
+CR505,Michael Craig,"Mc Pherson, KS",09/19/98,02/10/99,"El Rosario, MX",Korb,1307
+CR521,Michael Craig,"Mc Pherson, KS",09/19/98,01/27/99,"El Rosario, MX",Manwaring,1307
+AU889,Tim Shaw,"Mc Pherson, KS",09/17/98,12/28/98,"El Rosario, MX",Korb,1307
+AW038,Tim Shaw,"Mc Pherson, KS",09/21/98,02/17/99,"El Rosario, MX",Monarch Program,1307
+EG569,Tim Shaw,"Mc Pherson, KS",09/24/98,03/03/99,"El Rosario, MX",Monarch Program,1307
+BQ881,Karen Engle,"Madison,KS",09/29/98,02/17/99,"El Rosario, MX",Monarch Program,1304
+BK638,AJ Overton,"Goessel, KS",09/16/98,02/10/99,"El Rosario, MX",Korb,1301
+EG675,Alexis York,"Goessel, KS",09/18/98,03/01/99,"El Rosario, MX",Korb,1301
+BK681,Darla Funk,"Goessel, KS",09/17/98,03/03/99,"El Rosario, MX",Monarch Program,1301
+EL753,Derek Deurksen,"Goessel, KS",09/28/98,04/05/99,"Angangueo, MX",Monarch Program,1301
+BK356,Jeremy Voth,"Goessel, KS",09/15/98,02/17/99,"El Rosario, MX",Monarch Program,1301
+BK174,Jessica Schroeder,"Goessel, KS",09/19/98,03/01/99,"El Rosario, MX",Korb,1301
+EL486,Josh Schmidt,"Goessel, KS",09/26/98,02/17/99,"El Rosario, MX",Monarch Program,1301
+EL411,Josh Voth,"Goessel, KS",09/22/98,03/03/99,"El Rosario, MX",Monarch Program,1301
+EL316,Lance Hiebert,"Goessel, KS",09/24/98,02/10/99,"El Rosario, MX",Korb,1301
+EL292,Taylor Schmidt,"Goessel, KS",09/27/98,02/22/99,"El Rosario, MX",Korb,1301
+EL951,Taylor Schmidt,"Goessel, KS",09/24/98,03/01/99,"El Rosario, MX",Korb,1301
+CI310,Al Neufeld,"Moundridge, KS",09/18/98,02/17/99,"El Rosario, MX",Monarch Program,1297
+EC036,Al Neufeld,"Moundridge, KS",09/29/98,03/11/99,"El Rosario, MX",Monarch Program,1297
+EC080,Al Neufeld,"Moundridge, KS",09/29/98,02/10/99,"El Rosario, MX",Korb,1297
+EC191,Al Neufeld,"Moundridge, KS",09/29/98,03/11/99,"El Rosario, MX",Monarch Program,1297
+CG196,Brice Loganbill,"Moundridge, KS",09/16/98,12/28/98,"El Rosario, MX",Korb,1297
+CG352,Dan Challans,"Moundridge, KS",09/17/98,12/30/98,"El Rosario, MX",Soto,1297
+CG365,Jennifer McClure,"Moundridge, KS",09/17/98,02/10/99,"El Rosario, MX",Korb,1297
+EC728,Joe Krehbiel,"Moundridge, KS",09/30/98,02/19/99,"El Rosario, MX",Donahue,1297
+EC860,Jonathan Nathan,"Moundridge, KS",09/29/98,02/20/99,"El Rosario, MX",Donahue,1297
+CI578,Kristi Stucky,"Moundridge, KS",09/21/98,04/05/99,"Angangueo, MX",Monarch Program,1297
+CI557,Kristy Stucky,"Moundridge, KS",09/21/98,03/10/99,"El Rosario, MX",Monarch Program,1297
+ED220,Matt Thiesen,"Moundridge, KS",09/29/98,02/10/99,"El Rosario, MX",Korb,1297
+CF972,Matthew Autrey,"Moundridge, KS",09/21/98,02/17/99,"El Rosario, MX",Monarch Program,1297
+CI567,Paul Galle,"Moundridge, KS",09/21/98,03/24/99,"El Rosario, MX",Calvert,1297
+CI672,Paul Galle,"Moundridge, KS",09/21/98,03/24/99,"El Rosario, MX",Calvert,1297
+CI685,Paul Galle,"Moundridge, KS",09/21/98,02/19/99,"El Rosario, MX",Martin,1297
+AS384,Karen Fulk,"Hesston, KS",09/15/98,02/19/99,"El Rosario, MX",Martin,1293
+AS405,Karen Fulk,"Hesston, KS",09/15/98,12/28/98,"El Rosario, MX",Korb,1293
+AU619,Karen Fulk,"Hesston, KS",09/16/98,04/05/99,"Angangueo, MX",Monarch Program,1293
+AU705,Karen Fulk,"Hesston, KS",09/17/98,02/19/99,"El Rosario, MX",Donahue,1293
+DU937,Karen Fulk,"Hesston, KS",09/23/98,03/10/99,"El Rosario, MX",Monarch Program,1293
+DW102,Karen Fulk,"Hesston, KS",09/21/98,12/28/98,"El Rosario, MX",Korb,1293
+EN217,Karen Fulk,"Hesston, KS",09/27/98,03/10/99,"El Rosario, MX",Monarch Program,1293
+EN236,Karen Fulk,"Hesston, KS",09/27/98,02/10/99,"El Rosario, MX",Korb,1293
+EN269,Karen Fulk,"Hesston, KS",09/27/98,02/20/99,"El Rosario, MX",Donahue,1293
+EN282,Karen Fulk,"Hesston, KS",09/27/98,03/01/99,"El Rosario, MX",Korb,1293
+BQ941,Roni Caffrey's 3rd Gr.,"Hesston, KS",09/17/98,02/22/99,"El Rosario, MX",Korb,1293
+BQ985,Roni Caffrey's 3rd Gr.,"Hesston, KS",09/17/98,04/05/99,"Angangueo, MX",Monarch Program,1293
+DU968,Roni Caffrey's 3rd Gr.,"Hesston, KS",09/23/98,02/20/99,"El Rosario, MX",Donahue,1293
+DU979,Roni Caffrey's 3rd Gr.,"Hesston, KS",09/23/98,02/19/99,"El Rosario, MX",Martin,1293
+YR161,Mary Clark,"Buhler, KS",09/26/98,02/17/99,"El Rosario, MX",Monarch Program,1291
+EH506,Betty Taylor,"Hutchinson, KS",09/26/98,02/17/99,"El Rosario, MX",Monarch Program,1285
+DQ466,Sharon Richardson,"Hutchinson, KS",09/19/98,02/19/99,"El Rosario, MX",Martin,1285
+BX683,Billy Jackson,"El Dorado, KS",09/17/98,03/03/99,"El Rosario, MX",LeMaster,1276
+BZ263,Billy Jackson,"El Dorado, KS",09/18/98,04/05/99,"Angangueo, MX",Monarch Program,1276
+ZN678,Charles Green,"El Dorado, KS",09/18/98,02/19/99,"El Rosario, MX",Martin,1276
+AP281,Pam Martin,"St. John, KS",09/24/98,02/19/99,"El Rosario, MX",Donahue,1276
+AP134,Pam Martin,"Stafford, KS",09/19/98,12/28/98,"El Rosario, MX",Korb,1274
+DO279,David Clement,"Andover,KS",09/23/98,03/10/99,"El Rosario, MX",Monarch Program,1265
+DO286,David Clement,"Andover,KS",09/23/98,02/17/99,"El Rosario, MX",Monarch Program,1265
+CD533,Ron Turner,"Andover,KS",10/05/98,02/17/99,"El Rosario, MX",Monarch Program,1265
+CD560,Ron Turner,"Andover,KS",10/07/98,03/11/99,"El Rosario, MX",Monarch Program,1265
+CD679,Tarni Kincaid,"Andover,KS",09/27/98,03/10/99,"El Rosario, MX",Monarch Program,1265
+BL165,Albert Brouwer,"Wichita, KS",09/16/98,04/05/99,"Angangueo, MX",Monarch Program,1263
+XZ531,"Botanica, Wichita Gardens","Wichita, KS",09/28/98,02/22/99,"El Rosario, MX",Korb,1263
+XZ934,"Botanica, Wichita Gardens","Wichita, KS",09/15/98,02/10/99,"El Rosario, MX",Korb,1263
+CQ501,Jim Mason,"Wichita, KS",09/26/98,03/01/99,"El Rosario, MX",Korb,1263
+ZO382,Karen Koch,"Wichita, KS",09/23/98,02/17/99,"El Rosario, MX",Monarch Program,1263
+DP828,Karla Jahn,"Wichita, KS",09/21/96,12/15/98,"Sierra Chincua, MX",Garcia,1263
+ZB298,Karla Jahn,"Wichita, KS",09/28/98,03/11/99,"El Rosario, MX",Monarch Program,1263
+ZB347,Karla Jahn,"Wichita, KS",09/28/98,03/03/99,"El Rosario, MX",Monarch Program,1263
+EO292,Kristin Mefford,"Wichita, KS",09/29/98,03/11/99,"El Rosario, MX",Monarch Program,1263
+EO305,Kristin Mefford,"Wichita, KS",09/28/98,02/22/99,"El Rosario, MX",Korb,1263
+EP697,Kristin Mefford,"Wichita, KS",10/01/98,03/01/99,"El Rosario, MX",Korb,1263
+EP740,Kristin Mefford,"Wichita, KS",10/01/98,03/10/99,"El Rosario, MX",Monarch Program,1263
+DK264,Tarnrny Decker,"Wichita, KS",09/30/98,04/05/99,"Angangueo, MX",Monarch Program,1263
+DK273,Tarnrny Decker,"Wichita, KS",09/30/98,02/20/99,"El Rosario, MX",Donahue,1263
+XT805,Carol Parker,"Goddard, KS",09/28/98,02/22/99,"El Rosario, MX",Korb,1259
+CH834,Paula Barker,"Derby, KS",09/24/98,02/22/99,"El Rosario, MX",Korb,1254
+CH933,Paula Barker,"Derby, KS",09/22/98,03/01/99,"El Rosario, MX",Korb,1254
+XT852,Carol Parker,"Pratt, KS",09/30/98,04/05/99,"Angangueo, MX",Monarch Program,1252
+DY436,Connie Meigs,"Pratt, KS",09/24/98,02/17/99,"El Rosario, MX",Monarch Program,1252
+DY465,Connie Meigs,"Pratt, KS",09/26/98,03/01/99,"El Rosario, MX",Korb,1252
+DY469,Connie Meigs,"Pratt, KS",09/26/98,02/22/99,"El Rosario, MX",Korb,1252
+EP671,Connie Meigs,"Pratt, KS",10/06/98,02/10/99,"El Rosario, MX",Korb,1252
+XW389,Connie Meigs,"Pratt, KS",09/17/98,02/10/99,"El Rosario, MX",Korb,1252
+EA253,Linda Koehn,"Mullinville, KS",09/29/98,04/05/99,"Angangueo, MX",Monarch Program,1246
+XS207,Anne Reusser,"Harmon Township, KS",10/03/98,03/10/99,"El Rosario, MX",Monarch Program,1234
+AK463,Tonya Van Hook,"St. Marks, FL",10/24/98,02/10/99,"El Rosario, MX",Korb,1232
+CP827,Shelly Swafford,"Harper, KS",09/23/98,02/22/99,"El Rosario, MX",Korb,1231
+BR096,Cochran,"Hugoton,KS",09/25/98,03/01/99,"El Rosario, MX",Korb,1220
+ES991,Dusty Swinney,"Hugoton,KS",10/05/98,03/03/99,"El Rosario, MX",Monarch Program,1220
+BR342,Stephanie H.,"Hugoton,KS",10/01/98,03/24/99,"El Rosario, MX",Calvert,1220
+DR498,Mike Carney,"Jenks,OK",10/08/98,02/22/99,"El Rosario, MX",Korb,1162
+AZ307,Rosemary Smith,"Guthrie,OK",10/08/98,03/01/99,"El Rosario, MX",Korb,1136
+UT680,Donna Griffin,"Butler, OK",09/26/98,02/22/99,"El Rosario, MX",Korb,1112
+HV669,Angie Huckleberry,"Bethany, OK",10/04/96,01/01/97,"Cerro Pelon, MX",Monarch Program,1111
+ZK455,Hannah Christian,"Hammon, OK",10/12/98,02/19/99,"El Rosario, MX",Donahue,1111
+ZK457,Hannah Christian,"Hammon, OK",10/12/98,12/31/98,"Sierra Chincua, MX",Rendon,1111
+ZK478,Hannah Christian,"Hammon, OK",10/15/98,03/01/99,"El Rosario, MX",Korb,1111
+AS598,Anne Michalski,"Oklahoma City, OK",10/13/98,03/24/99,"Sierra Chincua, MX",Calvert,1110
+BE132,Cassy Bouchereau,"Oklahoma City, OK",10/14/98,03/10/99,"El Rosario, MX",Monarch Program,1110
+ZH768,David Walker,"Oklahoma City, OK",10/06/98,02/22/99,"El Rosario, MX",Korb,1110
+ZH843,David Walker,"Oklahoma City, OK",10/07/98,03/10/99,"El Rosario, MX",Monarch Program,1110
+ZH984,David Walker,"Oklahoma City, OK",10/08/98,02/10/99,"El Rosario, MX",Korb,1110
+ZI015,David Walker,"Oklahoma City, OK",10/08/98,02/22/99,"El Rosario, MX",Korb,1110
+BE229,J.L. Dennis Elementary,"Oklahoma City, OK",10/12/98,03/13/99,"El Rosario, MX",Barron,1110
+BL828,Paul Southerland,"Oklahoma City, OK",10/08/98,12/28/98,"El Rosario, MX",Korb,1110
+BL833,Paul Southerland,"Oklahoma City, OK",10/08/98,02/17/99,"El Rosario, MX",Monarch Program,1110
+BM033,Paul Southerland,"Oklahoma City, OK",10/09/98,12/12/98,"El Rosario, MX",Escandon/ Garcia,1110
+BM121,Paul Southerland,"Oklahoma City, OK",10/09/98,02/19/99,"El Rosario, MX",Donahue,1110
+BD183,Pee:e:v Shirey,"Oklahoma City, OK",10/12/98,02/19/99,"El Rosario, MX",Donahue,1110
+BD229,Peggy Shirey,"Oklahoma City, OK",10/12/98,03/10/99,"El Rosario, MX",Monarch Program,1110
+BE515,Peggy Shirey,"Oklahoma City, OK",10/07/98,02/19/99,"El Rosario, MX",Donahue,1110
+BB098,Putnam City Senior High School,"Oklahoma City, OK",10/09/98,03/03/99,"El Rosario, MX",Monarch Program,1110
+BBlll,Putnam City Senior High School,"Oklahoma City, OK",10/08/98,02/17/99,"El Rosario, MX",Monarch Program,1110
+BB118,Putnam City Senior High School,"Oklahoma City, OK",10/08/98,02/22/99,"El Rosario, MX",Korb,1110
+BB604,Putnam City Senior High School,"Oklahoma City, OK",10/08/98,02/17/99,"El Rosario, MX",Monarch Program,1110
+BB838,Putnam City Senior High School,"Oklahoma City, OK",10/08/98,02/22/99,"El Rosario, MX",Korb,1110
+BC405,Putnam City Senior High School,"Oklahoma City, OK",10/11/98,02/10/99,"El Rosario, MX",Korb,1110
+QL472,Scott Martin,"Oklahoma City, OK",10/07/97,03/10/99,"El Rosario, MX",Monarch Program,1110
+BC510,Sharon Shrum,"Oklahoma City, OK",10/13/98,02/19/99,"El Rosario, MX",Donahue,1110
+BC552,Sharon Shrum,"Oklahoma City, OK",10/13/98,02/19/99,"El Rosario, MX",Donahue,1110
+AX277,Vicki Allred,"Oklahoma City, OK",10/08/98,03/01/99,"El Rosario, MX",Korb,1110
+DK548,Jim Edson,"Monticello, AR",10/11/98,03/01/99,"El Rosario, MX",Korb,1096
+DK600,Jim Edson,"Monticello, AR",10/15/98,03/03/99,"El Rosario, MX",Monarch Program,1096
+ZG854,Pat & Walter Reif,"Norman, OK",10/08/98,12/28/98,"El Rosario, MX",Korb,1095
+ZG579,Donna Rolland,"Anadarko, OK",10/12/98,02/19/99,"El Rosario, MX",Martin,1077
+DL420,Andrew Key,"Addison, TX",10/19/98,02/10/99,"El Rosario, MX",Korb,947
+DL350,Lance Hardgrave,"Addison, TX",10/15/98,02/19/99,"El Rosario, MX",Donahue,947
+DL524,Lance Hardgrave,"Addison, TX",10/15/98,02/19/99,"El Rosario, MX",Donahue,947
+NL413,Alta Montgomery,"Grapevine, TX",10/07/98,02/17/99,"El Rosario, MX",Monarch Program,942
+NL427,Alta Montgomery,"Grapevine, TX",10/10/98,02/17/99,"El Rosario, MX",Monarch Program,942
+NL429,Alta Montgomery,"Grapevine, TX",10/10/98,02/10/99,"El Rosario, MX",Korb,942
+NL491,Alta Montgomery,"Grapevine, TX",10/17/98,04/05/99,"Angangueo, MX",Monarch Program,942
+EG993,Carolyn Womack,"Grapevine, TX",10/11/98,04/05/99,"Angangueo, MX",Monarch Program,942
+EH006,Carolyn Womack,"Grapevine, TX",10/11/98,04/05/99,"Angangueo, MX",Monarch Program,942
+ZL261,Jenny Singleton,"Grapevine, TX",10/07/98,04/05/99,"Angangueo, MX",Monarch Program,942
+QO275,Donn Byrne,"Tyler, TX",10/02/98,02/10/99,"El Rosario, MX",Korb,930
+UW248,Susan Throckmorton,"Hawley, TX",10/28/98,02/20/99,"El Rosario, MX",Donahue,902
+UW325,Susan Throckmorton,"Hawley, TX",10/12/98,04/05/99,"Angangueo, MX",Monarch Program,902
+UW367,Susan Throckmorton,"Hawley, TX",10/13/98,03/10/99,"El Rosario, MX",Monarch Program,902
+UW388,Susan Throckmorton,"Hawley, TX",10/19/98,03/11/99,"Sierra Chincua, MX",Monarch Program,902
+UO592,Gary Musgrave,"Abilene, TX",10/18/98,03/10/99,"El Rosario, MX",Monarch Program,892
+US132,Gary Musgrave,"Abilene, TX",10/19/98,02/10/99,"El Rosario, MX",Korb,892
+YC355,Julia Baker,"Abilene, TX",10/03/98,03/03/99,"El Rosario, MX",Monarch Program,892
+YC692,Julia Baker,"Abilene, TX",10/17/98,02/20/99,"El Rosario, MX",Donahue,892
+YC704,Julia Baker,"Abilene, TX",10/17/98,04/05/99,"Angangueo, MX",Monarch Program,892
+ET978,"Kiri, Emily & Bryne Ulmschneider","Midland, TX",10/25/98,02/20/99,"El Rosario, MX",Donahue,872
+UK629,"Kiri, Emily & Bryne Ulmschneider","Midland, TX",10/11/98,02/10/99,"El Rosario, MX",Korb,872
+DG244,Connie Williams,"Waco, TX",10/14/98,03/10/99,"El Rosario, MX",Monarch Program,849
+ZL487,Bruce Backlund,"San Angelo, TX",10/19/98,02/10/99,"El Rosario, MX",Korb,823
+zz453,Marti Adair,"Austin, TX",10/14/98,01/29/99,"Herrada,MX",D'Acosta,791
+ZZ482,Marti Adair,"Austin, TX",10/16/98,03/10/99,"El Rosario, MX",Monarch Program,757
+CB726,Deb Williams,"Huxley, IA",09/11/98,09/26/98,"Fritch, TX",Webb,610
+ZM264,Lionel & Sylvia White,"Corpus Christi, TX",10/17/98,03/01/99,"El Rosario, MX",Korb,590
+WC113,Sondra Cabell,"Geneva, KY",09/10/98,09/30/98,"Lindsborg, KS",Linder/ Giles,546
+HA207,Rocfo Trevino,"Monterrey, NL (MX)",10/23/96,12/15/98,"Sierra Chincua, MX",Garcia,428
+DL842,Rocfo Trevino,"Saltillo, COAH (MX)",10/27/98,03/11/99,"Sierra Chincua, MX",Monarch Program,411
+DL845,Rocfo Trevino,"Saltillo, COAH (MX)",10/27/98,03/11/99,"Sierra Chincua, MX",Monarch Program,411
+DL958,Rocfo Trevino,"Saltillo, COAH (MX)",10/30/98,02/19/99,"El Rosario, MX",Donahue,411
+DM021,Rocfo Trevino,"Saltillo, COAH (MX)",11/03/98,03/10/99,"El Rosario, MX",Monarch Program,411
+WC309,John Bowe,"Northampton, MA",09/27/98,10/08/98,"Chincoteague, VA",AINS,334
+NW260,Mary Koes,"Potsdam, NY",09/11/98,09/23/98,"Drums,PA",Denke,257
+YY967,Carol Fuller,"Tupper Lake, NY",09/18/98,09/22/98,"Westhampton Bch, NY",Dermody,252
+zzo5o,Norma Snow,"West Hartford, CT",08/24/98,08/29/98,"Camp Hill, PA",Hibner,242
+WE923,Chris Higley,"Storrs, CT",09/16/98,10/06/98,"Oxford, PA",Quillin,240
+CF842,David Walton,"Mankato,KS",09/24/98,10/02/98,"Dodge City, KS",McCollough,171
+CC501,Frank Taylor,"Radford, VA",09/25/98,10/30/98,"Marion,NC",Carson,167
+ZF048,Rosemary Thornton,"Lincoln, NE",09/24/98,10/05/98,"Paullina, IA",Gehlsen,158
+NQ674,Glenda Jordan,"Clinton, MD",09/27/98,09/30/98,"Sweet Briar, VA",Cambell,145
+WK015,Lynn Frazier,"Columbia, CT",09/15/98,09/21/98,"Morris Plains, NJ",Murray,128
+AXll0,Sharon Shrum,"Oklahoma City, OK",09/12/98,09/19/98,"Wichita Falls, TX",Bell,122
+EA219,William & Stephen Kustka,"Marlboro Twnshp, NJ",10/07/98,10/20/98,"Cape May Point, NJ",Sutton,103
+EA219,William & Stephen Kustka,"Marlboro Twnshp, NJ",10/07/98,10/20/98,"Cape May Point, NJ",Zemaitis,103
+yy979,William Ferguson,"Jersey Shore, PA",08/29/98,09/19/98,"Carlisle, PA",Horn,69
+WT327,Marie Thieriung,"Norfolk, VA",09/11/98,09/26/98,"Prince George, VA",Hargrave,61
+CO014,Bonnie Smith,"Haddonfield, NJ",10/07/98,10/11/98,"Stone Harbor, NJ",Wechsler,60
+WF598,Mary Ann Manaresi,"Tuckerton, NJ",09/23/98,09/30/98,"Cape May Point, NJ",Zemaitis,57
+WG394,Kathy Jewett,"Portland, ME",09/11/98,09/16/98,"Portsmouth, NH",Mirick,51
+EZ366,J. Soehnlein,"Beloit, WI",10/23/98,11/01/98,"Rochelle, IL",Hadaway,42
+ZM182,Harlen Aschen,"Victoria, TX",11/22/98,11/23/98,"Port Lavaca, TX",Nolen,26
+UW915,Jenny Singleton,"Grapevine, TX",10/16/98,11/26/98,"Garland, TX",Maher,26
+xc447,Kathryn Wedge,"Neenah, WI",09/03/98,,"New Holstein, WI",Pfiel,24
+YN243,Jan Welsh,"Chanhassen, MN",08/15/98,08/18/98,"St. Paul,MN",Lund,23
+DB773,Cindy Peterson,"Chanhassen, MN",10/08/98,10/10/98,"Brooklyn Center, MN",Hagstrom,19
+WM633,Marlene Dyer,"Southampton, PA",09/19/98,09/20/98,"Philadelphia, PA",McCloskey,13
+NK068,Karen Oberhauser,,,09/28/98,"Buffalo, TX",Gee,
+XZ846,"Botanica, Wichita Gardens",,,12/30/98,"El Rosario, MX",Garcia,
+MW320,Sarah Dalton,,,02/10/99,"El Rosario, MX",Korb,
+BF679,Robin Grasmick,,,02/19/99,"El Rosario, MX",Donahue,
+CQ406,Harry Gregory,,,03/03/99,"El Rosario, MX",Monarch Program,
+OL470,Craig Hensley,,,02/17/99,"El Rosario, MX",Monarch Program,
+BF077,Bob Melton,,,12/28/98,"El Rosario, MX",Korb,
+DA348,Mary Oberg,,,03/01/99,"El Rosario, MX",Korb,
+DA382,Mary Oberg,,,03/01/99,"El Rosario, MX",Korb,
+NK076,Karen Oberhauser,,,02/10/99,"El Rosario, MX",Korb,
+SK300,Lucy White,,,02/19/99,"El Rosario, MX",Donahue,
+CB963,Judy Younger,,,04/05/99,"Angangueo, MX",Monarch Program,
