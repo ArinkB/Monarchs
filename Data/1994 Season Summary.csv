@@ -6,7 +6,7 @@ LaFayette C Grant
 Grimshaw School
 1742 Clark Hollow
 Rd. LaFayette, NY
-13084",,8 m
+13084",,8
 134LK,"Bette
 Crowningshield's
 Class
@@ -16,7 +16,7 @@ Base",19-Sep,25-Sep,"Plattsburgh Air
 Force Base","J.Terleski
 5316A Mississippi
 Plattsburgh AFB NY.
-12901",6 d,0 m
+12901",6 d,0
 945KX,"Stephani Bozek
 Coralville Central
 Elem. Students
@@ -25,7 +25,7 @@ Coralville, IA",F,"Kent Park, IA",10-Sep,29-Sep,"Mexico, MO","Randy's
 Meats
 310 W. Monroe
 Mexico, MO.
-65265",19 d,170 m
+65265",19 d,170
 283LJ,"Dave Bowman
 Carroll Middle
 School
@@ -33,12 +33,12 @@ School
 Carroll, IA 51401",M,"Carroll, IA",19-Sep,20-Sep,"Carroll, IA","LaVerne
 Korwes
 905 Woodland Dr.
-Carroll, IA 51401",1 d,0 m
+Carroll, IA 51401",1 d,0
 237AQ,"Donna Cooper
 2906 Walnut
 Hays, KS 67601",M,"Hays, KS",21-Sep,21-Sep,"Hays, KS","Traci Henning
 2208 Haney
-Hays, KS. 67601",0 d,0 m
+Hays, KS. 67601",0 d,0
 668KY,"Mary Cecil
 1315 41st
 DesMoines, IA
@@ -49,7 +49,7 @@ Des Moines, IA","Fisher/Harrop
 North High
 501 Holocomb Ave.
 Des Moines, IA.
-50313-4955",7 d,0 m
+50313-4955",7 d,0
 873LT,"Paula Donham
 Frontier Trail Jr.
 High School, Olathe,
@@ -58,7 +58,7 @@ KS",15-Sep,18-Sep,"5mile east of
 Drexel, MO","Juanita Kimbrough
 Rt.1 Box 95
 Drexel, MO
-64742",3 d,40 m
+64742",3 d,40
 824KF,"Lee Zieke Lee
 15m N.of Decorah, IA","F/
 M*","15m N.
@@ -66,12 +66,12 @@ Decorah,
 IA",6-Sep,11-Sep,"Dyersville, IA","June Naber
 139 15th Ave.
 Dyersville, IA
-52040",5 d,100 m
+52040",5 d,100
 666KO,"Bob Barber,
 Wichita, KS",F,"Wichita,
 KS",5-Sep,6-Sep,"Wichita, KS","Mary Harris
 411 S Bleckley
-Wichita, KS 67218",1 d,0 m
+Wichita, KS 67218",1 d,0
 185KX,"teachers
 Kansas City, MO
 tag issued to Karen
@@ -81,7 +81,7 @@ MO","Theron and Georgene
 Swank
 4545 Wornell Rd.
 #407 Kansas City,
-MO.  64111",,0 m
+MO.  64111",,0
 701ME,"Ken Brown
 Adirondack Park
 Visitors Interpretive
@@ -90,7 +90,7 @@ NY",NA,"Paul
 Smiths,
 NY.",24-Sep,28-Sep,a lake 1m away,"Curt Stager
 Paul Smith College,
-Paul Smith, NY",4 d,1 m
+Paul Smith, NY",4 d,1
 196KX,"issued to Karen
 Oberhauser
 transferred to teacher
@@ -104,7 +104,7 @@ N","Charlotte
 Gervais, 3845
 Pillsbury Ave. South,
 Minneapolis, MN.
-55409",,
+55409",,0
 828KW,"Randy Edmunson
 Mounds Park Acad.
 2051 E. Larpenteur
@@ -112,7 +112,7 @@ Ave. St. Paul, MN.
 55109",F,"Maplewoo
 d, MN.",19-Sep,17-Sep,"St. Paul, MN","John Dougherty 2051
 E. Fifth St. Saint Paul,
-MN.  55119",2 d,0 m
+MN.  55119",2 d,8
 608LJ,"Nancy Smith, Essex
 Junction High School,
 Educational
@@ -122,28 +122,28 @@ Junction,
 VT",26-Sep,1-Oct,"Essex Jct., VT","Randi McCuin
 35 Thasha Lane
 Apt. C3
-Essex Jct., VT 05452",6 d,0 m
+Essex Jct., VT 05452",6 d,0
 722LJ,same as above,F,"Essex
 Junct., VT",4-Oct,7-Oct,"Sunset Place
 Condominiums,
 Essex Junction,
 VT","Kurr Mandigo
 16 Wrisley Ct. Essex
-Junction, VT",3 d,0 m
+Junction, VT",3 d,0
 425LG,"Sam Galoob
 11500 Imperial,
 Norman, OK 73071",F,"Norman,
 OK",29-Sep,14-Oct,"Amber, OK","Vicki Jackson Amber
 Pocasset Public
 Schools P.O. Box 88,
-Amber, OK  73004",15 d,28 m
+Amber, OK  73004",15 d,28
 374ME,"Douglas Heath
 4501 Onondaga Blvd.
 Westhill High School
 Syracuse, NY 13219",F,"Syracuse,
 NY",17-Oct,3-Nov,"Jamesville, NY","Linda White, 6465 E.
 Seneca Turnpike,
-Jamesville, NY  13078",17 d,5 m
+Jamesville, NY  13078",17 d,5
 636LA,"Stephane Le Tirant
 Insectarium de
 Montreal, 4581
@@ -156,7 +156,7 @@ Quebec,
 Canada",21-Sep,23-Oct,"Lake George,
 NY","Mrs. Frederick P.O.
 Box 287, Lake
-George, NY  12845",32 d,150 m
+George, NY  12845",32 d,150
 889KW,"Randee Edmunson,
 Mounds Park
 Academy, 2051 E.
@@ -165,14 +165,14 @@ Paul, MN.  55109",M,"Maplewoo
 d, MN",16-Sep,,"St. Paul, MN","J. Gfrerer
 5157 Upton Ave. S.
 Minneapolis, MN
-55410",,10 m
+55410",,10
 483KH,"James Adams
 1702 Crow Valley
 Rd. Dalton, GA.
 30720",F,"Dalton, GA",18-Oct,20-Oct,"Dalton, GA","Blake Floyd, 1702
 Crow Valley Rd. Apt.
 410 Dalton, GA.
-30720",2 d,0 m
+30720",2 d,0
 583LG,"Denise Everett
 1402 Magnolia
 St.,Norman, OK
@@ -180,27 +180,27 @@ St.,Norman, OK
 OK",21-Sep,9-Oct,"Norman, OK","Mrs. Cantrell's class,
 Cleveland School 500
 N. Sherry, Norman,
-OK  73069",18 d,0 m
+OK  73069",18 d,0
 290MK,"Mary Liz Jameson
 W436 Nebraska Hall
 Lincoln, NE.  68588",F,"Lincoln,
 NE",10-Oct,12-Oct,"Lincoln, NE","Emily Brinton 1626
 Arapahoe St.,
-Lincoln, NE  68502",2 d,0 m
+Lincoln, NE  68502",2 d,0
 281MC,"Alexandra Gerson
 32 Maple St., Rouses
 Pt., NY 12979",M,"Rouses Pt.,
 NY",23-Oct,29-Oct,"Champlain, NY","M. Bernard 807
 Hayford Rd
 Champlain, NY
-12919",6 d,4  m
+12919",6 d,4
 960KP,"Jane McDonald's
 class Oil Hill School
 2700 W. 6th, El
 Dorado, KS. 67042",M,"El Dorado,
 KS",28-Oct,2-Nov,"El Dorado, KS","Pat Anderson 520
 School Rd., El
-Dorado, KS 67042",5 d,0 m
+Dorado, KS 67042",5 d,0
 351LA,"Priscilla Hugick
 RD1Box149
 Richfield Springs, NY
@@ -209,13 +209,13 @@ Springs,
 NY",4-Oct,24-Oct,"Stamford, NY","Barbara W. Walling
 Stamford Central
 School, 1 River St.,
-Stamford, NY 12167",20 d,40 m SE
+Stamford, NY 12167",20 d,40
 296MG,"Rick Mickula
 147 W. Carleton Ave.
 Hazleton, PA  18201",NA,"Gettysburg,
 PA.",17-Oct,31-Oct,"New Paris, PA","Mark E. Wiley II, RD
 #1 New Paris, PA
-15554",14  d,
+15554",14  d,100
 103LX,"Ron Marteney
 Kansas Dept. of
 Wildlife and Parks
@@ -226,7 +226,7 @@ County,
 KS",26-Sep,"Feb.
 '95","Angangueo,
 Mexico","found dead at El
-Rosario roost",5 m,1350 m
+Rosario roost",5 m,1350
 868LA,"Jess George, 173
 Willie Rd.
 Gloversville, NY
@@ -235,7 +235,7 @@ e, NY",15-Oct,,"Nagatuck,
 Conn.","Wayne Goss
 26 Warren Ave.
 Naugatuck, Conn.
-06770",,130 m
+06770",,130
 082KZ,"Greg Munson
 Quarry Hill Nature
 Center, Rochester,
@@ -245,14 +245,14 @@ ed)","Rochester,
 MN",8-Sep,"Mar.
 '95","Angangueo,
 Mexico","found dead at El
-Rosario roost",6 m,1970 m
+Rosario roost",6 m,1970
 801KF,"Lee Ziecke Lee, 15 m
 north of Decorah, IA.",F,"15 m north
 of Decorah,
 IA.",1-Sep,"Mar.
 '95","Angangueo,
 Mexico","found dead at El
-Rosario roost",6 m,1930 m
+Rosario roost",6 m,1930
 687KJ,"Carlene Jones,
 Spotswood Elem.,
 Fredericksburg, VA.
@@ -262,7 +262,7 @@ ed)","Fredericks-
 burg, VA",16-Sep,"Mar.
 '95","Angangueo,
 Mexico","found dead at El
-Rosario",6 m,2210 m
+Rosario",6 m,2210
 858KU,"Ann Burns
 201 W. Platt
 Maquoketa, IA.
@@ -270,7 +270,7 @@ Maquoketa, IA.
 , IA",8-Sep,"Mar.
 '95","Angangueo,
 Mexico","found dead at El
-Rosario",6 m,1850 m
+Rosario",6 m,1850
 835KQ,"John Skuban/ Terry
 Callender, Wamego
 High School, 801
@@ -280,7 +280,7 @@ KS",8-Sep,"Feb.-
 Mar.
 '95","Angangueo,
 Mexico","found dead  at
-Chinqua  roost",6 m,1570 m
+Chinqua  roost",6 m,1570
 842LT,"Paula Donham/
 Carol Williamson,
 Frontier Trail Jr.
@@ -289,7 +289,7 @@ High, Olathe, KS.
 F*","Olathe, KS",15-Sep,"Mar.
 '95","Angangueo,
 Mexico","found dead at EL
-Rosario",6 m,1550 m
+Rosario",6 m,1550
 217LD,"Rocio Carrera
 Buena Vista,
 Coahuila, Mex.",M,"Buena
@@ -301,9 +301,7 @@ Mar.
 TX.","Beatrice Baker 2009
 E. Wheeler Portobelo
 Village 121, Aransas
-Pass, TX.  78336",5 m,"420 m
-S***
-650N"
+Pass, TX.  78336",5 m,420
 986LG,"Al Neufeld,
 Moundridge, H.S.,
 Moundridge, KS.
@@ -311,4 +309,4 @@ Moundridge, KS.
 e, KS.",16-Sep,"Mar.
 '95","Angangueo,
 Mexico","found dead in El
-Rosario roost",6 m,1480 m
+Rosario roost",6 m,1480
