@@ -5,14 +5,14 @@ __pycache__/
 
 # Folders
 original pdf/
-Data/Monarchs2001.csv
-Data/Monarchs2000.csv
-Data/Monarchs1999.csv
-Data/Monarchs1998.csv
-Data/Monarchs1997.csv
-Data/Monarchs1996.csv
-Data/Monarchs1995.csv
-Data/Monarchs1994.csv
+Data/csv/Monarchs2001.csv
+Data/csv/Monarchs2000.csv
+Data/csv/Monarchs1999.csv
+Data/csv/Monarchs1998.csv
+Data/csv/Monarchs1997.csv
+Data/csv/Monarchs1996.csv
+Data/csv/Monarchs1995.csv
+Data/csv/Monarchs1994.csv
 
 
 # C extensions
