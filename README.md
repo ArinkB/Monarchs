@@ -9,13 +9,13 @@ In this project, I gathered Monarch Tagging and Reporting data from MonarchWatch
 ### Steps to Accomplish:
 
 - [x] Create ReadMe file to explain plan 
-- [ ] Import all necessary packages
+- [x] Import all necessary packages
 - [x] Use tabula.app to convert pdf data to csv
 - [x] Database cleanup & export to csv for each year individually
 - [x] Create Monarch Migration database
-- [ ] Use SQL and pandas to aggregate data
-- [ ] Visualize travel and numbers using plot.ly and Power BI
-- [ ] Update ReadMe to futher explain varifications, language etc.
+- [x] Use SQL and pandas to aggregate data
+- [x] Visualize travel and numbers using plot.ly and Power BI
+- [x] Update ReadMe to futher explain varifications, language etc.
 
 ### Dependencies
 
