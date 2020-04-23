@@ -28,7 +28,7 @@ https://monarchwatch.org/read/seasum.html
 
 Jim Lovett <jlovett@ku.edu> Originator, Research Assistant - Monarch Watch, University of Kansas 
 
-Photos are my own and property of <a href= "www.doctordewitt.com">Robert H. DeWitt, D.D.S., P.C.</a>
+Photos are my own and property of <a href= "https://www.doctordewitt.com/">Robert H. DeWitt, D.D.S., P.C.</a>
 
 ### Instructions for:
 - <a href="https://tabula.technology/">Tabula</a>
