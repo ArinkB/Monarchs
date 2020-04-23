@@ -24,14 +24,14 @@ In this project, I gathered Monarch Tagging and Reporting data from MonarchWatch
 - Microsoft Power BI
 
 ### Sources & Contacts
-https://monarchwatch.org/read/seasum.html
+<a href="https://monarchwatch.org/read/seasum.html"  target="_blank"> Monarch Watch </a>
 
 Jim Lovett <jlovett@ku.edu> Originator, Research Assistant - Monarch Watch, University of Kansas 
 
-Photos are my own and property of <a href= "https://www.doctordewitt.com/">Robert H. DeWitt, D.D.S., P.C.</a>
+Photos are my own and property of <a href= "https://www.doctordewitt.com/" target="_blank">Robert H. DeWitt, D.D.S., P.C.</a>
 
 ### Instructions for:
-- <a href="https://tabula.technology/">Tabula</a>
+- <a href="https://tabula.technology/" target="_blank">Tabula</a>
     - Follow download instructions
     - Launch app (new window/tab will open in browser)
     - Import PDF you are trying to extract table out of
@@ -39,7 +39,7 @@ Photos are my own and property of <a href= "https://www.doctordewitt.com/">Rober
     - Select <i>Preview & Export Extracted Data</i>
     - Review your table format, choose export format and click <i>Export</i>.
 
-- <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494">Power BI Desktop</a>
+- <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank">Power BI Desktop</a>
     - Follow download instructions
     - Launch app 
     - You do not need to log in or have an account. Account is needed if you wanted to save to cloud and publish dashboards.
@@ -51,7 +51,7 @@ Photos are my own and property of <a href= "https://www.doctordewitt.com/">Rober
     - You can change the settings and colors of the visualization by clicking the paint roller
         - Visualization I used:
             - Filled map (preinstalled)
-            - <a href="https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380901?tab=Overview"> Flowmap(Downloaded)</a>
+            - <a href="https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380901?tab=Overview" target="_blank"> Flowmap(Downloaded)</a>
 
-    - <a href = "https://www.youtube.com/watch?v=xR8tplcUb1w"> Pragmatic Works</a> has a great video on how to use the Flow Map visual
-    - I learned the basics of Power BI from Rebecca Hollenbach of Kentuckiana Works on Open Data Day 2020, click <a href="https://docs.google.com/presentation/d/1TQMmUkbfbpTw6SdoJ_QMTTGmMAsZBEkjmQDPqx3K3J0/edit?usp=sharing">here</a> to access her slides from her presentation.
+    - <a href = "https://www.youtube.com/watch?v=xR8tplcUb1w" target="_blank"> Pragmatic Works</a> has a great video on how to use the Flow Map visual
+    - I learned the basics of Power BI from Rebecca Hollenbach of Kentuckiana Works on Open Data Day 2020, click <a href="https://docs.google.com/presentation/d/1TQMmUkbfbpTw6SdoJ_QMTTGmMAsZBEkjmQDPqx3K3J0/edit?usp=sharing" target="_blank">here</a> to access her slides from her presentation.
