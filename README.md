@@ -35,8 +35,23 @@ Photos are my own and property of <a href= "www.doctordewitt.com">Robert H. DeWi
     - Follow download instructions
     - Launch app (new window/tab will open in browser)
     - Import PDF you are trying to extract table out of
-    - Choose Autodetect Tables, or you can manual create a box around your tables (autodetected tables can be adjusted)
-    - Select Preview & Export Extracted Data
-    - Review your table format, choose export format and click Export.
+    - Choose <i>Autodetect Tables</i>, or you can manual create a box around your tables (autodetected tables can be adjusted)
+    - Select <i>Preview & Export Extracted Data</i>
+    - Review your table format, choose export format and click <i>Export</i>.
 
 - <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494">Power BI Desktop</a>
+    - Follow download instructions
+    - Launch app 
+    - You do not need to log in or have an account. Account is needed if you wanted to save to cloud and publish dashboards.
+    - Select <i>Get data</i> to import CSV/excel etc (pkl does not work) & <i>Load</i>
+    - If any adjustments need to be made to data (creating new columns, finding sums, etc.) click <i>Transform Data</i> to open Power Query Editor
+    - When all adjustments are made select <i>Close & Apply </i>
+    - With the <i> Report </i> tab selected (looks like bar graph) you can choose your visualization (on right)
+    - Under "Fields" are your columns from your csv, drag and drop into visualization box to view.
+    - You can change the settings and colors of the visualization by clicking the paint roller
+        - Visualization I used:
+            - Filled map (preinstalled)
+            -<a href="https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380901?tab=Overview"> Flowmap(Downloaded)</a>
+
+    - <a href = "https://www.youtube.com/watch?v=xR8tplcUb1w"> Pragmatic Works</a> has a great video on how to use the Flow Map visual
+    - I learned the basics of Power BI from Rebecca Hollenbach of Kentuckiana Works on Open Data Day 2020, click <a href="https://docs.google.com/presentation/d/1TQMmUkbfbpTw6SdoJ_QMTTGmMAsZBEkjmQDPqx3K3J0/edit?usp=sharing">here</a> to access her slides from her presentation.
