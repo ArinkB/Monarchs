@@ -51,7 +51,7 @@ Photos are my own and property of <a href= "www.doctordewitt.com">Robert H. DeWi
     - You can change the settings and colors of the visualization by clicking the paint roller
         - Visualization I used:
             - Filled map (preinstalled)
-            -<a href="https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380901?tab=Overview"> Flowmap(Downloaded)</a>
+            - <a href="https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380901?tab=Overview"> Flowmap(Downloaded)</a>
 
     - <a href = "https://www.youtube.com/watch?v=xR8tplcUb1w"> Pragmatic Works</a> has a great video on how to use the Flow Map visual
     - I learned the basics of Power BI from Rebecca Hollenbach of Kentuckiana Works on Open Data Day 2020, click <a href="https://docs.google.com/presentation/d/1TQMmUkbfbpTw6SdoJ_QMTTGmMAsZBEkjmQDPqx3K3J0/edit?usp=sharing">here</a> to access her slides from her presentation.
