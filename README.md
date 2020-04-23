@@ -24,7 +24,7 @@ In this project, I gathered Monarch Tagging and Reporting data from MonarchWatch
 - Microsoft Power BI
 
 ### Sources & Contacts
-<a href="https://monarchwatch.org/read/seasum.html"  target="_blank"> Monarch Watch </a>
+<a href="https://monarchwatch.org/read/seasum.htm" target="_blank" rel="noopener noreferrer"> Monarch Watch </a>
 
 Jim Lovett <jlovett@ku.edu> Originator, Research Assistant - Monarch Watch, University of Kansas 
 
