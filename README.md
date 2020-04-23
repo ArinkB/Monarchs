@@ -46,7 +46,7 @@ Photos are my own and property of <a href= "https://www.doctordewitt.com/">Rober
     - You do not need to log in or have an account. Account is needed if you wanted to save to 
     cloud and publish dashboards.
     - Select <i>Get data</i> to import CSV/excel etc (pkl does not work) & <i>Load</i>
-    - If any adjustments need to be made to data (creating new columns, finding sums, etc.) click <i>Transform Data</i> to open Power Query Editor
+    - If any adjustments need to be made to data (creating new columns, finding sums, etc.) click <i>Transform Data</i> to open Power         Query Editor
     - When all adjustments are made select <i>Close & Apply </i>
     - With the <i> Report </i> tab selected (looks like bar graph) you can choose your visualization (on right)
     - Under "Fields" are your columns from your csv, drag and drop into visualization box to view.
