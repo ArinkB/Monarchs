@@ -28,7 +28,7 @@ In this project, I gathered Monarch Tagging and Reporting data from MonarchWatch
 
 Jim Lovett <jlovett@ku.edu> Originator, Research Assistant - Monarch Watch, University of Kansas 
 
-Photos are my own and property of <a href= "https://www.doctordewitt.com/" target="_blank">Robert H. DeWitt, D.D.S., P.C.</a>
+Photos are my own and property of <a  target="_blank" rel="noopener noreferrer" href= "https://www.doctordewitt.com/">Robert H. DeWitt, D.D.S., P.C.</a>
 
 ### Instructions for:
 - <a href="https://tabula.technology/" target="_blank">Tabula</a>
